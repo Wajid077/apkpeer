@@ -1,0 +1,80 @@
+{
+  "slug": "whatsapp-business",
+  "name": "WhatsApp Business",
+  "shortName": "WhatsApp Business",
+  "packageName": "com.whatsapp.w4b",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "WhatsApp LLC",
+    "slug": "whatsapp-llc",
+    "url": "https://www.whatsapp.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
+  "officialUrl": "https://business.whatsapp.com/",
+  "price": "Free",
+  "containsAds": null,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "2.26.42.74",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-31",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
+    "changelog": [
+      "Regular update with bug fixes, performance optimization and experience improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/whatsapp-business/icon.webp",
+  "summary": "WhatsApp Business is the free WhatsApp app for small businesses, adding a business profile, product catalog, quick replies, automated greetings and chat labels. The latest WhatsApp Business APK is version 2.26.42.74, updated October 31, 2026, and needs Android 6.0 or newer. It's free; optional paid features are sold in-app.",
+  "metaDescription": "Get the official WhatsApp Business APK 2.26.42.74 for Android 6.0+. Business profile, catalog and quick replies: how it differs from WhatsApp, plus setup.",
+  "primaryKeyword": "whatsapp business apk",
+  "secondaryKeywords": [
+    "whatsapp business download",
+    "whatsapp business vs whatsapp",
+    "whatsapp business app"
+  ],
+  "alternatives": [
+    "whatsapp",
+    "telegram",
+    "instagram"
+  ],
+  "faq": [
+    {
+      "q": "How do I install WhatsApp Business on Android?",
+      "a": "Open Google Play, search for WhatsApp Business and check the developer is WhatsApp LLC before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from WhatsApp LLC and may be altered, so the safest way to use WhatsApp Business is the official listing."
+    },
+    {
+      "q": "What is the difference between WhatsApp and WhatsApp Business?",
+      "a": "Both are free and made by WhatsApp LLC, and they share the same chats and encryption. WhatsApp Business adds tools for selling: a business profile with hours and address, a product catalog, quick replies, automatic greeting and away messages, and chat labels. Customers message you from regular WhatsApp."
+    },
+    {
+      "q": "Is WhatsApp Business free?",
+      "a": "Yes, the WhatsApp Business app is free to download and use. Some optional extras are paid, which is why Google Play lists in-app purchases ranging from $0.29 to $4,789.99. Large companies that need automated messaging at scale use the separate WhatsApp Business Platform instead."
+    },
+    {
+      "q": "Can I use WhatsApp and WhatsApp Business on the same phone?",
+      "a": "Yes, as long as each app uses a different phone number. Many people run personal WhatsApp on one SIM and WhatsApp Business on another. You can also verify WhatsApp Business with a landline number, receiving the code by phone call instead of SMS."
+    },
+    {
+      "q": "Can I move my WhatsApp account to WhatsApp Business?",
+      "a": "Yes. When you set up WhatsApp Business with the same number your personal WhatsApp uses, the app offers to move your chat history over. After that, the number works in WhatsApp Business only. Back up your chats in WhatsApp first, just in case."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
+    "https://business.whatsapp.com/",
+    "https://www.whatsapp.com/legal/privacy-policy"
+  ],
+  "oldUrls": []
+}

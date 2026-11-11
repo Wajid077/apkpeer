@@ -1,0 +1,79 @@
+{
+  "slug": "tiktok-lite",
+  "name": "TikTok Lite - Save Data & Fast",
+  "shortName": "TikTok Lite",
+  "packageName": "com.zhiliaoapp.musically.go",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "TikTok Pte. Ltd.",
+    "slug": "tiktok-pte-ltd",
+    "url": "https://www.tiktok.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go",
+  "officialUrl": "https://www.tiktok.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go&gl=ID",
+    "changelog": [
+      "Performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/tiktok-lite/icon.webp",
+  "summary": "TikTok Lite is TikTok Pte. Ltd.'s smaller, data-saving version of TikTok for watching short videos on low-cost phones and slow connections. Google Play lists the TikTok Lite APK version as \"Varies with device\", updated October 28, 2026. It's free with ads and in-app purchases, and isn't offered in every country.",
+  "metaDescription": "Get the official TikTok Lite APK for Android, updated October 28, 2026. How it differs from TikTok, data saving, country availability, install steps.",
+  "primaryKeyword": "tiktok lite apk",
+  "secondaryKeywords": [
+    "tiktok lite download",
+    "tiktok lite app",
+    "tiktok lite vs tiktok"
+  ],
+  "alternatives": [
+    "tiktok",
+    "facebook-lite",
+    "youtube"
+  ],
+  "faq": [
+    {
+      "q": "How do I install TikTok Lite on Android?",
+      "a": "Open Google Play, search for TikTok Lite and check the developer is TikTok Pte. Ltd. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from TikTok Pte. Ltd. and may be altered, so the safest way to use TikTok Lite is the official listing."
+    },
+    {
+      "q": "What's the difference between TikTok and TikTok Lite?",
+      "a": "TikTok Lite is smaller, uses less storage and mobile data, and runs better on low-cost phones. It focuses on watching videos. Some creation tools, effects and features available in the full TikTok app are limited or missing."
+    },
+    {
+      "q": "Why can't I find TikTok Lite on Google Play?",
+      "a": "TikTok Lite is only offered in some countries. If it doesn't appear in your Google Play, it isn't available in your region. We read its details from Google Play in Indonesia. In those countries, use the full TikTok app instead."
+    },
+    {
+      "q": "Does TikTok Lite use the same account as TikTok?",
+      "a": "Yes. You log in with the same TikTok account, so your followers, likes and the people you follow are the same in both apps."
+    },
+    {
+      "q": "Is TikTok Lite safe for kids?",
+      "a": "TikTok Lite is rated 12+ in Indonesia's Play store. TikTok requires users to be at least 13, applies stricter defaults to teen accounts, and offers Family Pairing so parents can manage screen time and content settings."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go",
+    "https://www.tiktok.com/"
+  ],
+  "oldUrls": []
+}

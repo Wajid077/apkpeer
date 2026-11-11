@@ -1,0 +1,37 @@
+## How to remove duplicate lines
+
+1. Paste your list into the **Input** box, one item per line.
+2. Choose your options: **Trim spaces**, **Ignore case** and **Remove empty lines**.
+3. The cleaned list appears instantly, with a count of how many lines were removed.
+4. Tap **Copy result**.
+
+The first time a line appears it's kept in its original position, and every later copy is removed.
+
+## When duplicates sneak in
+
+Duplicate lines are common in:
+
+- **Email and contact lists** merged from several sources.
+- **Keyword lists** gathered from different research tools.
+- **Exported data** from spreadsheets, logs and apps.
+- **Lists of links** collected over time.
+
+Often the "duplicates" aren't quite identical. One copy might have a space at the end, or a capital letter at the start. That's what the options are for:
+
+| Option | Treats these as the same |
+| --- | --- |
+| Trim spaces | "apple" and "apple " |
+| Ignore case | "Apple" and "apple" |
+| Remove empty lines | Drops blank lines completely |
+
+With Ignore case on, the version that appears first is the one that's kept, so put the spelling you prefer at the top.
+
+## Tips
+
+- To sort the cleaned list alphabetically, paste the result into the [sort lines](/tools/sort-lines) tool.
+- If your items are separated by commas instead of lines, use [find and replace](/tools/find-and-replace) to replace ", " with a new line first, or tick its regular expression option and replace `,\s*` with `\n`.
+- Spreadsheet data can include invisible characters such as non-breaking spaces. Running it through [remove extra spaces](/tools/remove-extra-spaces) first helps duplicates match.
+
+## Your data stays private
+
+The list is processed in your browser and never uploaded, which matters when it contains email addresses or customer names. Close the page and the data is gone.

@@ -1,0 +1,37 @@
+## How to find and replace text
+
+1. Paste your text into the **Input** box.
+2. Type what to look for in **Find** and the new text in **Replace with**.
+3. Choose options: **Match case**, **Whole words** or **Regular expression**.
+4. Check the replacement count, then copy the result.
+
+The result updates as you type, so you can see exactly what will change before you copy it.
+
+## Options explained
+
+| Option | Effect | Example |
+| --- | --- | --- |
+| Match case | "Apple" won't match "apple" | Replacing a brand name only where it's capitalized |
+| Whole words | "cat" won't match "category" | Renaming a word without breaking longer words |
+| Regular expression | Use patterns instead of plain text | Removing all numbers, reformatting dates |
+
+## Regular expression examples
+
+| Find | Replace with | What it does |
+| --- | --- | --- |
+| `\d+` | (empty) | Removes all numbers |
+| `\s{2,}` | a single space | Collapses runs of spaces |
+| `(\w+)@(\w+)` | `$1 at $2` | Rewrites email-style text |
+| `^` | `- ` | Adds a dash at the start of every line (tick Regular expression) |
+
+In the replacement, `$1`, `$2` and so on insert the text matched by the first, second and later groups in parentheses. If a pattern isn't valid, the tool shows an error instead of changing your text.
+
+## Everyday uses
+
+- Updating a product name, price or date throughout a document.
+- Removing tracking codes such as `?utm_source=` from a list of links.
+- Turning a comma-separated list into lines, ready for the [sort lines](/tools/sort-lines) tool.
+
+## Private and safe
+
+The text never leaves your browser, so you can use it with contracts, code and other private material.

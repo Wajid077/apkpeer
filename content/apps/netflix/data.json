@@ -1,0 +1,79 @@
+{
+  "slug": "netflix",
+  "name": "Netflix",
+  "shortName": "Netflix",
+  "packageName": "com.netflix.mediaclient",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "Netflix, Inc.",
+    "slug": "netflix-inc",
+    "url": "https://www.netflix.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+  "officialUrl": "https://www.netflix.com/",
+  "price": "Free",
+  "containsAds": null,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/netflix/icon.webp",
+  "summary": "Netflix is the official app for streaming Netflix series, films, documentaries, live events and games on Android. Google Play lists the Netflix APK version as \"Varies with device\", updated November 3, 2026. The app is free to install, but watching needs a paid Netflix membership, including an ad-supported plan in some countries.",
+  "metaDescription": "Get the official Netflix APK for Android, updated November 3, 2026. Plans, offline downloads, profiles and parental controls, and install steps.",
+  "primaryKeyword": "netflix apk",
+  "secondaryKeywords": [
+    "netflix app download",
+    "netflix for android",
+    "netflix downloads offline"
+  ],
+  "alternatives": [
+    "youtube",
+    "jiohotstar",
+    "iqiyi"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Netflix on Android?",
+      "a": "Open Google Play, search for Netflix and check the developer is Netflix, Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Netflix, Inc. and may be altered, so the safest way to use Netflix is the official listing."
+    },
+    {
+      "q": "Is the Netflix app free?",
+      "a": "The app is free to install, but you need a paid Netflix membership to watch. Plans and prices depend on your country, and some countries have a cheaper Standard with ads plan. Netflix sign-up is usually done on the Netflix website rather than through Google Play."
+    },
+    {
+      "q": "Can I download Netflix shows to watch offline?",
+      "a": "Yes, on most plans. Tap the download button on a supported title. Downloads expire after a set time and there are limits on how many you can keep. Downloads Netflix makes automatically for you are also available."
+    },
+    {
+      "q": "Does Netflix have ads?",
+      "a": "Only on ad-supported plans, available in some countries. Google Play doesn't show a \"Contains ads\" label for Netflix, because ads depend on your plan, so APKPeer leaves that row out."
+    },
+    {
+      "q": "Are Netflix games free?",
+      "a": "Netflix games are included with a Netflix membership, with no ads or in-app purchases in most of them. Some play inside the Netflix app or on your TV using your phone as a controller, and others install as separate apps from Google Play."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+    "https://www.netflix.com/"
+  ],
+  "oldUrls": []
+}

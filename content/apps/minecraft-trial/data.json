@@ -1,0 +1,81 @@
+{
+  "slug": "minecraft-trial",
+  "name": "Minecraft Trial",
+  "shortName": "Minecraft Trial",
+  "packageName": "com.mojang.minecrafttrialpe",
+  "type": "game",
+  "category": "adventure",
+  "developer": {
+    "name": "Mojang",
+    "slug": "mojang",
+    "url": "https://www.minecraft.net"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
+  "officialUrl": "https://www.minecraft.net/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": null,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "1.26.60.4",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-21",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
+    "changelog": [
+      "Updated to the Minecraft 26.60 release."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/minecraft-trial/icon.webp",
+  "summary": "Minecraft Trial is Mojang's free, time-limited version of Minecraft for Android, letting you play survival mode before deciding whether to buy the full game. The latest Minecraft Trial APK is version 1.26.60.4, updated October 21, 2026, and needs Android 8.0 or newer. Trial worlds don't carry over to the paid game.",
+  "metaDescription": "Get the official free Minecraft Trial APK 1.26.60.4 for Android 8.0+. What the trial includes, its limits, how to install it and how to get the full game.",
+  "primaryKeyword": "minecraft trial apk",
+  "secondaryKeywords": [
+    "minecraft trial download",
+    "minecraft free trial android",
+    "minecraft trial vs full version"
+  ],
+  "alternatives": [
+    "roblox",
+    "terraria",
+    "luanti"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Minecraft Trial on Android?",
+      "a": "Open Google Play, search for Minecraft Trial and check the developer is Mojang before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Mojang and may be altered, so the safest way to play Minecraft Trial is the official listing."
+    },
+    {
+      "q": "Is the Minecraft Trial free?",
+      "a": "Yes. Minecraft Trial is free to download from Google Play and free to play for a limited time. It's Mojang's official demo of Minecraft. To keep playing after the trial, or to get creative mode and multiplayer, you buy the full Minecraft game on Google Play."
+    },
+    {
+      "q": "What can you do in the Minecraft Trial?",
+      "a": "The trial lets you play Minecraft in survival mode: explore a world, gather resources, craft tools, weapons and armor, and fight off mobs. Creative mode, multiplayer and the rest of the full game aren't included. Mojang describes the trial as time-limited, so treat it as a taste of the game."
+    },
+    {
+      "q": "Does my Minecraft Trial world transfer to the full game?",
+      "a": "No. Mojang's Google Play listing says trial worlds don't transfer to the full game. If you buy Minecraft, you start a new world. Keep that in mind before spending hours building in the trial. Mojang suggests buying the full game during or after the trial if you want to keep playing."
+    },
+    {
+      "q": "Is there a free full version of Minecraft for Android?",
+      "a": "No. The full Minecraft game is paid, and the official free option is this trial. Files claiming to be free full Minecraft APKs are unauthorized copies of a paid game: they're illegal to share, often carry malware, and can't sign in to Minecraft servers or Realms."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe",
+    "https://www.minecraft.net/"
+  ],
+  "oldUrls": [
+    "/minecraft-v1-26-10-25/"
+  ]
+}

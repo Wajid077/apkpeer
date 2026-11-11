@@ -1,0 +1,82 @@
+{
+  "slug": "monopoly-go",
+  "name": "MONOPOLY GO!",
+  "shortName": "Monopoly GO!",
+  "packageName": "com.scopely.monopolygo",
+  "type": "game",
+  "category": "board",
+  "developer": {
+    "name": "Scopely",
+    "slug": "scopely",
+    "url": "https://www.scopely.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+  "officialUrl": "https://www.scopely.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "1.80.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+    "changelog": [
+      "Monster Mash sticker album.",
+      "Trick or Treat candy-bucket event.",
+      "Ghostbusters and KPop Demon Hunters themed events.",
+      "Smoother gameplay improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/monopoly-go/icon.webp",
+  "summary": "Monopoly GO! is Scopely's free casual board game based on Monopoly: roll dice, move around boards, collect cash and build landmarks. The latest Monopoly GO APK is version 1.80.0, updated October 28, 2026, and needs Android 7.1 or newer. It has no ads, and in-app purchases from $0.99 to $199.99 buy dice rolls and packs.",
+  "metaDescription": "Get the official Monopoly GO! APK 1.80.0 for Android 7.1+. Dice rolls, sticker albums and events explained, spending tips, and install steps.",
+  "primaryKeyword": "monopoly go apk",
+  "secondaryKeywords": [
+    "monopoly go download",
+    "monopoly go game",
+    "monopoly go dice"
+  ],
+  "alternatives": [
+    "royal-match",
+    "ludo-king",
+    "coin-master"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Monopoly GO! on Android?",
+      "a": "Open Google Play, search for Monopoly GO! and check the developer is Scopely before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Scopely and may be altered, so the safest way to play Monopoly GO! is the official listing."
+    },
+    {
+      "q": "Is Monopoly GO free?",
+      "a": "Yes, it's free to download and play, with no ads. Scopely makes money from in-app purchases from $0.99 to $199.99 per item on Google Play, mainly extra dice rolls, sticker packs and event offers."
+    },
+    {
+      "q": "How do I get more dice rolls in Monopoly GO?",
+      "a": "Dice rolls refill over time, and you earn more from events, tournaments, daily rewards, completing sticker sets and gifts from friends. Free dice links shared by the official Monopoly GO social accounts are another source."
+    },
+    {
+      "q": "How do sticker albums work?",
+      "a": "Sticker albums are collections of themed sets. You get sticker packs by playing events and building landmarks, and completing a set or album gives big rewards. You can trade stickers with friends, and albums change every few weeks."
+    },
+    {
+      "q": "Is Monopoly GO like the real Monopoly board game?",
+      "a": "It borrows the board, properties and characters, but it's a casual mobile game rather than the classic board game. You don't trade properties with other players; instead you build landmarks and attack friends' boards."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+    "https://www.scopely.com/"
+  ],
+  "oldUrls": []
+}

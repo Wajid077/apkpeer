@@ -1,0 +1,79 @@
+{
+  "slug": "perplexity",
+  "name": "Perplexity - Ask Anything",
+  "shortName": "Perplexity",
+  "packageName": "ai.perplexity.app.android",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "PerplexityAI",
+    "slug": "perplexityai",
+    "url": "https://www.perplexity.ai"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+  "officialUrl": "https://www.perplexity.ai/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "2.103.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/perplexity/icon.webp",
+  "summary": "Perplexity is an AI answer engine for Android that searches the web and replies with cited sources you can check. The latest Perplexity APK is version 2.103.0, updated October 30, 2026, and needs Android 8.0 or newer. It's free with no ads, and a paid Pro plan adds more advanced searches and models.",
+  "metaDescription": "Get the official Perplexity APK 2.103.0 for Android 8.0+. How cited AI answers work, Pro vs free, the voice assistant, install steps and privacy tips.",
+  "primaryKeyword": "perplexity apk",
+  "secondaryKeywords": [
+    "perplexity ai app",
+    "perplexity app download",
+    "perplexity pro"
+  ],
+  "alternatives": [
+    "google-gemini",
+    "chatgpt",
+    "claude"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Perplexity on Android?",
+      "a": "Open Google Play, search for Perplexity and check the developer is PerplexityAI before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from PerplexityAI and may be altered, so the safest way to use Perplexity is the official listing."
+    },
+    {
+      "q": "Is Perplexity free?",
+      "a": "Yes. Perplexity is free to download and use, with no ads, and the free plan includes standard searches. Perplexity Pro, sold as an in-app purchase, adds many more advanced Pro searches per day, a choice of AI models and file analysis. Play lists in-app purchases from $4.99 to $1,999.99 per item."
+    },
+    {
+      "q": "How is Perplexity different from ChatGPT?",
+      "a": "Perplexity is built around searching the web. Each answer is written from current web results and shows numbered citations, so you can open the sources and check them. ChatGPT is a more general assistant for writing and conversation, although it can also search the web."
+    },
+    {
+      "q": "Can Perplexity replace Google Assistant on Android?",
+      "a": "Yes. Perplexity includes an Android assistant you can set as your default digital assistant in your phone's settings, so it opens with the assistant gesture or button. It can answer questions by voice and help with some phone tasks."
+    },
+    {
+      "q": "Are Perplexity's answers always right?",
+      "a": "No. Perplexity cites its sources, which helps, but it can still misread a source or rely on a weak one. For anything important, open the cited links and check that they really say what the answer claims."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+    "https://www.perplexity.ai/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Release zips (built from out/)
+release/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment variables (AdSense / analytics / verification IDs, IndexNow key)
+.env
+.env.*
+!.env.example
+
+# IndexNow submission state (local)
+.indexnow-state.json
+
+# Logs and debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local Claude Code settings
+.claude/
+
+# Vercel (not used, but harmless)
+.vercel

@@ -1,0 +1,81 @@
+{
+  "slug": "hill-climb-racing",
+  "name": "Hill Climb Racing",
+  "shortName": "Hill Climb Racing",
+  "packageName": "com.fingersoft.hillclimb",
+  "type": "game",
+  "category": "racing",
+  "developer": {
+    "name": "Fingersoft",
+    "slug": "fingersoft",
+    "url": "https://www.fingersoft.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+  "officialUrl": "https://www.fingersoft.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.73.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+    "changelog": [
+      "New feature, teased in the notes as \"I didn't know rain could hurt this badly.\"",
+      "Translation updates.",
+      "Various bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/hill-climb-racing/icon.webp",
+  "summary": "Hill Climb Racing is Fingersoft's free physics-based driving game for Android, where you drive Newton Bill's vehicles over hilly terrain without flipping over or running out of fuel. The latest Hill Climb Racing APK is version 1.73.2, updated October 29, 2026, and needs Android 7.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official Hill Climb Racing APK 1.73.2 for Android 7.0+. The classic physics driving game: what's new, upgrade tips, offline play and install steps.",
+  "primaryKeyword": "hill climb racing apk",
+  "secondaryKeywords": [
+    "hill climb racing download",
+    "hill climb racing game",
+    "hill climb racing offline"
+  ],
+  "alternatives": [
+    "asphalt-legends",
+    "car-parking-multiplayer",
+    "hill-climb-racing-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Hill Climb Racing on Android?",
+      "a": "Open Google Play, search for Hill Climb Racing and check the developer is Fingersoft before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Fingersoft and may be altered, so the safest way to play Hill Climb Racing is the official listing."
+    },
+    {
+      "q": "Is Hill Climb Racing free?",
+      "a": "Yes. Hill Climb Racing is free to download and play. It shows ads and sells optional in-app purchases, which Google Play lists from $0.09 to $134.99 per item, such as coin packs and ad removal. Some purchases include random items. You can unlock vehicles and stages by playing."
+    },
+    {
+      "q": "Can you play Hill Climb Racing offline?",
+      "a": "Yes. The main game, driving stages and earning coins, works without an internet connection. That's one reason it's been a favorite for travel since 2012. Ads and online features such as leaderboards need a connection. Your coins and unlocked vehicles are saved on your phone."
+    },
+    {
+      "q": "What's the difference between Hill Climb Racing and Hill Climb Racing 2?",
+      "a": "Hill Climb Racing is the original single-player game, played stage by stage for distance. Hill Climb Racing 2, also from Fingersoft, adds online races against other players, cups, teams and more customization. Both are free, separate apps."
+    },
+    {
+      "q": "What Android version does Hill Climb Racing need?",
+      "a": "Hill Climb Racing 1.73.2 needs Android 7.0 or newer, according to its Google Play listing. It's a small, light game, so it runs smoothly on most phones that meet that requirement, including older budget models. Older phones aren't offered the latest version on Google Play."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
+    "https://www.fingersoft.com/"
+  ],
+  "oldUrls": []
+}

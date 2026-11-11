@@ -1,0 +1,34 @@
+## How to convert a Unix timestamp
+
+1. The current Unix time is shown at the top, updating every second.
+2. Paste a timestamp into **Unix timestamp**. It's converted to your local time, UTC and ISO 8601.
+3. To go the other way, pick a date and time under **Date and time → Unix timestamp**.
+
+Timestamps with 13 digits are treated as milliseconds and those with 10 digits as seconds.
+
+## What is Unix time?
+
+Unix time counts the seconds since **1 January 1970 at 00:00:00 UTC**, known as the Unix epoch. It's used everywhere in computing because it's a single number, the same in every time zone, and easy to compare and sort:
+
+| Timestamp | Date (UTC) |
+| --- | --- |
+| 0 | 1 January 1970 |
+| 1,000,000,000 | 9 September 2001 |
+| 2,000,000,000 | 18 May 2033 |
+| 2,147,483,647 | 19 January 2038 |
+
+## Seconds vs milliseconds
+
+Unix tools, PHP, Python and most databases use **seconds**. JavaScript, Java and many APIs use **milliseconds**. Mixing them up is a common bug: a millisecond timestamp read as seconds gives a date tens of thousands of years in the future, while seconds read as milliseconds land in January 1970.
+
+## Time zones
+
+A Unix timestamp has no time zone; it's the same moment everywhere. The converter shows it in your device's time zone and in UTC. When storing times in an app or database, store UTC or Unix time and convert to local time only when displaying it.
+
+## The year 2038 problem
+
+Systems that store Unix time as a signed 32-bit number overflow on 19 January 2038, when the count passes 2,147,483,647. Modern 64-bit systems don't have this problem, but old embedded devices and file formats might.
+
+## Related tools
+
+To count days between two dates, use the [date difference calculator](/tools/date-difference-calculator). Converting happens in your browser; nothing is uploaded.

@@ -1,0 +1,80 @@
+{
+  "slug": "signal",
+  "name": "Signal Private Messenger",
+  "shortName": "Signal",
+  "packageName": "org.thoughtcrime.securesms",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Signal Foundation",
+    "slug": "signal-foundation",
+    "url": "https://signal.org"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+  "officialUrl": "https://signal.org/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "8.33.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+    "changelog": [
+      "Optional registration without a phone number (beta).",
+      "Phone-numberless registration needs a small one-time fee to deter spam; the purchase is never linked to the new account."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/signal/icon.webp",
+  "summary": "Signal is a free, non-profit messaging app with end-to-end encryption for every message and call, built to collect as little data as possible. The latest Signal APK is version 8.33.2, updated November 2, 2026, and needs Android 6.0 or newer. It has no ads, and Signal also publishes its own official APK.",
+  "metaDescription": "Get the official Signal APK 8.33.2 for Android 6.0+. Why Signal is the most private messenger, usernames, disappearing messages, and install steps.",
+  "primaryKeyword": "signal apk",
+  "secondaryKeywords": [
+    "signal messenger download",
+    "signal private messenger",
+    "signal app for android"
+  ],
+  "alternatives": [
+    "whatsapp",
+    "telegram",
+    "messenger"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Signal on Android?",
+      "a": "Open Google Play, search for Signal and check the developer is Signal Foundation before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Signal also publishes an official APK at signal.org/android/apk for phones without Google Play; it updates itself."
+    },
+    {
+      "q": "Is Signal free?",
+      "a": "Yes. Signal is free, has no ads and doesn't sell your data. It's run by the non-profit Signal Foundation and funded by donations. The only in-app purchases on Google Play are optional donations and a small one-time fee for the new phone-number-free registration, which deters spam."
+    },
+    {
+      "q": "Can I use Signal without sharing my phone number?",
+      "a": "Yes. You can set a username and hide your phone number, so people can contact you without seeing it. Signal's latest release also starts testing registration without a phone number at all, for a small one-time fee that isn't linked to your account."
+    },
+    {
+      "q": "Is Signal more private than WhatsApp?",
+      "a": "Both use the Signal Protocol to encrypt message content. The difference is metadata: Signal collects almost nothing about who you talk to and when, while WhatsApp, owned by Meta, collects more information about your account and usage."
+    },
+    {
+      "q": "Does Signal work on a computer?",
+      "a": "Yes. Signal Desktop runs on Windows, macOS and Linux and links to your phone by scanning a QR code. Messages sync to the desktop app once it's linked."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+    "https://signal.org/"
+  ],
+  "oldUrls": []
+}

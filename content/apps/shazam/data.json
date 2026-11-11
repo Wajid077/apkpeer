@@ -1,0 +1,92 @@
+{
+  "slug": "shazam",
+  "name": "Shazam: Find Music & Concerts",
+  "shortName": "Shazam",
+  "packageName": "com.shazam.android",
+  "type": "app",
+  "category": "music-audio",
+  "developer": {
+    "name": "Apple Inc.",
+    "slug": "apple",
+    "url": "https://www.apple.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.shazam.android",
+  "officialUrl": "https://www.shazam.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.shazam.android",
+    "changelog": [
+      "Speed and quality improvements. Create an account to back up your Shazams and sync them between devices."
+    ]
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Microphone",
+      "reason": "Listens to the music playing around you when you tap the Shazam button. It isn't used otherwise."
+    },
+    {
+      "name": "Notifications",
+      "reason": "Shows Pop-up Shazam and Auto Shazam controls, and results."
+    },
+    {
+      "name": "Location",
+      "reason": "Optional: suggests concerts near you."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/shazam/icon.webp",
+  "summary": "Shazam is Apple's free app for identifying any song playing around you in seconds, with lyrics, music videos and concert listings. Google Play lists the version as varying by device, and the official Shazam APK was last updated on October 30, 2026. It's completely free on Android, with no ads and no in-app purchases.",
+  "metaDescription": "Get the official Shazam APK for Android: identify any song in seconds, free with no ads. How Auto and Pop-up Shazam work, privacy, install steps and FAQ.",
+  "primaryKeyword": "shazam apk",
+  "secondaryKeywords": [
+    "shazam download",
+    "shazam app for android",
+    "identify song"
+  ],
+  "alternatives": [
+    "soundhound",
+    "spotify",
+    "musixmatch"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Shazam on Android?",
+      "a": "Open Google Play, search for Shazam and check the developer is Apple Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Apple Inc. and may be altered, so the safest way to use Shazam is the official listing."
+    },
+    {
+      "q": "Is Shazam free on Android?",
+      "a": "Yes. Shazam is free to download and use on Android, with no ads and no in-app purchases according to its Google Play listing. It's made by Apple, but you don't need an Apple device or Apple Music to use it."
+    },
+    {
+      "q": "Can Shazam identify songs offline?",
+      "a": "Yes, in a way. If you Shazam without a connection, the app saves the recording and identifies the song as soon as you're back online, then shows the result in your library. It needs the internet to match the song itself."
+    },
+    {
+      "q": "Can Shazam identify songs playing on my phone?",
+      "a": "Yes. Pop-up Shazam can identify music playing in other apps on your phone, such as a song in a video, without switching apps. Turn it on in Shazam's settings, and a floating button or notification lets you Shazam from anywhere."
+    },
+    {
+      "q": "Does Shazam listen all the time?",
+      "a": "No. Shazam only listens when you tap the Shazam button, or while Auto Shazam is switched on. Auto Shazam keeps identifying songs in the background until you turn it off, and Android shows a notification while it's active."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.shazam.android",
+    "https://www.shazam.com/"
+  ],
+  "oldUrls": []
+}

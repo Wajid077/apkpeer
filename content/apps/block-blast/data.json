@@ -1,0 +1,78 @@
+{
+  "slug": "block-blast",
+  "name": "Block Blast!",
+  "shortName": "Block Blast",
+  "packageName": "com.block.juggle",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "HungryStudio",
+    "slug": "hungrystudio",
+    "url": "https://play.google.com/store/apps/dev?id=HungryStudio"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.block.juggle",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.block.juggle",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "10.9.3",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.block.juggle",
+    "changelog": [
+      "Bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/block-blast/icon.webp",
+  "summary": "Block Blast! is a free block puzzle game from HungryStudio where you place shapes on an 8x8 board to clear rows and columns. The latest Block Blast APK is version 10.9.3, updated November 3, 2026, and needs Android 7.1 or newer. It works offline, contains ads, and offers in-app purchases.",
+  "metaDescription": "Get the official Block Blast! APK 10.9.3 for Android 7.1+. How scoring and combos work, Classic vs Adventure mode, tips for high scores, and install steps.",
+  "primaryKeyword": "block blast apk",
+  "secondaryKeywords": [
+    "block blast game",
+    "block blast download",
+    "block blast tips"
+  ],
+  "alternatives": [
+    "candy-crush-saga",
+    "royal-match",
+    "geometry-dash-lite"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Block Blast on Android?",
+      "a": "Open Google Play, search for Block Blast and check the developer is HungryStudio before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from HungryStudio and may be altered, so the safest way to play Block Blast is the official listing."
+    },
+    {
+      "q": "Is Block Blast free?",
+      "a": "Yes. Block Blast! is free to download and play, with ads. Google Play lists in-app purchases from $4.99 to $49.99 per item, mainly to remove ads and buy extras. You can play every mode without paying."
+    },
+    {
+      "q": "Can I play Block Blast offline?",
+      "a": "Yes. Block Blast works without an internet connection, which makes it popular for flights and commutes. Some ads and features need a connection, but the core puzzle doesn't."
+    },
+    {
+      "q": "How do combos work in Block Blast?",
+      "a": "Clearing a row or column scores points, and clearing several lines in a row without missing builds a combo multiplier. Clearing multiple lines with a single block placement scores even more. Keeping a combo going is the key to high scores."
+    },
+    {
+      "q": "Does Block Blast have a time limit?",
+      "a": "No. Classic mode has no timer. The game ends only when none of the three blocks you're offered can fit anywhere on the board, so you can think as long as you like before each move."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.block.juggle"
+  ],
+  "oldUrls": []
+}

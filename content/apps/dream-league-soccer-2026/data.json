@@ -1,0 +1,82 @@
+{
+  "slug": "dream-league-soccer-2026",
+  "name": "Dream League Soccer 2026",
+  "shortName": "DLS 26",
+  "packageName": "com.firsttouchgames.dls7",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "First Touch Games Ltd.",
+    "slug": "first-touch-games",
+    "url": "https://www.ftgames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7",
+  "officialUrl": "https://www.ftgames.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "13.430",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-14",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7",
+    "changelog": [
+      "New Special Players: a \"Cult Heroes\" collection, announced as coming soon.",
+      "Dozens of bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/dream-league-soccer-2026/icon.webp",
+  "summary": "Dream League Soccer 2026 is a free football game from First Touch Games where you build a club, sign real players and climb divisions. The latest DLS 26 APK is version 13.430, updated September 14, 2026, and needs Android 6.0 or newer. It's free to play, with ads and optional in-app purchases.",
+  "metaDescription": "Get the official DLS 26 APK 13.430 for Android 6.0+. Build your club in Dream League Soccer 2026: what's new, install steps, safety notes and FAQ.",
+  "primaryKeyword": "dls 26 apk",
+  "secondaryKeywords": [
+    "dream league soccer 2026 apk",
+    "dls 26 download",
+    "dream league soccer 2026"
+  ],
+  "alternatives": [
+    "efootball",
+    "score-hero",
+    "fc-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install DLS 26 on Android?",
+      "a": "Open Google Play, search for DLS 26 and check the developer is First Touch Games Ltd. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from First Touch Games Ltd. and may be altered, so the safest way to play DLS 26 is the official listing."
+    },
+    {
+      "q": "Is Dream League Soccer 2026 free?",
+      "a": "Yes, DLS 26 is free to download and play. It shows ads and sells optional in-app purchases, such as coins and gems, priced from $0.09 to $99.99 per item on Google Play. Some purchases include random items, such as player packs. You can play the whole career without paying."
+    },
+    {
+      "q": "Does DLS 26 work offline?",
+      "a": "Much of Dream League Soccer can be played offline, including career matches against AI teams. Online features, such as Live Events, multiplayer matches and some rewards, need an internet connection. Playing online also lets your progress sync to your account."
+    },
+    {
+      "q": "Do I need to uninstall DLS 25 to play DLS 26?",
+      "a": "No. First Touch Games updates the same Dream League Soccer app each season, so DLS 26 arrives as an update to the existing game on Google Play. Your club and progress carry over if you're signed in. You don't need a separate download. Uninstalling could actually lose progress that isn't backed up."
+    },
+    {
+      "q": "What Android version does DLS 26 need?",
+      "a": "Dream League Soccer 2026 version 13.430 needs Android 6.0 or newer, according to its Google Play listing. It runs on most phones from the last several years, though older phones may need lower graphics settings for smooth matches."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7",
+    "https://www.ftgames.com/"
+  ],
+  "oldUrls": [
+    "/dls26-mod-unlimited-money/"
+  ]
+}

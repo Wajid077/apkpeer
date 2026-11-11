@@ -1,0 +1,82 @@
+{
+  "slug": "honkai-star-rail",
+  "name": "Honkai: Star Rail",
+  "shortName": "Honkai: Star Rail",
+  "packageName": "com.HoYoverse.hkrpgoversea",
+  "type": "game",
+  "category": "role-playing",
+  "developer": {
+    "name": "COGNOSPHERE PTE. LTD.",
+    "slug": "cognosphere",
+    "url": "https://www.hoyoverse.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+  "officialUrl": "https://hsr.hoyoverse.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "4.6.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+    "changelog": [
+      "Version 4.6 \"Dance With the Beast Before Moonrise\".",
+      "New character: Pearl (Elation: Ice).",
+      "Character reruns: Evanescia and Mortenax Blade.",
+      "New Trailblaze Mission \"Astropolis — Dance With the Beast Before Moonrise\" and new events."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/honkai-star-rail/icon.webp",
+  "summary": "Honkai: Star Rail is HoYoverse's free turn-based space fantasy role-playing game, where you travel between worlds aboard the Astral Express. The latest Honkai: Star Rail APK is version 4.6.0, updated September 17, 2026, and Play lists Android 6.0 or newer. It's free to play, with in-app purchases from $0.29 to $99.99.",
+  "metaDescription": "Get the official Honkai: Star Rail APK 4.6.0 for Android. Version 4.6 with new character Pearl, how turn-based combat and Warps work, and install steps.",
+  "primaryKeyword": "honkai star rail apk",
+  "secondaryKeywords": [
+    "honkai star rail download",
+    "hsr 4.6",
+    "honkai star rail android"
+  ],
+  "alternatives": [
+    "genshin-impact",
+    "pokemon-tcg-pocket",
+    "clash-royale"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Honkai: Star Rail on Android?",
+      "a": "Open Google Play, search for Honkai: Star Rail and check the developer is COGNOSPHERE PTE. LTD. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from COGNOSPHERE PTE. LTD. and may be altered, so the safest way to play Honkai: Star Rail is the official listing."
+    },
+    {
+      "q": "Is Honkai: Star Rail free?",
+      "a": "Yes. Honkai: Star Rail is free to download and play, with no ads. In-app purchases from $0.29 to $99.99 per item on Google Play buy currency for Warps (its gacha banners) and passes. The story can be finished without paying."
+    },
+    {
+      "q": "Is Honkai: Star Rail connected to Genshin Impact?",
+      "a": "No. Both are made by HoYoverse, but they're separate games with separate stories and accounts. Star Rail is set in the Honkai universe and uses turn-based combat instead of Genshin's real-time action."
+    },
+    {
+      "q": "Why is Honkai: Star Rail rated Teen?",
+      "a": "Google Play rates it Teen for fantasy violence, simulated gambling and mild suggestive themes. The simulated gambling rating relates to its Warp gacha system and some in-game minigames."
+    },
+    {
+      "q": "Can I play Honkai: Star Rail on PC too?",
+      "a": "Yes. Your HoYoverse account syncs progress between Android, iPhone, PC and PlayStation, so you can continue on another device."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+    "https://hsr.hoyoverse.com/"
+  ],
+  "oldUrls": []
+}

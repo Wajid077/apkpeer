@@ -1,0 +1,69 @@
+## What is F-Droid?
+
+F-Droid is an app store for Android that only carries free and open-source software. It's run by the F-Droid project, a volunteer community that has been going since 2010, and the app store itself is open source too: anyone can read the code on [GitLab](https://gitlab.com/fdroid/fdroidclient).
+
+What makes it different from Google Play isn't just the catalogue. F-Droid builds the apps in its main repository itself, from the developer's published source code. So when you install something, you get a file that matches code anyone can inspect, not a binary the developer uploaded.
+
+There's no account, no ads and no tracking. You'll find privacy tools, podcast players, keyboards, note apps, file managers and plenty of [other utilities](/category/tools) here, all free. If you want to use Android with less Google in it, the F-Droid APK is usually the first thing people install.
+
+## What's new in F-Droid 1.23.2
+
+F-Droid 1.23.2 is the current stable ("suggested") version on the [official F-Droid page](https://f-droid.org/en/packages/org.fdroid.fdroid/), added on February 19, 2026. It's a tiny update. According to the [project changelog](https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md), its only change is a banner for the Keep Android Open campaign, which opposes Google's plan to require developer registration for apps installed outside Play.
+
+The last update with real fixes was 1.23.1 in July 2025. It turned off edge-to-edge display on Android 10 and older, where it caused layout problems, fixed the OLED black theme, and corrected how Android 16 compatibility is checked.
+
+There's also a redesigned F-Droid 2.0 in testing. The f-droid.org page lists 2.0.x builds as beta, and they need Android 7.0 or newer. Stick with 1.23.2 unless you want to help test.
+
+## Key features
+
+### Every app is open source
+
+Only apps with a free, open-source license get into the main repository. Each app page links to its source code, its license and its changelog, so you can see exactly what you're installing and who maintains it.
+
+### Anti-Features labels
+
+Some open-source apps still do things you might not want. F-Droid flags them with Anti-Features labels such as "Tracking", "Ads" or "Non-Free Network Services" right on the app page. It's a quick way to spot a catch before you install.
+
+### Updates without a Google account
+
+F-Droid checks for updates to every app you installed from it. On Android 12 and newer you can switch on automatic updates in **Settings → Updates**, and F-Droid installs them in the background. On older Android versions it downloads each update and asks you to tap **Install**.
+
+### Extra repositories
+
+You can add repositories from other developers under **Settings → Repositories**. Some projects publish their own repository with faster updates than the main F-Droid one. Each one is signed, so F-Droid can tell if a repository's index has been tampered with.
+
+### Nearby app sharing
+
+The Nearby feature sends installed apps from one phone to another over Wi-Fi or Bluetooth, with no internet connection needed. That's why F-Droid asks for location, Bluetooth and camera access: Android requires those permissions for discovering nearby devices and scanning pairing QR codes.
+
+## How to install F-Droid APK on Android
+
+F-Droid isn't on Google Play, so you install the APK from the [official site](https://f-droid.org/).
+
+1. On your phone, open **f-droid.org** in your browser and tap **Download F-Droid**.
+2. If you downloaded the file from somewhere else, don't install it. Only the copy from f-droid.org is the official build.
+3. Open the downloaded file. Android will ask you to allow your browser to **Install unknown apps**. Allow it for that one app.
+4. Tap **Install**.
+5. Open F-Droid and let it update its repositories for the first time. This can take a minute on a slow connection.
+6. When you install apps through F-Droid, Android will ask you to allow F-Droid to install unknown apps too. That's expected: F-Droid needs it to work.
+7. Go to **Settings → Apps → Special app access → Install unknown apps**, select your browser, and turn the permission off again. Leave it on for F-Droid.
+
+Your phone needs Android 6.0 or newer for version 1.23.2.
+
+## Is F-Droid APK safe?
+
+The official F-Droid APK is safe. The client is open source, the project builds apps from source, and the repository index is cryptographically signed so the app can detect tampering. The F-Droid page publishes its permissions in full, and each one has a clear job, from installing apps to Nearby sharing.
+
+The permission list looks long because an app store needs powerful access. It installs packages, checks which apps you have so it can offer updates, and (if you allow it) updates them in the background. That's the same kind of access Google Play has on your phone.
+
+There are real trade-offs to know about. F-Droid's own builds can arrive days or weeks after the developer's release, because they're built and reviewed first. And an app from F-Droid usually has a different signing key from the same app on Google Play, so you can't switch between the two versions without uninstalling first.
+
+The risk is fake copies. Search results sometimes surface "F-Droid" APKs on random download sites. APKPeer only links to f-droid.org.
+
+## F-Droid vs alternatives
+
+- **<AppLink slug="aurora-store">Aurora Store</AppLink>** downloads apps from Google Play without a Google account. You get the full Play catalogue, but the apps aren't open source or built from source, and it relies on Google's servers.
+- **<AppLink slug="droid-ify">Droid-ify</AppLink>** is a different client for the same F-Droid repositories, with a cleaner, faster interface. It's a matter of taste. F-Droid's own client gets new features like Nearby first.
+- **<AppLink slug="obtainium">Obtainium</AppLink>** pulls updates straight from developers' GitHub or GitLab release pages, so you get new versions the day they ship. You set up each app by hand, and there's no review step like F-Droid's.
+
+For a trustworthy catalogue of open-source apps with no setup, F-Droid is the easiest place to start.

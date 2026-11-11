@@ -1,0 +1,82 @@
+{
+  "slug": "google-gemini",
+  "name": "Google Gemini",
+  "shortName": "Gemini",
+  "packageName": "com.google.android.apps.bard",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
+  "officialUrl": "https://gemini.google.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "9",
+  "latest": {
+    "version": "1.0.995038376",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-13",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
+    "changelog": [
+      "Gemini 3.5 Flash and Gemini Omni models.",
+      "Gemini Spark, a 24/7 personal AI agent that proactively manages tasks.",
+      "Daily Brief agent with a personalized morning summary.",
+      "\"Reimagine this\" in Gemini Live to redraw what your camera sees with Nano Banana."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-gemini/icon.webp",
+  "summary": "Google Gemini is Google's free AI assistant for Android, for chatting, writing, planning, image creation and live voice conversations. The latest Gemini APK is version 1.0.995038376, updated October 13, 2026, and needs Android 9 or newer. It's free to use, with extra features in Google's paid AI plans.",
+  "metaDescription": "Get the official Google Gemini APK 1.0.995038376 for Android 9+. What's new with Gemini 3.5 Flash, Gemini Live tips, install steps and privacy settings.",
+  "primaryKeyword": "gemini apk",
+  "secondaryKeywords": [
+    "google gemini app download",
+    "gemini ai for android",
+    "gemini vs chatgpt"
+  ],
+  "alternatives": [
+    "chatgpt",
+    "claude",
+    "perplexity"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Gemini on Android?",
+      "a": "Open Google Play, search for Gemini and check the developer is Google LLC before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Gemini is the official listing."
+    },
+    {
+      "q": "Is Google Gemini free?",
+      "a": "Yes. The Gemini app is free to install and use with a Google account. Google's paid AI plans add higher usage limits, its most capable models and extra features. Play shows no in-app purchase label because those plans are sold through Google's own subscription system."
+    },
+    {
+      "q": "Does Gemini replace Google Assistant?",
+      "a": "On most Android phones, yes. Gemini can be set as your default assistant, so holding the power button or saying \"Hey Google\" opens Gemini instead of the old Assistant. You can switch back in Gemini's settings on phones where Google still offers that option."
+    },
+    {
+      "q": "What is Gemini Live?",
+      "a": "Gemini Live is a back-and-forth voice conversation with Gemini. You can interrupt it, change topic and, on supported phones, share your camera or screen so it can talk about what you're looking at. The latest update adds \"reimagine this\" to redraw camera scenes."
+    },
+    {
+      "q": "Does Google use my Gemini chats?",
+      "a": "By default, Gemini Apps Activity is saved to your Google account and may be reviewed to improve Google's services. You can turn it off or set auto-delete in the Gemini app under Settings → Gemini Apps Activity. Don't share sensitive personal details in chats."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
+    "https://gemini.google.com/"
+  ],
+  "oldUrls": []
+}

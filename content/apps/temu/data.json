@@ -1,0 +1,79 @@
+{
+  "slug": "temu",
+  "name": "Temu: Shop Like a Billionaire",
+  "shortName": "Temu",
+  "packageName": "com.einnovation.temu",
+  "type": "app",
+  "category": "shopping",
+  "developer": {
+    "name": "Temu",
+    "slug": "temu",
+    "url": "https://www.temu.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.einnovation.temu",
+  "officialUrl": "https://www.temu.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "4.94.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.einnovation.temu",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/temu/icon.webp",
+  "summary": "Temu is an online marketplace app selling very cheap clothing, home goods, electronics and gadgets, much of it shipped from sellers in China. The latest Temu APK is version 4.94.0, updated November 3, 2026, and needs Android 6.0 or newer. It's free to use, with no ads or in-app purchases listed on Google Play.",
+  "metaDescription": "Get the official Temu APK 4.94.0 for Android 6.0+. How Temu shopping, delivery and returns work, privacy concerns, safe shopping tips, and install steps.",
+  "primaryKeyword": "temu apk",
+  "secondaryKeywords": [
+    "temu app download",
+    "temu shopping",
+    "is temu safe"
+  ],
+  "alternatives": [
+    "shein",
+    "pinterest",
+    "facebook"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Temu on Android?",
+      "a": "Open Google Play, search for Temu and check the developer is Temu before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Temu and may be altered, so the safest way to use Temu is the official listing."
+    },
+    {
+      "q": "Is Temu safe to use?",
+      "a": "The official Temu app from Google Play is a real shopping app, and many people order from it without problems. Concerns have been raised about how much data the app collects and about the quality and safety of some cheap products. Use a strong unique password, review app permissions, and pay with a method that offers buyer protection."
+    },
+    {
+      "q": "Why is Temu so cheap?",
+      "a": "Temu connects buyers with manufacturers and sellers, many of them in China, and keeps prices low through large volumes, direct shipping and heavy promotions. Quality varies a lot between products, so read reviews and look at customer photos."
+    },
+    {
+      "q": "How long does Temu shipping take?",
+      "a": "Delivery times depend on your country and whether an item ships from a local warehouse or from overseas. The app shows an estimated delivery window before you pay, and Temu offers credits for some late deliveries."
+    },
+    {
+      "q": "Can I return items to Temu?",
+      "a": "Yes. Temu has a returns policy that allows most items to be returned within a set period after purchase, often with a free first return per order. Check the current policy in the app, as conditions differ by country and product."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.einnovation.temu",
+    "https://www.temu.com/"
+  ],
+  "oldUrls": []
+}

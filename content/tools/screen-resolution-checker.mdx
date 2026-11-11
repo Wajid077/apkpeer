@@ -1,0 +1,36 @@
+## How to check your screen resolution
+
+Just open this page. The checker reads your display information straight away and shows:
+
+- **Screen resolution** in physical pixels, the number your device's specifications list.
+- **Screen size in CSS pixels**, the size websites lay out for.
+- **Device pixel ratio**, the number of physical pixels per CSS pixel.
+- **Browser window size** (viewport), the area a web page actually gets.
+- **Orientation**, **color depth** and **touch points**.
+
+Rotate your phone or resize your browser window and the values update live.
+
+## Physical pixels vs CSS pixels
+
+| Term | What it means | Example (typical phone) |
+| --- | --- | --- |
+| CSS pixels | The size websites design for | 393 × 852 |
+| Device pixel ratio | Physical pixels per CSS pixel | 3 |
+| Physical resolution | The actual screen pixels | 1179 × 2556 |
+
+Modern phones pack several physical pixels into each CSS pixel so text and images look sharp. Websites don't need to know the physical resolution to lay out a page, so they work in CSS pixels, while images look best when supplied at the physical resolution.
+
+## Why this is useful
+
+- **Choosing wallpapers.** Pick images that match your physical resolution so they aren't blurry or cropped strangely.
+- **Web design and testing.** Check how big a browser window really is on a phone, tablet or laptop.
+- **Comparing phones.** Confirm the resolution a phone actually runs at, since some phones lower it in their display settings to save battery.
+- **Taking screenshots** for app store listings or documentation at known sizes.
+
+## Why results can differ from the spec sheet
+
+Some Android phones let you choose a display resolution, such as FHD+ or QHD+, in **Settings → Display**. They often default to the lower one to save battery. Display size or zoom settings also change the device pixel ratio, and browsers on some devices round values. The checker shows what your browser reports right now.
+
+## Related tools
+
+To find out your processor type and which APK to download, use [Which APK do I need?](/tools/what-is-my-device). To resize images to match your screen, use the [image resizer](/tools/image-resizer).

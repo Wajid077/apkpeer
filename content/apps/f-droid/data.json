@@ -1,0 +1,149 @@
+{
+  "slug": "f-droid",
+  "name": "F-Droid",
+  "shortName": "F-Droid",
+  "packageName": "org.fdroid.fdroid",
+  "type": "app",
+  "category": "tools",
+  "developer": {
+    "name": "F-Droid",
+    "slug": "f-droid",
+    "url": "https://f-droid.org"
+  },
+  "playStoreUrl": null,
+  "officialUrl": "https://f-droid.org/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "1.23.2",
+    "versionCode": 1023052,
+    "size": "11 MiB",
+    "releaseDate": "2026-02-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://f-droid.org/en/packages/org.fdroid.fdroid/",
+    "changelog": [
+      "Shows a banner for the Keep Android Open campaign (keepandroidopen.org)."
+    ]
+  },
+  "versions": [
+    {
+      "version": "1.23.1",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2025-07-11",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
+      "changelog": [
+        "Disabled edge-to-edge display on Android 10 and below, where it caused issues.",
+        "Fixed the top app bar background in the OLED black theme.",
+        "Fixed an implied POST_NOTIFICATIONS permission mismatch.",
+        "Fixed the minimum installable target SDK for Android 16, so incompatible apps are marked again.",
+        "Fixed an index diff bug when removing icons.",
+        "Fixed a crash when setting the session timeout with Conscrypt installed."
+      ]
+    },
+    {
+      "version": "1.23.0",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2025-05-22",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
+      "changelog": [
+        "Updated app screenshots for Material 3.",
+        "Final Material Design adjustments, including rounder cards.",
+        "The official mirror is no longer added as a user mirror.",
+        "Fixed a user mirror UI bug.",
+        "App counts in categories now respect the preferred repository.",
+        "Fixed a crash on start."
+      ]
+    }
+  ],
+  "permissions": [
+    {
+      "name": "Request install packages",
+      "reason": "F-Droid is an app store, so it needs Android's permission to install the apps you choose."
+    },
+    {
+      "name": "Update app without user action",
+      "reason": "Lets F-Droid install updates in the background on Android 12 and newer, if you turn on automatic updates."
+    },
+    {
+      "name": "Query all packages",
+      "reason": "F-Droid checks which apps you have installed so it can show available updates."
+    },
+    {
+      "name": "Approximate location, Bluetooth and Wi-Fi access",
+      "reason": "Used by Nearby, the feature that swaps apps directly between two phones without internet."
+    },
+    {
+      "name": "Camera",
+      "reason": "Scans QR codes for adding repositories and pairing phones in Nearby."
+    },
+    {
+      "name": "Notifications",
+      "reason": "Tells you when updates are available or an install finishes."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/f-droid/icon.webp",
+  "summary": "F-Droid is a free, open-source app store for Android that only distributes free and open-source software. The current stable F-Droid APK is version 1.23.2, released February 19, 2026, and it needs Android 6.0 or newer. It has no ads, no account and no tracking, and it isn't on Google Play.",
+  "metaDescription": "Download the official F-Droid APK 1.23.2 for Android 6.0+. The open-source app store with no ads or account: install steps, permissions and safety notes.",
+  "primaryKeyword": "f-droid apk",
+  "secondaryKeywords": [
+    "f-droid download",
+    "is f-droid safe",
+    "f-droid app store"
+  ],
+  "alternatives": [
+    "aurora-store",
+    "droid-ify",
+    "obtainium"
+  ],
+  "faq": [
+    {
+      "q": "How do I install F-Droid on Android?",
+      "a": "F-Droid isn't on Google Play. Download its APK from f-droid.org, open the file, and when Android asks, allow your browser to install unknown apps, then tap Install. It needs Android 6.0 or newer. Afterwards, turn that permission off again in Settings → Apps → Special app access → Install unknown apps."
+    },
+    {
+      "q": "Is F-Droid safe to use?",
+      "a": "Yes. F-Droid itself is open source, and every app in its main repository is built by F-Droid from published source code rather than uploaded by the developer as a finished file. Apps with known downsides, such as tracking or non-free network services, are labelled with Anti-Features. Download the client only from f-droid.org."
+    },
+    {
+      "q": "Why isn't F-Droid on the Google Play Store?",
+      "a": "Google Play doesn't allow apps that install other apps from outside Play, and an alternative app store does exactly that. F-Droid is distributed from its own website instead. The official APK is at f-droid.org, and its code is published on GitLab."
+    },
+    {
+      "q": "Is F-Droid legal?",
+      "a": "Yes. F-Droid only distributes free and open-source software that its licenses allow anyone to share. It doesn't host pirated or modified commercial apps. Installing apps from outside Google Play is a normal Android feature that you switch on per app with the Install unknown apps permission."
+    },
+    {
+      "q": "Can F-Droid update apps automatically?",
+      "a": "Yes, on Android 12 and newer F-Droid can install updates in the background once you turn on automatic updates in its settings. On older Android versions it downloads the update and asks you to confirm each install. Apps you installed from Google Play are usually signed differently, so F-Droid can't update those."
+    },
+    {
+      "q": "Do I need a Google account for F-Droid?",
+      "a": "No. F-Droid works without any account, Google or otherwise. You don't sign in, and the app doesn't track what you browse or install. That's one reason it's popular on phones running privacy-focused Android versions that ship without Google services. It also runs fine alongside Google Play on a normal phone."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://f-droid.org/en/packages/org.fdroid.fdroid/",
+    "https://gitlab.com/fdroid/fdroidclient/-/blob/HEAD/CHANGELOG.md",
+    "https://gitlab.com/fdroid/fdroidclient",
+    "https://f-droid.org/"
+  ],
+  "oldUrls": [
+    "/f-droid-2026/"
+  ]
+}

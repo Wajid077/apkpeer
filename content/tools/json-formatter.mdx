@@ -1,0 +1,32 @@
+## How to format JSON
+
+1. Paste your JSON into the **Input** box.
+2. Choose **2 spaces**, **4 spaces**, **Tabs** or **Minify**.
+3. If the JSON is valid, the formatted version appears with a "Valid JSON" note. If not, you'll see an error message.
+4. Copy the result.
+
+## Common JSON errors
+
+| Error | Invalid | Valid |
+| --- | --- | --- |
+| Trailing comma | `[1, 2, 3,]` | `[1, 2, 3]` |
+| Single quotes | `{'name': 'x'}` | `{"name": "x"}` |
+| Unquoted key | `{name: "x"}` | `{"name": "x"}` |
+| Comments | `{"a": 1 // note}` | Not allowed in JSON |
+| Special values | `NaN`, `undefined` | Use `null` instead |
+
+JSON looks like JavaScript, but it's stricter. Files that work in JavaScript code often fail as JSON for exactly these reasons. The error message points to where the parser gave up, which is usually just after the real mistake, so look at the character before the position it mentions.
+
+## Format or minify?
+
+**Formatting** adds indentation and line breaks so you can read the structure, find a value quickly and compare two versions. **Minifying** removes all unnecessary whitespace, making the file smaller to send over a network or store in a database. Both contain exactly the same data.
+
+## Useful for
+
+- Reading **API responses** that arrive as one long line.
+- Checking **configuration files** for apps, servers and tools.
+- Tidying **exported data** before committing it to a code repository.
+
+## Private by design
+
+JSON often contains API keys, tokens and personal data. This formatter uses your browser's built-in JSON parser, so nothing you paste is uploaded or logged. For encoded values inside JSON, the [Base64 decoder](/tools/base64-encoder-decoder) and [URL decoder](/tools/url-encoder-decoder) can help.

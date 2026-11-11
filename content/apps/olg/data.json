@@ -1,0 +1,83 @@
+{
+  "slug": "olg",
+  "name": "OLG Lottery & Casino",
+  "shortName": "OLG",
+  "packageName": "com.olg.ewma",
+  "type": "app",
+  "category": "casino",
+  "developer": {
+    "name": "OLG",
+    "slug": "olg",
+    "url": "https://www.olg.ca"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.olg.ewma",
+  "officialUrl": "https://www.olg.ca/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "10",
+  "latest": {
+    "version": "6.24.7",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.olg.ewma&gl=CA",
+    "changelog": [
+      "Bug fixes and performance improvements.",
+      "Updates to the OLG Mobile Application End User License Agreement."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/olg/icon.webp",
+  "summary": "OLG Lottery & Casino is the official app of OLG, Ontario's government lottery and gaming agency, for lottery tickets, results and OLG's online casino. The latest OLG APK is version 6.24.7, updated October 22, 2026, and needs Android 10 or newer. It's free, rated Adults only 18+, and works only in Ontario.",
+  "metaDescription": "Get the official OLG casino app for Android 10+. OLG online casino login, real money games, lottery tickets, casino locations and how to install it.",
+  "primaryKeyword": "olg casino app",
+  "secondaryKeywords": [
+    "olg online casino login",
+    "olg casino online",
+    "olg casino games",
+    "olg casino real money",
+    "olg casino locations",
+    "olg casino fallsview"
+  ],
+  "alternatives": [
+    "betty-casino"
+  ],
+  "faq": [
+    {
+      "q": "How do I install OLG on Android?",
+      "a": "OLG is for adults in Ontario only. Open Google Play, search for OLG and check the developer is OLG before tapping Install. It needs Android 10 or newer and is free to install. The app checks that you are in Ontario before you play casino games. Don’t install OLG APK files from other sites."
+    },
+    {
+      "q": "How do I log in to the OLG online casino?",
+      "a": "Open the OLG app or olg.ca and tap Log In, then enter the email address and password for your OLG account. If you don't have one, register in the app; you'll need to confirm your identity and age. Because OLG is regulated, it also checks that you're physically in Ontario before you play."
+    },
+    {
+      "q": "Can I play OLG casino games for real money?",
+      "a": "Yes, if you're in Ontario and old enough. OLG's online casino offers real-money slots, table games and live dealer games through your OLG account. The minimum age is 18 for lottery products and 19 for casino games."
+    },
+    {
+      "q": "Is the OLG app safe?",
+      "a": "Yes. OLG is a Crown agency of the Government of Ontario, and its app on Google Play is published by OLG. It's rated Adults only 18+ for real gambling, and OLG says 100% of its profits are reinvested in the province."
+    },
+    {
+      "q": "Where are OLG casino locations?",
+      "a": "OLG oversees land-based casinos, slots and charitable gaming sites across Ontario, which are run day to day by private service providers. They include Fallsview Casino Resort and Casino Niagara in Niagara Falls. The OLG app and olg.ca list locations and opening hours."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.olg.ewma",
+    "https://www.olg.ca/",
+    "https://www.olg.ca/"
+  ],
+  "oldUrls": [],
+  "affiliateUrl": null
+}

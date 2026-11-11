@@ -1,0 +1,89 @@
+{
+  "slug": "betty-casino",
+  "name": "Betty Casino: Real Money Slots",
+  "shortName": "Betty Casino",
+  "packageName": "ca.betty.app",
+  "type": "game",
+  "category": "casino",
+  "developer": {
+    "name": "Betty Canada",
+    "slug": "betty-canada",
+    "url": "https://betty.ca"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=ca.betty.app",
+  "officialUrl": "https://betty.ca/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "1.187.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=ca.betty.app&gl=CA",
+    "changelog": [
+      "Bug fixes and improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/betty-casino/icon.webp",
+  "summary": "Betty Casino is a real-money online casino app from Betty Canada with more than 4,500 slots, licensed only in Ontario and Alberta. The latest Betty Casino APK is version 1.187.1, updated October 29, 2026, and needs Android 8.0 or newer. It's free to install, rated Adults only 18+, and isn't licensed in other provinces.",
+  "metaDescription": "Get the official Betty Casino app for Android. Login, games, Ontario and Alberta licensing, and what players in Manitoba, Quebec and Saskatchewan can use.",
+  "primaryKeyword": "betty casino app download",
+  "secondaryKeywords": [
+    "betty casino login",
+    "betty canada casino",
+    "betty casino games",
+    "betty casino manitoba real money",
+    "betty casino quebec",
+    "betty casino saskatchewan",
+    "betty casino app login for android"
+  ],
+  "alternatives": [
+    "olg",
+    "bet99"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Betty Casino on Android?",
+      "a": "Betty Casino is only for adults in Ontario and Alberta. Open Google Play, search for Betty Casino and check the developer is Betty Canada before tapping Install. It needs Android 8.0 or newer and is free to install. Google Play only shows real-money gambling apps where they are allowed, and the app checks your location before you play. Don’t install Betty Casino APK files from other sites, which can steal your login and payment details."
+    },
+    {
+      "q": "How do I log in to Betty Casino on Android?",
+      "a": "Open the Betty Casino app and tap Log in, then enter the email address and password you used to register. Because Betty is a regulated casino, the app also checks that you're physically in Ontario or Alberta, so allow location access when asked. If you forget your password, use the reset link on the login screen; Betty support never asks for your password."
+    },
+    {
+      "q": "Can I play Betty Casino for real money in Manitoba?",
+      "a": "No. Betty Casino says it's licensed only in Ontario and Alberta, and its app checks your location. In Manitoba, the provincially regulated online casino is PlayNow.com, run with Manitoba Liquor & Lotteries. The minimum gambling age in Manitoba is 18."
+    },
+    {
+      "q": "Is Betty Casino available in Quebec or Saskatchewan?",
+      "a": "No. Betty Casino isn't licensed in Quebec or Saskatchewan. In Quebec, the regulated online casino is run by Loto-Québec (minimum age 18). In Saskatchewan, the regulated option is PlayNow.com (minimum age 19)."
+    },
+    {
+      "q": "What games does Betty Casino have?",
+      "a": "Betty Casino lists more than 4,500 casino games, mostly online slots, including well-known titles such as Sugar Rush, Sweet Bonanza and Gates of Olympus. It also has a daily wheel, daily scratch cards, tournaments, Betty Coins and a levelling system."
+    },
+    {
+      "q": "How old do you have to be to use Betty Casino?",
+      "a": "You must be at least 19 in Ontario and 18 in Alberta. Google Play rates the app Adults only 18+ for real gambling, and Betty verifies your identity and age before you can withdraw."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=ca.betty.app",
+    "https://betty.ca/",
+    "https://www.igamingontario.ca/",
+    "https://aglc.ca/"
+  ],
+  "oldUrls": [],
+  "affiliateUrl": null
+}

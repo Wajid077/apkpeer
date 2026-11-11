@@ -1,0 +1,80 @@
+{
+  "slug": "brawl-stars",
+  "name": "Brawl Stars",
+  "shortName": "Brawl Stars",
+  "packageName": "com.supercell.brawlstars",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Supercell",
+    "slug": "supercell",
+    "url": "https://supercell.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+  "officialUrl": "https://supercell.com/en/games/brawlstars/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "70.648",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+    "changelog": [
+      "Update 70 (Ranked Refresh & Brawlidays, Nov–Dec 2026): a refined Ranked mode for solo players with new cosmetics, better matchmaking and pick/ban options.",
+      "Three new Brawlers: the royal couple Ruby & Rey, stronger together, and the Thunder Frogs, a trio of amphibious magicians."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/brawl-stars/icon.webp",
+  "summary": "Brawl Stars is Supercell's free multiplayer action game with fast 3v3 matches, Showdown battle royale and dozens of Brawlers to unlock. The latest Brawl Stars APK is version 70.648, updated October 30, 2026, and needs Android 7.0 or newer. It has no ads, and in-app purchases from $0.29 to $239.99 are optional.",
+  "metaDescription": "Get the official Brawl Stars APK 70.648 for Android 7.0+. Update 70 with Ranked Refresh and 3 new Brawlers, game modes, tips and install steps.",
+  "primaryKeyword": "brawl stars apk",
+  "secondaryKeywords": [
+    "brawl stars download",
+    "brawl stars update",
+    "brawl stars new brawlers"
+  ],
+  "alternatives": [
+    "clash-royale",
+    "clash-of-clans",
+    "stumble-guys"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Brawl Stars on Android?",
+      "a": "Open Google Play, search for Brawl Stars and check the developer is Supercell before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Supercell and may be altered, so the safest way to play Brawl Stars is the official listing."
+    },
+    {
+      "q": "Is Brawl Stars free?",
+      "a": "Yes. Brawl Stars is free to play, with no ads. Supercell sells optional in-app purchases from $0.29 to $239.99 per item, such as the Brawl Pass, gems and skins. You can unlock Brawlers by playing."
+    },
+    {
+      "q": "What age is Brawl Stars for?",
+      "a": "Google Play rates Brawl Stars Everyone 10+ for fantasy violence and crude humour. Supercell requires players to be at least 13 to use social features such as clubs and chat in many countries, and offers parental controls through Supercell ID."
+    },
+    {
+      "q": "Who are the new Brawlers in update 70?",
+      "a": "Update 70 adds three new Brawlers: the royal couple Ruby and Rey, who are more powerful when played together, and the Thunder Frogs, a trio of amphibious magicians."
+    },
+    {
+      "q": "How do I save my Brawl Stars account?",
+      "a": "Connect your game to Supercell ID in settings. Your Brawlers and progress are then saved to your email address, so you can log in on a new phone or play on several devices."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+    "https://supercell.com/en/games/brawlstars/"
+  ],
+  "oldUrls": []
+}

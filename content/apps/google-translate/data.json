@@ -1,0 +1,79 @@
+{
+  "slug": "google-translate",
+  "name": "Google Translate",
+  "shortName": "Google Translate",
+  "packageName": "com.google.android.apps.translate",
+  "type": "app",
+  "category": "tools",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+  "officialUrl": "https://translate.google.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+    "changelog": [
+      "Bug fixes and improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-translate/icon.webp",
+  "summary": "Google Translate is Google's free translation app for text, speech, conversations, photos and handwriting in over 100 languages. Google Play lists the Google Translate APK version as \"Varies with device\", updated November 3, 2026. It has no ads or in-app purchases, and many languages can be downloaded for offline use.",
+  "metaDescription": "Get the official Google Translate APK for Android, updated November 3, 2026. Camera, conversation and offline translation explained, plus install steps.",
+  "primaryKeyword": "google translate apk",
+  "secondaryKeywords": [
+    "google translate app",
+    "google translate offline",
+    "google translate download"
+  ],
+  "alternatives": [
+    "google-lens",
+    "duolingo",
+    "google-gemini"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Google Translate on Android?",
+      "a": "Open Google Play, search for Google Translate and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Google Translate is the official listing."
+    },
+    {
+      "q": "Is Google Translate free?",
+      "a": "Yes. Google Translate is completely free, with no ads and no in-app purchases. You only need a Google account if you want to save translations to your phrasebook across devices."
+    },
+    {
+      "q": "Can Google Translate work offline?",
+      "a": "Yes. Download a language in the app under Settings → Downloaded languages, and you can translate text and photos without an internet connection. Offline translations may be a little less accurate than online ones."
+    },
+    {
+      "q": "How do I translate text in other apps?",
+      "a": "Turn on Tap to Translate in Google Translate's settings. Then copy text in any app, and a Google Translate bubble appears so you can translate it without leaving the app you're in."
+    },
+    {
+      "q": "Is Google Translate accurate?",
+      "a": "It's good for understanding the meaning of text and for travel conversations, especially between widely used languages. For legal documents, medical information or anything where precise wording matters, use a professional human translator."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+    "https://translate.google.com/"
+  ],
+  "oldUrls": []
+}

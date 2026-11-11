@@ -1,0 +1,33 @@
+## How to check an APK's SHA-256
+
+1. Find the official hash. Developers that publish one usually list it beside the download, on their GitHub releases page, or in a checksums file.
+2. Tap **Choose an APK or any file** and select the file you downloaded.
+3. Paste the official hash into **Expected hash**. Spaces, colons and capital letters don't matter.
+4. Read the result. A green **Match** means your file is identical to the developer's. **No match** means it's a different file, so don't install it.
+
+The tool calculates SHA-256, SHA-1 and SHA-512 at the same time, so it works whichever one the developer publishes.
+
+## Why check a file's hash?
+
+APK files are often re-uploaded to download sites. Most copies are untouched, but some are repackaged with adware or malware while keeping the original name and icon. A hash is like a fingerprint of the exact bytes in a file: change one byte and the SHA-256 is completely different. If your hash matches the developer's, the file is exactly the one they released.
+
+Hashes are useful for more than APKs. You can check ISO images, firmware updates, ZIP archives or any download where the publisher lists a checksum.
+
+## Hash vs signing certificate
+
+| Check | What it tells you | Changes with each version? |
+| --- | --- | --- |
+| File SHA-256 (this tool) | This exact file is identical to the published one | Yes |
+| Signing certificate fingerprint | The app was signed by the same developer key | No |
+
+Android itself checks the signing certificate when you update an app: an update signed with a different key won't install over the existing app. The file hash covers the other case, a fresh install from somewhere other than Google Play. Our [editorial policy](/editorial-policy) explains how APKPeer checks both before it hosts a file.
+
+## Where to find official hashes
+
+- **GitHub releases.** Many open-source apps list SHA-256 values, for example in the release notes.
+- **F-Droid.** Every build on [F-Droid](/app/f-droid) is signed, and the client verifies files automatically.
+- **APKPeer download pages.** Verified files show both their SHA-256 and the signing certificate fingerprint.
+
+## Is my file uploaded?
+
+No. The hash is calculated by your browser's built-in cryptography, and the file never leaves your device. That also means large files are limited only by your device's memory.

@@ -1,0 +1,85 @@
+{
+  "slug": "geometry-dash-lite",
+  "name": "Geometry Dash Lite",
+  "shortName": "Geometry Dash Lite",
+  "packageName": "com.robtopx.geometryjumplite",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "RobTop Games",
+    "slug": "robtop-games",
+    "url": "https://www.robtopgames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
+  "officialUrl": "https://www.robtopgames.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": false,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "2.2.148",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
+    "changelog": [
+      "Platformer saving.",
+      "Death tracking and death markers.",
+      "Custom platformer controls.",
+      "Emotes.",
+      "A News tab.",
+      "Improved options and navigation.",
+      "Bug fixes and tweaks."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/geometry-dash-lite/icon.webp",
+  "summary": "Geometry Dash Lite is the free version of RobTop Games' rhythm-based platformer, where you tap to jump and fly through levels timed to the music. The latest Geometry Dash Lite APK is version 2.2.148, updated October 22, 2026, and needs Android 7.0 or newer. It's free with ads; the full game is a paid app.",
+  "metaDescription": "Get the official Geometry Dash Lite APK 2.2.148 for Android 7.0+. The free rhythm platformer from RobTop: what's new, Lite vs full game, install steps.",
+  "primaryKeyword": "geometry dash lite apk",
+  "secondaryKeywords": [
+    "geometry dash lite download",
+    "geometry dash free",
+    "geometry dash lite vs full version"
+  ],
+  "alternatives": [
+    "geometry-dash",
+    "subway-surfers",
+    "temple-run-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Geometry Dash Lite on Android?",
+      "a": "Open Google Play, search for Geometry Dash Lite and check the developer is RobTop Games before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from RobTop Games and may be altered, so the safest way to play Geometry Dash Lite is the official listing."
+    },
+    {
+      "q": "Is Geometry Dash Lite free?",
+      "a": "Yes. Geometry Dash Lite is free to download and play, and it's supported by ads. Google Play doesn't list any in-app purchases for it. The full Geometry Dash, with all levels, the level editor and online levels, is a separate paid app from RobTop Games."
+    },
+    {
+      "q": "What's the difference between Geometry Dash Lite and the full version?",
+      "a": "Geometry Dash Lite includes a selection of the official levels with ads. The full Geometry Dash is paid and adds every official level, the level editor, thousands of player-made online levels, more icons and no ads. Lite is a good way to see if you like the game first."
+    },
+    {
+      "q": "Does Geometry Dash Lite work offline?",
+      "a": "Yes. The levels in Geometry Dash Lite can be played without an internet connection, so it works on flights and commutes. Ads and online features such as the News tab need a connection, so you may see fewer ads offline."
+    },
+    {
+      "q": "Can you transfer Geometry Dash Lite progress to the full game?",
+      "a": "Lite and the full Geometry Dash are separate apps, and progress doesn't carry over automatically. Since the official levels are the same, players who switch usually find the levels they've already beaten much quicker the second time. Account features in the full game save progress online."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
+    "https://www.robtopgames.com/"
+  ],
+  "oldUrls": []
+}

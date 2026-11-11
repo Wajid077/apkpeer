@@ -1,0 +1,81 @@
+{
+  "slug": "among-us",
+  "name": "Among Us",
+  "shortName": "Among Us",
+  "packageName": "com.innersloth.spacemafia",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Innersloth LLC",
+    "slug": "innersloth",
+    "url": "https://www.innersloth.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+  "officialUrl": "https://www.innersloth.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "2026.9.29",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-11",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+    "changelog": [
+      "Update v19.0.0 adds a new Ghost Crewmate role, the Influencer, who helps living Crewmates.",
+      "New Message ability: send clues from beyond the grave to help catch the Impostors.",
+      "Halloween map decorations, Trick and Treat Cosmicubes, and the 2019 Halloween Bundle return in October."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/among-us/icon.webp",
+  "summary": "Among Us is a free online social deduction game from Innersloth where 4 to 15 players complete tasks on a spaceship while hidden Impostors try to sabotage them. The latest Among Us APK is version 2026.9.29, updated September 11, 2026, and needs Android 8.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official Among Us APK 2026.9.29 for Android 8.0+. New Influencer ghost role, how to play, install steps and staying safe in online lobbies.",
+  "primaryKeyword": "among us apk",
+  "secondaryKeywords": [
+    "among us download",
+    "among us for android",
+    "among us new update"
+  ],
+  "alternatives": [
+    "stumble-guys",
+    "roblox",
+    "goose-goose-duck"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Among Us on Android?",
+      "a": "Open Google Play, search for Among Us and check the developer is Innersloth LLC before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Innersloth LLC and may be altered, so the safest way to play Among Us is the official listing."
+    },
+    {
+      "q": "Is Among Us free on Android?",
+      "a": "Yes. Among Us is free to download and play on Android. It shows ads and sells optional in-app purchases from $0.99 to $24.99 per item on Google Play, mainly cosmetics such as hats, skins and pets. Purchases don't affect gameplay or give anyone an advantage."
+    },
+    {
+      "q": "How many players can play Among Us?",
+      "a": "An Among Us lobby holds from 4 to 15 players. The host chooses how many are Impostors and which roles, such as Engineer, Scientist or Guardian Angel, are in the game. Bigger lobbies make it harder to work out who the Impostor is."
+    },
+    {
+      "q": "Can you play Among Us offline?",
+      "a": "Mostly no. Among Us is played online with others, and the local mode needs players on the same Wi-Fi network. There's a freeplay mode for practising tasks and exploring maps alone, but the actual game needs other people. Local games still need everyone nearby on the same network, not the internet."
+    },
+    {
+      "q": "Is Among Us safe for kids?",
+      "a": "Among Us is rated Everyone 10+ on Google Play for fantasy violence and mild blood. The main risk is chat with strangers in public lobbies. Innersloth accounts for younger players have restricted chat, and playing in private lobbies with friends avoids strangers entirely."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+    "https://www.innersloth.com/"
+  ],
+  "oldUrls": []
+}

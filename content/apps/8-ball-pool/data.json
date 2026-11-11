@@ -1,0 +1,83 @@
+{
+  "slug": "8-ball-pool",
+  "name": "8 Ball Pool",
+  "shortName": "8 Ball Pool",
+  "packageName": "com.miniclip.eightballpool",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "Miniclip.com",
+    "slug": "miniclip",
+    "url": "https://www.miniclip.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+  "officialUrl": "https://www.miniclip.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "56.34.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+    "changelog": [
+      "New album.",
+      "Cheer your friends on.",
+      "Spectate games.",
+      "Increase your Daily Streak.",
+      "Upcoming events: Flashback Día de los Muertos (October 28) and the Ocean Drive Heist Season (November 4)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/8-ball-pool/icon.webp",
+  "summary": "8 Ball Pool is Miniclip's free online pool game for Android, where you play one-on-one matches against friends or players worldwide and work your way up to higher-stakes tables. The latest 8 Ball Pool APK is version 56.34.0, updated October 29, 2026, and needs Android 6.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official 8 Ball Pool APK 56.34.0 for Android 6.0+. Spectating, cheering and new events: how to play, aiming tips, install steps and account safety.",
+  "primaryKeyword": "8 ball pool apk",
+  "secondaryKeywords": [
+    "8 ball pool download",
+    "8 ball pool new update",
+    "8 ball pool online"
+  ],
+  "alternatives": [
+    "carrom-pool",
+    "ludo-king",
+    "uno"
+  ],
+  "faq": [
+    {
+      "q": "How do I install 8 Ball Pool on Android?",
+      "a": "Open Google Play, search for 8 Ball Pool and check the developer is Miniclip.com before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Miniclip.com and may be altered, so the safest way to play 8 Ball Pool is the official listing."
+    },
+    {
+      "q": "Is 8 Ball Pool free?",
+      "a": "Yes. 8 Ball Pool is free to download and play. Miniclip earns money from ads and optional in-app purchases, such as coins, cash and cues, which Google Play lists from $0.10 to $299.99 per item. Some purchases include random items. You can win coins by playing."
+    },
+    {
+      "q": "Can I play 8 Ball Pool with friends?",
+      "a": "Yes. You can challenge friends directly from your friends list, and the new update lets you spectate friends' games and cheer them on. You need to be online, and both players need the official 8 Ball Pool app. It's also an easy way to practise against people you know."
+    },
+    {
+      "q": "Can I play 8 Ball Pool offline?",
+      "a": "There's a practice mode for playing on your own, but the main game, matches against other players for coins, needs an internet connection. Your coins, cues and progress are stored on Miniclip's servers. That's why linking an account matters if you change phones."
+    },
+    {
+      "q": "Is it safe to use 8 Ball Pool coin generators or aim tools?",
+      "a": "No. Coin generators are scams designed to steal accounts, and aim-assist tools and modified versions break Miniclip's terms of service. Miniclip detects them and bans accounts. Only buy coins inside the game. Linking your account also helps you recover it if anything goes wrong."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+    "https://www.miniclip.com/"
+  ],
+  "oldUrls": []
+}

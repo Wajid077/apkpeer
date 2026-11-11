@@ -1,0 +1,32 @@
+## How to generate a hash
+
+1. Type or paste text into the box.
+2. MD5, SHA-1, SHA-256 and SHA-512 hashes appear instantly, updating as you type.
+3. Tap **Copy** next to the one you need.
+
+The text is encoded as UTF-8 before hashing, which matches most programming languages and command-line tools.
+
+## Which hash should you use?
+
+| Algorithm | Length | Use today |
+| --- | --- | --- |
+| MD5 | 32 hex characters | Legacy checksums only |
+| SHA-1 | 40 hex characters | Legacy systems, Git object IDs |
+| SHA-256 | 64 hex characters | Checksums, file verification, signatures |
+| SHA-512 | 128 hex characters | Where a longer hash is required |
+
+For anything new, use **SHA-256**. MD5 and SHA-1 have known weaknesses: researchers can create two different inputs with the same hash, so they're no longer trusted for security. They're still fine for spotting accidental changes, such as a corrupted download.
+
+## Hashes are one-way
+
+A hash can't be reversed to reveal the original text. But short or common text can be guessed: attackers keep huge tables of hashes for common passwords. That's why passwords should never be stored as plain MD5 or SHA hashes; password storage uses special slow algorithms such as bcrypt or Argon2, with a unique salt for each password.
+
+## Checking a value
+
+To check whether two pieces of text are identical, hash both and compare. Even a single extra space, a different line ending or a hidden character changes the hash completely, which makes hashing a reliable way to spot tiny differences.
+
+## Hashing files
+
+This tool hashes text you type. To hash a file, such as an APK, ISO image or ZIP archive, and compare it with a hash published by the developer, use the [APK & file SHA-256 checker](/tools/apk-hash-checker).
+
+Hashing runs in your browser; nothing you type is uploaded.

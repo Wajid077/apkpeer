@@ -1,0 +1,81 @@
+{
+  "slug": "clash-royale",
+  "name": "Clash Royale",
+  "shortName": "Clash Royale",
+  "packageName": "com.supercell.clashroyale",
+  "type": "game",
+  "category": "strategy",
+  "developer": {
+    "name": "Supercell",
+    "slug": "supercell",
+    "url": "https://supercell.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+  "officialUrl": "https://supercell.com/en/games/clashroyale/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "160635007",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+    "changelog": [
+      "\"Playtime Is Over!\" update: a new Crown Series competition this season.",
+      "New Evolutions: Giant (rages after taking damage and leaves a boosting trail) and Mirror (copies an Evolution card in its Evolved form).",
+      "Daily Puzzles."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/clash-royale/icon.webp",
+  "summary": "Clash Royale is Supercell's free real-time strategy card game: build an eight-card deck and destroy your opponent's towers in short 1v1 battles. The latest Clash Royale APK is version 160635007, updated November 3, 2026, and needs Android 7.0 or newer. It has no ads, and in-app purchases are optional.",
+  "metaDescription": "Get the official Clash Royale APK for Android 7.0+. New Crown Series, Giant and Mirror Evolutions, deck-building tips, and install steps.",
+  "primaryKeyword": "clash royale apk",
+  "secondaryKeywords": [
+    "clash royale download",
+    "clash royale update",
+    "clash royale evolutions"
+  ],
+  "alternatives": [
+    "clash-of-clans",
+    "brawl-stars",
+    "pokemon-tcg-pocket"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Clash Royale on Android?",
+      "a": "Open Google Play, search for Clash Royale and check the developer is Supercell before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Supercell and may be altered, so the safest way to play Clash Royale is the official listing."
+    },
+    {
+      "q": "Is Clash Royale free?",
+      "a": "Yes. Clash Royale is free to play, with no ads. Supercell sells optional in-app purchases from $0.29 to $239.99 per item on Google Play, such as the Pass Royale, gems and offers. Every card can be earned by playing."
+    },
+    {
+      "q": "What are Evolutions in Clash Royale?",
+      "a": "Evolutions are upgraded versions of certain cards with an extra ability. After you play an evolved card a set number of times, its Evolved form appears. The latest update adds Evolutions for the Giant and the Mirror."
+    },
+    {
+      "q": "How long is a Clash Royale battle?",
+      "a": "A normal battle lasts three minutes, with double elixir in the final minute. If it's a draw, overtime adds extra time. Some event modes are shorter or longer."
+    },
+    {
+      "q": "Is Clash Royale pay-to-win?",
+      "a": "Paying speeds up card upgrades, which can matter at higher trophies. Matchmaking and tournament standards help, and skill and deck choice matter most. Many top players are free-to-play or spend little."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+    "https://supercell.com/en/games/clashroyale/"
+  ],
+  "oldUrls": []
+}

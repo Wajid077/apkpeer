@@ -1,0 +1,77 @@
+{
+  "slug": "spotify",
+  "name": "Spotify: Music and Podcasts",
+  "shortName": "Spotify",
+  "packageName": "com.spotify.music",
+  "type": "app",
+  "category": "music-audio",
+  "developer": {
+    "name": "Spotify AB",
+    "slug": "spotify-ab",
+    "url": "https://www.spotify.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.spotify.music",
+  "officialUrl": "https://www.spotify.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "changelog": []
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/spotify/icon.webp",
+  "summary": "Spotify is a music and podcast streaming app for Android with a free, ad-supported tier and paid Premium plans. Google Play lists the version as varying by device, and the official Spotify APK was last updated on November 2, 2026. The free tier lets you stream music and podcasts with ads; Premium removes ads and adds offline listening.",
+  "metaDescription": "Get the official Spotify APK for Android: free music and podcasts with ads, or Premium. What the free tier includes, how to install it and stay safe.",
+  "primaryKeyword": "spotify apk",
+  "secondaryKeywords": [
+    "spotify download",
+    "spotify free",
+    "spotify for android"
+  ],
+  "alternatives": [
+    "youtube-music",
+    "deezer",
+    "soundcloud"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Spotify on Android?",
+      "a": "Open Google Play, search for Spotify and check the developer is Spotify AB before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Spotify AB and may be altered, so the safest way to use Spotify is the official listing."
+    },
+    {
+      "q": "Can I use Spotify for free on Android?",
+      "a": "Yes. Spotify has a free tier that lets you stream music and podcasts on Android with ads. The free tier has some limits compared with Premium, such as on skipping and downloading. Premium plans, sold as in-app purchases from $4.99 to $203.88 on Google Play, remove ads and add offline downloads."
+    },
+    {
+      "q": "Can I download songs on Spotify Free?",
+      "a": "Downloading music for offline listening is a Premium feature. Free users can listen online, and can download podcast episodes in many regions. If you need offline music, a Premium plan, or a family or student plan, is the official way to get it."
+    },
+    {
+      "q": "Is it safe to use a Spotify Premium APK from another site?",
+      "a": "No. Modified Spotify APKs that unlock Premium for free aren't from Spotify. They break Spotify's terms of service, Spotify regularly detects them and suspends accounts, and they can carry malware or steal your login. Use the official app from Google Play."
+    },
+    {
+      "q": "Why does Spotify show 'Varies with device' on Google Play?",
+      "a": "Spotify ships different builds for different phones, so Google Play shows \"Varies with device\" instead of a single version number and Android requirement. Google Play installs the right build for your phone automatically, which is why we list the update date instead."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "https://www.spotify.com/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "claude",
+  "name": "Claude by Anthropic",
+  "shortName": "Claude",
+  "packageName": "com.anthropic.claude",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "Anthropic PBC",
+    "slug": "anthropic",
+    "url": "https://www.anthropic.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude",
+  "officialUrl": "https://claude.ai/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "1.261102.19",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-04",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.anthropic.claude",
+    "changelog": [
+      "Squashed some bugs and improved the overall experience."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/claude/icon.webp",
+  "summary": "Claude is Anthropic's AI assistant app for writing, research, coding help and working with long documents. The latest Claude APK is version 1.261102.19, updated November 4, 2026, and needs Android 8.0 or newer. It's free to use with limits, and paid Pro and Max plans are sold as in-app purchases.",
+  "metaDescription": "Get the official Claude APK 1.261102.19 for Android 8.0+. What Claude does, free vs Pro and Max plans, voice and file features, install steps and privacy.",
+  "primaryKeyword": "claude apk",
+  "secondaryKeywords": [
+    "claude ai app",
+    "claude app download",
+    "anthropic claude android"
+  ],
+  "alternatives": [
+    "chatgpt",
+    "google-gemini",
+    "perplexity"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Claude on Android?",
+      "a": "Open Google Play, search for Claude and check the developer is Anthropic PBC before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Anthropic PBC and may be altered, so the safest way to use Claude is the official listing."
+    },
+    {
+      "q": "Is the Claude app free?",
+      "a": "Yes. Claude is free to download and use with a daily usage limit. Claude Pro and Max subscriptions raise those limits and add features such as more powerful models and research tools. Google Play lists in-app purchases from $20.00 to $700.00 per item."
+    },
+    {
+      "q": "Who makes Claude?",
+      "a": "Claude is made by Anthropic, an AI safety and research company based in San Francisco. The Android app is published on Google Play by Anthropic PBC, and the package name is com.anthropic.claude."
+    },
+    {
+      "q": "Can Claude read PDFs and photos?",
+      "a": "Yes. You can upload PDFs, documents, spreadsheets and images, or take a photo, and ask Claude to summarise, explain or pull out information. It's especially good with long documents, such as reports or contracts."
+    },
+    {
+      "q": "Does Claude remember previous chats?",
+      "a": "Claude keeps your chat history in your account, and you can continue earlier conversations. Projects let you give Claude shared files and instructions for a set of related chats. Memory features that recall details across chats can be managed or turned off in settings."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.anthropic.claude",
+    "https://claude.ai/"
+  ],
+  "oldUrls": []
+}

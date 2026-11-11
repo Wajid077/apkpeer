@@ -1,0 +1,89 @@
+{
+  "slug": "car-parking-multiplayer",
+  "name": "Car Parking Multiplayer",
+  "shortName": "Car Parking Multiplayer",
+  "packageName": "com.olzhas.carparking.multyplayer",
+  "type": "game",
+  "category": "simulation",
+  "developer": {
+    "name": "olzhass",
+    "slug": "olzhass",
+    "url": "https://olzhass.net"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer",
+  "officialUrl": "https://olzhass.net/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "4.9.11",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer",
+    "changelog": [
+      "New Construction event.",
+      "New Time-Attack event.",
+      "Option to change your email.",
+      "Creator's maps: ratings.",
+      "Creator's maps: publication form.",
+      "New skins.",
+      "New location.",
+      "New and reworked cars.",
+      "Bug fixes and optimization."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/car-parking-multiplayer/icon.webp",
+  "summary": "Car Parking Multiplayer is a free driving and parking simulator from olzhass with an open-world multiplayer mode, car tuning and 82 parking challenges. The latest Car Parking Multiplayer APK is version 4.9.11, updated September 24, 2026, and needs Android 7.1 or newer. It's free to play, with ads and in-app purchases.",
+  "metaDescription": "Get the official Car Parking Multiplayer APK 4.9.11 for Android 7.1+. Open-world multiplayer, car tuning and parking challenges: install steps and safety.",
+  "primaryKeyword": "car parking multiplayer apk",
+  "secondaryKeywords": [
+    "car parking multiplayer download",
+    "car parking multiplayer new update",
+    "car parking multiplayer online"
+  ],
+  "alternatives": [
+    "real-car-parking-2",
+    "dr-driving",
+    "extreme-car-driving-simulator"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Car Parking Multiplayer on Android?",
+      "a": "Open Google Play, search for Car Parking Multiplayer and check the developer is olzhass before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from olzhass and may be altered, so the safest way to play Car Parking Multiplayer is the official listing."
+    },
+    {
+      "q": "Is Car Parking Multiplayer free?",
+      "a": "Yes, Car Parking Multiplayer is free to download and play. It shows ads and sells optional in-app purchases from $0.99 to $69.99 per item on Google Play, mostly in-game money, cars and extras. You can earn money and unlock cars by playing, so paying isn't required."
+    },
+    {
+      "q": "Can I play Car Parking Multiplayer offline?",
+      "a": "Yes, partly. The single-player parking and driving challenges work offline. The open-world multiplayer mode, where you drive, trade cars and race with other players, needs an internet connection, as do account features such as cloud saves. Your single-player progress still saves on your phone while you play offline."
+    },
+    {
+      "q": "Is it safe to trade cars in Car Parking Multiplayer?",
+      "a": "Trading cars with real players is a built-in feature, but scams happen. Never give anyone your account login in exchange for a car or money, and be wary of offers outside the game, such as on social media. Account sellers and \"free money\" offers are the most common way players lose accounts."
+    },
+    {
+      "q": "What Android version does Car Parking Multiplayer need?",
+      "a": "Car Parking Multiplayer 4.9.11 needs Android 7.1 or newer, according to its Google Play listing. The open world is detailed, so on older or low-memory phones, lowering the graphics settings in the game helps keep driving smooth. Phones running older Android versions won't be offered the current version on Google Play."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.olzhas.carparking.multyplayer",
+    "https://olzhass.net/"
+  ],
+  "oldUrls": [
+    "/car-parking-multiplayer-mod/"
+  ]
+}

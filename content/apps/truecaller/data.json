@@ -1,0 +1,99 @@
+{
+  "slug": "truecaller",
+  "name": "Truecaller: Spam Call Blocker",
+  "shortName": "Truecaller",
+  "packageName": "com.truecaller",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Truecaller",
+    "slug": "truecaller",
+    "url": "https://www.truecaller.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.truecaller",
+  "officialUrl": "https://www.truecaller.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.truecaller",
+    "changelog": [
+      "The call Assistant is easier to set up, to handle unknown numbers and detect scams in real time, even from safe-looking numbers.",
+      "New Family Protection, to help keep family members safe from spam and scam calls.",
+      "Redesigned block settings with more control over your protection.",
+      "Bug fixes, performance improvements and a smoother experience."
+    ]
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Phone and call logs",
+      "reason": "Identifies incoming callers and shows who called, which is the app's main job."
+    },
+    {
+      "name": "Contacts",
+      "reason": "Shows your saved names and avoids flagging people you know. Note that Truecaller's directory is built partly from users' shared contacts."
+    },
+    {
+      "name": "SMS",
+      "reason": "Optional: if you set Truecaller as your SMS app, it filters spam and organizes messages."
+    },
+    {
+      "name": "Display over other apps",
+      "reason": "Shows caller ID on top of the incoming call screen."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/truecaller/icon.webp",
+  "summary": "Truecaller is a caller ID and spam-blocking app for Android that shows who's calling from unknown numbers and blocks spam and scam calls. The official Truecaller APK on Google Play was last updated on October 29, 2026, and needs Android 8.0 or newer. It's free with ads; Premium removes ads and adds extra protection.",
+  "metaDescription": "Get the official Truecaller APK for Android 8.0+. Caller ID and spam blocking, the new Family Protection, privacy trade-offs and how to unlist your number.",
+  "primaryKeyword": "truecaller apk",
+  "secondaryKeywords": [
+    "truecaller download",
+    "truecaller caller id",
+    "truecaller unlist number"
+  ],
+  "alternatives": [
+    "google-phone",
+    "hiya",
+    "should-i-answer"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Truecaller on Android?",
+      "a": "Open Google Play, search for Truecaller and check the developer is Truecaller before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Truecaller and may be altered, so the safest way to use Truecaller is the official listing."
+    },
+    {
+      "q": "Is Truecaller safe to use?",
+      "a": "The official Truecaller app is a legitimate app from Truecaller, a Swedish company. The trade-off is privacy: its caller ID directory is built partly from contacts shared by users, so your name and number may be in it even if you've never installed the app. Read its privacy policy before granting contacts access."
+    },
+    {
+      "q": "How do I remove my number from Truecaller?",
+      "a": "Truecaller has an official unlisting page at truecaller.com/unlisting. If you use the app, deactivate your account in its settings first, then submit your number on the unlisting page. After that, your name shouldn't appear in Truecaller searches."
+    },
+    {
+      "q": "Is Truecaller free?",
+      "a": "Yes. Truecaller is free to download and use, with ads. Truecaller Premium is an optional subscription that removes ads and adds extra features. Google Play lists in-app purchases from $0.99 to $449.00 per item, covering different Premium plans and lengths."
+    },
+    {
+      "q": "Does Truecaller block spam calls automatically?",
+      "a": "Truecaller warns you about numbers that other users have reported as spam, and you can set it to block top spammers automatically in its block settings, which this update redesigned. The new Assistant can also answer unknown callers for you and detect scams during the call."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.truecaller",
+    "https://www.truecaller.com/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "wcc3",
+  "name": "World Cricket Championship 3",
+  "shortName": "WCC3",
+  "packageName": "com.nextwave.wcc3",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "Nextwave Multimedia",
+    "slug": "nextwave-multimedia",
+    "url": "https://www.nextwavemultimedia.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nextwave.wcc3",
+  "officialUrl": "https://www.nextwavemultimedia.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "3.2.6",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nextwave.wcc3",
+    "changelog": [
+      "NPL 2026.",
+      "Bug fixes and game optimizations."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/wcc3/icon.webp",
+  "summary": "World Cricket Championship 3 (WCC3) is Nextwave Multimedia's free 3D cricket game for Android, with realistic animations, commentary, career mode and online multiplayer. The latest WCC3 APK is version 3.2.6, updated September 17, 2026, and needs Android 6.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official WCC3 APK 3.2.6 for Android 6.0+. World Cricket Championship 3 with NPL 2026: game modes, batting tips, install steps and safety notes.",
+  "primaryKeyword": "wcc3 apk",
+  "secondaryKeywords": [
+    "world cricket championship 3",
+    "wcc3 download",
+    "wcc3 new update"
+  ],
+  "alternatives": [
+    "real-cricket",
+    "efootball",
+    "score-hero"
+  ],
+  "faq": [
+    {
+      "q": "How do I install WCC3 on Android?",
+      "a": "Open Google Play, search for WCC3 and check the developer is Nextwave Multimedia before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Nextwave Multimedia and may be altered, so the safest way to play WCC3 is the official listing."
+    },
+    {
+      "q": "Is WCC3 free?",
+      "a": "Yes. World Cricket Championship 3 is free to download and play. It shows ads and sells optional in-app purchases, which Google Play lists from $0.05 to $215.00 per item, such as coins and premium content. You can play matches and the career mode without paying."
+    },
+    {
+      "q": "What is NPL in WCC3?",
+      "a": "NPL is a franchise-style T20 league inside WCC3, and the September 2026 update brought the NPL 2026 season, according to the Play Store release notes. You pick a team and play through the league to the final, much like a real T20 tournament."
+    },
+    {
+      "q": "Does WCC3 work offline?",
+      "a": "Many WCC3 modes, such as quick matches and tournaments against the computer, can be played without an internet connection. Online multiplayer, live events and saving progress to the cloud need a connection. Playing offline is a good way to practise batting before online matches."
+    },
+    {
+      "q": "What Android version does WCC3 need?",
+      "a": "World Cricket Championship 3 version 3.2.6 needs Android 6.0 or newer, according to its Google Play listing. It's a detailed 3D game, so lowering the graphics settings helps on older phones. Older phones won't be offered version 3.2.6 on Google Play."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nextwave.wcc3",
+    "https://www.nextwavemultimedia.com/"
+  ],
+  "oldUrls": []
+}

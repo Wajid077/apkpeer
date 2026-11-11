@@ -1,0 +1,82 @@
+{
+  "slug": "subway-surfers",
+  "name": "Subway Surfers",
+  "shortName": "Subway Surfers",
+  "packageName": "com.kiloo.subwaysurf",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "SYBO Games",
+    "slug": "sybo-games",
+    "url": "https://sybogames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+  "officialUrl": "https://sybogames.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "3.71.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+    "changelog": [
+      "The World Tour heads to Shenzhen for the Shenzhen Showdown, with new characters Wu Jade & Ling and Meihua.",
+      "A new season of challenges and rewards.",
+      "Complete the Season Hunt Challenge to unlock Meihua, and the Floor is Lava Challenge to unlock Meihua's Bao Bao Outfit.",
+      "Singles' Day and Kindness Day bundles."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/subway-surfers/icon.webp",
+  "summary": "Subway Surfers is a free endless runner from SYBO Games where you dash along train tracks, dodging trains and escaping the Inspector and his dog. The latest Subway Surfers APK is version 3.71.0, updated October 29, 2026, with the Shenzhen World Tour, and needs Android 7.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official Subway Surfers APK 3.71.0 for Android 7.0+. The Shenzhen Showdown World Tour update, new characters, install steps and safety notes.",
+  "primaryKeyword": "subway surfers apk",
+  "secondaryKeywords": [
+    "subway surfers download",
+    "subway surfers new update",
+    "subway surfers world tour"
+  ],
+  "alternatives": [
+    "temple-run-2",
+    "sonic-dash",
+    "geometry-dash-lite"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Subway Surfers on Android?",
+      "a": "Open Google Play, search for Subway Surfers and check the developer is SYBO Games before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from SYBO Games and may be altered, so the safest way to play Subway Surfers is the official listing."
+    },
+    {
+      "q": "Is Subway Surfers free?",
+      "a": "Yes, Subway Surfers is free to download and play. It shows ads, including optional ones you can watch for rewards, and sells in-app purchases from $0.99 to $99.99 per item on Google Play, such as keys, coins and character bundles. Some purchases include random items."
+    },
+    {
+      "q": "Can you play Subway Surfers offline?",
+      "a": "Yes. The endless run works without an internet connection, which makes it a good game for travel. Online features, such as daily challenges, events, leaderboards and saving progress to your account, need a connection, and some seasonal content only unlocks online."
+    },
+    {
+      "q": "What is the Subway Surfers World Tour?",
+      "a": "The World Tour is how Subway Surfers changes setting. Every few weeks, an update moves the game to a new city with its own look, characters and challenges. Update 3.71.0 takes the crew to Shenzhen for the Shenzhen Showdown, with new characters Wu Jade & Ling and Meihua."
+    },
+    {
+      "q": "What Android version does Subway Surfers need?",
+      "a": "Subway Surfers 3.71.0 needs Android 7.0 or newer, according to its Google Play listing. It's a light game that runs well on most budget phones. If your phone is older, Google Play won't offer the current version. It also needs some free storage for its seasonal updates."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+    "https://sybogames.com/"
+  ],
+  "oldUrls": []
+}

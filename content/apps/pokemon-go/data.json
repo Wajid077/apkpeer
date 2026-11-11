@@ -1,0 +1,79 @@
+{
+  "slug": "pokemon-go",
+  "name": "Pokémon GO",
+  "shortName": "Pokémon GO",
+  "packageName": "com.nianticlabs.pokemongo",
+  "type": "game",
+  "category": "adventure",
+  "developer": {
+    "name": "Scopely Explore, Inc.",
+    "slug": "scopely-explore",
+    "url": "https://pokemongo.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+  "officialUrl": "https://pokemongo.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "0.435.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+    "changelog": [
+      "Minor bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/pokemon-go/icon.webp",
+  "summary": "Pokémon GO is the free location-based game where you walk around the real world to catch, battle and trade Pokémon. The latest Pokémon GO APK is version 0.435.1, updated October 29, 2026, and needs Android 9 or newer. It has no ads, and in-app purchases from $0.99 to $99.99 buy PokéCoins.",
+  "metaDescription": "Get the official Pokémon GO APK 0.435.1 for Android 9+. How catching, raids and Community Days work, battery tips, safety advice, and install steps.",
+  "primaryKeyword": "pokemon go apk",
+  "secondaryKeywords": [
+    "pokemon go download",
+    "pokemon go update",
+    "pokemon go android"
+  ],
+  "alternatives": [
+    "pokemon-tcg-pocket",
+    "genshin-impact",
+    "minecraft"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Pokémon GO on Android?",
+      "a": "Open Google Play, search for Pokémon GO and check the developer is Scopely Explore, Inc. before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Scopely Explore, Inc. and may be altered, so the safest way to play Pokémon GO is the official listing."
+    },
+    {
+      "q": "Is Pokémon GO free?",
+      "a": "Yes. Pokémon GO is free to play, with no ads. In-app purchases from $0.99 to $99.99 per item on Google Play buy PokéCoins, which you spend on items like Poké Balls, Incubators, Raid Passes and storage upgrades. You can also earn some PokéCoins by defending Gyms."
+    },
+    {
+      "q": "Who makes Pokémon GO now?",
+      "a": "Pokémon GO was created by Niantic with The Pokémon Company. In 2025, Niantic sold its games business, including Pokémon GO, to Scopely. Google Play now lists the developer as Scopely Explore, Inc."
+    },
+    {
+      "q": "Can I play Pokémon GO without walking?",
+      "a": "Walking is a big part of the game, since it hatches Eggs and earns Buddy candy. But you can also play from home by using Remote Raid Passes, trading, and catching Pokémon that appear nearby. Using GPS spoofing to fake your location breaks the rules and gets accounts banned."
+    },
+    {
+      "q": "Does Pokémon GO drain the battery?",
+      "a": "It uses GPS, the camera and the screen, so yes. Turn off AR mode, lower the frame rate and use Adventure Sync to count steps while the app is closed. A power bank helps on Community Days."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+    "https://pokemongo.com/"
+  ],
+  "oldUrls": []
+}

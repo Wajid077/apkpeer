@@ -1,0 +1,40 @@
+{
+  "name": "apkpeer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "node scripts/validate-content.ts",
+    "build": "next build",
+    "postbuild": "node scripts/prune-export.ts && node scripts/check-links.ts",
+    "start": "npx serve out",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate-content.ts",
+    "validate:strict": "node scripts/validate-content.ts --strict",
+    "check-links": "node scripts/check-links.ts",
+    "indexnow": "node scripts/indexnow.ts",
+    "optimize-icon": "node scripts/optimize-icon.ts"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^3.1.0",
+    "github-slugger": "^2.0.0",
+    "jsqr": "1.4.0",
+    "next": "^15.3.0",
+    "qrcode": "1.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "rehype-slug": "^6.0.0",
+    "remark-gfm": "^4.0.0",
+    "sharp": "^0.35.5",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/qrcode": "1.5.6",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.6.0"
+  }
+}

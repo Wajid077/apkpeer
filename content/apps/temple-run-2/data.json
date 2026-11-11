@@ -1,0 +1,85 @@
+{
+  "slug": "temple-run-2",
+  "name": "Temple Run 2",
+  "shortName": "Temple Run 2",
+  "packageName": "com.imangi.templerun2",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "Imangi Studios",
+    "slug": "imangi-studios",
+    "url": "https://www.imangistudios.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.imangi.templerun2",
+  "officialUrl": "https://www.imangistudios.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.137.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-06",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.imangi.templerun2",
+    "changelog": [
+      "Spirit Cove and Spooky Summit return.",
+      "Unlock Rosa \"Rápida\" Reyes through limited-time challenges.",
+      "New Coin Streaks challenge type in Global Challenges.",
+      "Run as Count Magnus and Carnifex.",
+      "The Haunted Harvest Map and Classic Monsters Bundle are back for a limited time."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/temple-run-2/icon.webp",
+  "summary": "Temple Run 2 is a free endless runner from Imangi Studios: you swipe to turn, jump and slide while escaping a demon monkey through jungles, cliffs and mines. The latest Temple Run 2 APK is version 1.137.0, updated October 6, 2026, and needs Android 7.0 or newer. It's free, with ads and in-app purchases.",
+  "metaDescription": "Get the official Temple Run 2 APK 1.137.0 for Android 7.0+. Spooky Summit is back: what's new, install steps, offline play, safety notes and FAQ.",
+  "primaryKeyword": "temple run 2 apk",
+  "secondaryKeywords": [
+    "temple run 2 download",
+    "temple run 2 for android",
+    "temple run 2 offline"
+  ],
+  "alternatives": [
+    "subway-surfers",
+    "sonic-dash",
+    "geometry-dash-lite"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Temple Run 2 on Android?",
+      "a": "Open Google Play, search for Temple Run 2 and check the developer is Imangi Studios before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Imangi Studios and may be altered, so the safest way to play Temple Run 2 is the official listing."
+    },
+    {
+      "q": "Is Temple Run 2 free?",
+      "a": "Yes, Temple Run 2 is free to download and play. It shows ads and offers optional in-app purchases from $0.99 to $44.99 per item on Google Play, mostly gems, coins and character bundles. You can unlock most characters and power-ups by collecting coins during runs."
+    },
+    {
+      "q": "Can you play Temple Run 2 offline?",
+      "a": "Yes, the core endless run works without an internet connection, so it's a good game for flights and commutes. Online features such as Global Challenges, events, leaderboards and cloud saves need a connection. Some limited-time maps and rewards also only appear when you're online."
+    },
+    {
+      "q": "How do you get more gems in Temple Run 2?",
+      "a": "Gems appear on the track during runs, and you also earn them from daily challenges, objectives and events. They're used to revive after a fall and for some upgrades. You can buy more as an in-app purchase, but steady play and daily challenges add up over time."
+    },
+    {
+      "q": "What Android version does Temple Run 2 need?",
+      "a": "Temple Run 2 version 1.137.0 needs Android 7.0 or newer, according to its Google Play listing. It's a light game by modern standards, so it runs well on budget phones that meet that requirement. If your phone is older, Google Play won't offer the current version."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.imangi.templerun2",
+    "https://www.imangistudios.com/"
+  ],
+  "oldUrls": [
+    "/temple-run-2-mod/"
+  ]
+}

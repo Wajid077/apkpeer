@@ -1,0 +1,79 @@
+{
+  "slug": "efootball",
+  "name": "eFootball™",
+  "shortName": "eFootball",
+  "packageName": "jp.konami.pesam",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "KONAMI",
+    "slug": "konami",
+    "url": "https://www.konami.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.konami.pesam",
+  "officialUrl": "https://www.konami.com/efootball/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "11.1.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-13",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=jp.konami.pesam",
+    "changelog": [
+      "A number of issues were fixed. Konami posts more details in the game's News section."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/efootball/icon.webp",
+  "summary": "eFootball is Konami's free football game for Android, the successor to Pro Evolution Soccer, with realistic matches, licensed clubs and a Dream Team mode where you build your own squad. The latest eFootball APK is version 11.1.1, updated October 13, 2026, and needs Android 7.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official eFootball APK 11.1.1 for Android 7.0+. Konami's free football game: Dream Team, online matches, install steps, storage tips and safety.",
+  "primaryKeyword": "efootball apk",
+  "secondaryKeywords": [
+    "efootball download",
+    "efootball 2026",
+    "efootball for android"
+  ],
+  "alternatives": [
+    "dream-league-soccer-2026",
+    "score-hero",
+    "fc-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install eFootball on Android?",
+      "a": "Open Google Play, search for eFootball and check the developer is KONAMI before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from KONAMI and may be altered, so the safest way to play eFootball is the official listing."
+    },
+    {
+      "q": "Is eFootball free?",
+      "a": "Yes, eFootball is free to download and play on Android. Konami makes money from optional in-app purchases, mainly eFootball Coins used for player packs, which Google Play lists from $0.19 to $109.99 per item. Some purchases include random items. You can build a competitive team without paying, though it takes longer."
+    },
+    {
+      "q": "Is eFootball the same as PES?",
+      "a": "Yes, eFootball is the successor to Pro Evolution Soccer (PES). Konami renamed the series in 2021 and moved it to a free-to-play model. The Android app keeps the old package name, jp.konami.pesam, which is why updates install over earlier PES mobile versions."
+    },
+    {
+      "q": "Can I play eFootball offline?",
+      "a": "No. eFootball needs an internet connection to start and to play, including matches against the AI, because your squad and progress are stored on Konami's servers. A stable Wi-Fi connection also helps avoid lag in online matches. If your connection drops mid-match, the game may pause or end the match."
+    },
+    {
+      "q": "Why does eFootball download more data after installing?",
+      "a": "eFootball downloads extra game data the first time you open it and after big updates, on top of the app itself. Make sure you have plenty of free storage and are on Wi-Fi before you start, or the download can fail partway through."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=jp.konami.pesam",
+    "https://www.konami.com/efootball/"
+  ],
+  "oldUrls": []
+}

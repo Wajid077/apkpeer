@@ -1,0 +1,79 @@
+{
+  "slug": "mx-player",
+  "name": "MX Player",
+  "shortName": "MX Player",
+  "packageName": "com.mxtech.videoplayer.ad",
+  "type": "app",
+  "category": "video-players",
+  "developer": {
+    "name": "Amazon Mobile LLC",
+    "slug": "amazon-mobile",
+    "url": "https://www.mxplayer.in"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad",
+  "officialUrl": "https://www.mxplayer.in/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "3.3.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad",
+    "changelog": [
+      "Bug fixes and performance optimization for a smoother, faster, more reliable app."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/mx-player/icon.webp",
+  "summary": "MX Player is a free video player for Android, known for hardware-accelerated playback, gesture controls and wide subtitle support, now published by Amazon Mobile LLC. The latest MX Player APK is version 3.3.1, updated October 30, 2026, and needs Android 7.0 or newer. It's free with ads, plus optional in-app purchases.",
+  "metaDescription": "Get the official MX Player APK 3.3.1 for Android 7.0+. Gesture controls, hardware decoding and subtitles: what's new, ads explained, install steps and FAQ.",
+  "primaryKeyword": "mx player apk",
+  "secondaryKeywords": [
+    "mx player download",
+    "mx player for android",
+    "mx player without ads"
+  ],
+  "alternatives": [
+    "vlc-for-android",
+    "mpv-android",
+    "just-player"
+  ],
+  "faq": [
+    {
+      "q": "How do I install MX Player on Android?",
+      "a": "Open Google Play, search for MX Player and check the developer is Amazon Mobile LLC before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Amazon Mobile LLC and may be altered, so the safest way to use MX Player is the official listing."
+    },
+    {
+      "q": "Is MX Player free?",
+      "a": "Yes, MX Player is free to download and use, and it's supported by ads. Google Play lists in-app purchases from $0.49 to $239.99 per item, which cover optional paid features and subscriptions. The core video player works fully on the free version."
+    },
+    {
+      "q": "Who owns MX Player now?",
+      "a": "MX Player is published on Google Play by Amazon Mobile LLC. Amazon acquired MX Player's business in 2024 and combined its streaming service with Amazon's own free video offering in India. The local video player itself still works the same way."
+    },
+    {
+      "q": "Does MX Player support MKV and subtitles?",
+      "a": "Yes. MX Player plays common formats including MKV and MP4, and supports subtitle files and embedded subtitles. During playback you can change the subtitle track, adjust timing if subtitles are out of sync, and change their size and color."
+    },
+    {
+      "q": "How can I use a video player without ads?",
+      "a": "MX Player's free version shows ads. If you want a video player with no ads at all, VLC for Android is free, open source and ad-free. Avoid modified ad-free MX Player APKs, which aren't official and can carry malware."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad",
+    "https://www.mxplayer.in/"
+  ],
+  "oldUrls": []
+}

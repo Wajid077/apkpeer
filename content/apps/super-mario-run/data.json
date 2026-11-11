@@ -1,0 +1,79 @@
+{
+  "slug": "super-mario-run",
+  "name": "Super Mario Run",
+  "shortName": "Super Mario Run",
+  "packageName": "com.nintendo.zara",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "Nintendo Co., Ltd.",
+    "slug": "nintendo",
+    "url": "https://www.nintendo.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nintendo.zara",
+  "officialUrl": "https://supermariorun.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "3.4.3",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-14",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nintendo.zara",
+    "changelog": [
+      "Bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/super-mario-run/icon.webp",
+  "summary": "Super Mario Run is Nintendo's one-handed Mario platformer for Android: Mario runs automatically and you tap to jump. The latest Super Mario Run APK is version 3.4.3, updated September 14, 2026, and needs Android 7.1 or newer. It's free to download and try, and a one-time $9.99 purchase unlocks the full game.",
+  "metaDescription": "Get the official Super Mario Run APK 3.4.3 for Android 7.1+. Free to try, $9.99 one-time unlock: what's included, the four modes, install steps and FAQ.",
+  "primaryKeyword": "super mario run apk",
+  "secondaryKeywords": [
+    "super mario run download",
+    "super mario run free",
+    "super mario run full game"
+  ],
+  "alternatives": [
+    "geometry-dash-lite",
+    "subway-surfers",
+    "temple-run-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Super Mario Run on Android?",
+      "a": "Open Google Play, search for Super Mario Run and check the developer is Nintendo Co., Ltd. before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Nintendo Co., Ltd. and may be altered, so the safest way to play Super Mario Run is the official listing."
+    },
+    {
+      "q": "Is Super Mario Run free?",
+      "a": "Super Mario Run is free to download and try, but it isn't free to play in full. You can try all four modes, World Tour, Toad Rally, Remix 10 and Kingdom Builder, and then a single $9.99 purchase on Google Play unlocks the whole game with no further payments, according to Nintendo's listing."
+    },
+    {
+      "q": "Does Super Mario Run need an internet connection?",
+      "a": "Yes. Super Mario Run needs an internet connection to play, even in the single-player World Tour. Nintendo uses the connection to verify your purchase and save progress. Make sure you're online before starting, especially on mobile data. If the connection drops during a course, you may need to restart it."
+    },
+    {
+      "q": "Does Super Mario Run have ads?",
+      "a": "No. Google Play doesn't list Super Mario Run as containing ads. Nintendo's model is a one-time purchase to unlock the full game rather than ads or ongoing payments, which makes it a good choice for children. The only purchase prompt is the full-game unlock."
+    },
+    {
+      "q": "Can I transfer Super Mario Run to a new phone?",
+      "a": "Yes. Link the game to your Nintendo Account from the in-game menu. On a new phone, sign in with the same Nintendo Account to restore your progress, and restore your purchase through Google Play if needed. Your $9.99 unlock is tied to your Google account."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nintendo.zara",
+    "https://supermariorun.com/"
+  ],
+  "oldUrls": []
+}

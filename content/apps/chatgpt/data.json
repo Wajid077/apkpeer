@@ -1,0 +1,97 @@
+{
+  "slug": "chatgpt",
+  "name": "ChatGPT",
+  "shortName": "ChatGPT",
+  "packageName": "com.openai.chatgpt",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "OpenAI",
+    "slug": "openai",
+    "url": "https://openai.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
+  "officialUrl": "https://chatgpt.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "1.2026.300",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
+    "changelog": [
+      "Minor fixes and improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Microphone",
+      "reason": "Voice conversations and dictating messages. Only used when you start voice input."
+    },
+    {
+      "name": "Camera",
+      "reason": "Taking a photo to ask ChatGPT about it."
+    },
+    {
+      "name": "Photos and files",
+      "reason": "Attaching images and documents to a chat."
+    },
+    {
+      "name": "Notifications",
+      "reason": "Letting you know when a long answer or task has finished."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/chatgpt/icon.webp",
+  "summary": "ChatGPT is OpenAI's official AI assistant app for Android, letting you chat by text or voice, ask about photos and files, and search the web. The latest ChatGPT APK is version 1.2026.300, updated October 30, 2026, and needs Android 7.1 or newer. It's free to use, with paid plans for more features and higher limits.",
+  "metaDescription": "Get the official ChatGPT APK 1.2026.300 for Android 7.1+. OpenAI's AI assistant with voice and image input: free vs paid plans, privacy tips and setup.",
+  "primaryKeyword": "chatgpt apk",
+  "secondaryKeywords": [
+    "chatgpt app download",
+    "chatgpt for android",
+    "is chatgpt app free"
+  ],
+  "alternatives": [
+    "google-gemini",
+    "claude",
+    "perplexity"
+  ],
+  "faq": [
+    {
+      "q": "How do I install ChatGPT on Android?",
+      "a": "Open Google Play, search for ChatGPT and check the developer is OpenAI before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from OpenAI and may be altered, so the safest way to use ChatGPT is the official listing."
+    },
+    {
+      "q": "Is the ChatGPT app free?",
+      "a": "Yes, ChatGPT is free to download and use with an OpenAI account. The free plan has usage limits on the most capable models and some features. Paid plans, sold as in-app purchases from $8.00 to $500.00 on Google Play, raise those limits and add features. Google Play also lists the app as containing ads."
+    },
+    {
+      "q": "Is the ChatGPT APK safe?",
+      "a": "The official ChatGPT app from OpenAI is safe. Its package name is com.openai.chatgpt, and it's published by OpenAI on Google Play. Many fake \"ChatGPT\" apps exist, some charging subscriptions for a basic wrapper, so check the developer name says OpenAI before installing or paying."
+    },
+    {
+      "q": "Does ChatGPT use my conversations for training?",
+      "a": "By default, OpenAI may use conversations from personal accounts to improve its models. You can turn this off in the app under Settings, Data Controls, by switching off the option to improve the model for everyone. Temporary chats aren't saved to your history either."
+    },
+    {
+      "q": "Can I use the same ChatGPT account on my phone and computer?",
+      "a": "Yes. Sign in with the same OpenAI account on Android and at chatgpt.com, and your chat history syncs between them. A paid plan bought on Google Play also applies on the web, though you manage or cancel it through Google Play's subscription settings."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
+    "https://chatgpt.com/",
+    "https://help.openai.com"
+  ],
+  "oldUrls": []
+}

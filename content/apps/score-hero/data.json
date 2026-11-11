@@ -1,0 +1,83 @@
+{
+  "slug": "score-hero",
+  "name": "Score! Hero",
+  "shortName": "Score! Hero",
+  "packageName": "com.firsttouchgames.story",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "First Touch Games Ltd.",
+    "slug": "first-touch-games",
+    "url": "https://www.ftgames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story",
+  "officialUrl": "https://www.ftgames.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "4.730",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-09",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.firsttouchgames.story",
+    "changelog": [
+      "New levels: Season 63 released.",
+      "Unique seasonal content with themed events.",
+      "Bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/score-hero/icon.webp",
+  "summary": "Score! Hero is a free football game from First Touch Games where you guide one player's career by drawing passes and shots across hundreds of story levels. The latest Score! Hero APK is version 4.730, updated October 9, 2026, and needs Android 7.0 or newer. It's free to play, with ads and in-app purchases.",
+  "metaDescription": "Get the official Score! Hero APK 4.730 for Android 7.0+. Draw passes and shots to build a football career: Season 63, install steps and safety notes.",
+  "primaryKeyword": "score hero apk",
+  "secondaryKeywords": [
+    "score hero download",
+    "score hero game",
+    "score hero new season"
+  ],
+  "alternatives": [
+    "dream-league-soccer-2026",
+    "efootball",
+    "score-match"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Score! Hero on Android?",
+      "a": "Open Google Play, search for Score! Hero and check the developer is First Touch Games Ltd. before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from First Touch Games Ltd. and may be altered, so the safest way to play Score! Hero is the official listing."
+    },
+    {
+      "q": "Is Score! Hero free?",
+      "a": "Yes, Score! Hero is free to download and play. It shows ads and sells optional in-app purchases from $0.99 to $59.99 per item on Google Play, such as extra energy and bucks. Some purchases include random items. You can play through the career without paying, just more slowly."
+    },
+    {
+      "q": "How do you play Score! Hero?",
+      "a": "You don't control a whole team. Each level is a moment from your player's match, and you swipe a line on the screen to pass the ball between teammates, then draw a curve to shoot. Completing a level's goal, such as scoring or assisting, earns stars and moves your career forward."
+    },
+    {
+      "q": "Does Score! Hero work offline?",
+      "a": "Many Score! Hero levels can be played without an internet connection. Online features, such as events, cloud saving of your progress and some rewards, need a connection. Connecting regularly keeps your career backed up if you change phones. Progress made offline is saved on your phone until you reconnect."
+    },
+    {
+      "q": "Who makes Score! Hero?",
+      "a": "Score! Hero is made by First Touch Games Ltd., the UK studio that also makes Dream League Soccer. It's been on Google Play since November 2015, and new seasons of levels are still added regularly; the October 2026 update added Season 63."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.firsttouchgames.story",
+    "https://www.ftgames.com/"
+  ],
+  "oldUrls": [
+    "/score-hero-mod/"
+  ]
+}

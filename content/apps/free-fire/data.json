@@ -1,0 +1,83 @@
+{
+  "slug": "free-fire",
+  "name": "Free Fire",
+  "shortName": "Free Fire",
+  "packageName": "com.dts.freefireth",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Garena International",
+    "slug": "garena",
+    "url": "https://ff.garena.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+  "officialUrl": "https://ff.garena.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "1.132.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-10",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+    "changelog": [
+      "Free Fire x NARUTO SHIPPUDEN crossover event.",
+      "Nine Tails Strikes: capture the Sharingan control point to call in strikes on an area you choose.",
+      "Ninjutsu Showdown: pick up ninjutsu scrolls in Battle Royale, or capture Cyber Airdrops to unlock them in Clash Squad.",
+      "Ninja Academy: explore the Hidden Leaf Village and the new Ninjutsu Academy.",
+      "Ninja Tools and Revival: throw Kunai and revive teammates at Revival Points."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/free-fire/icon.webp",
+  "summary": "Free Fire is Garena's free battle royale shooter for Android, where 50 players drop onto an island and fight to be the last survivor in matches of about ten minutes. The latest Free Fire APK is version 1.132.1, updated September 10, 2026, and needs Android 5.0 or newer. It's free to play with in-app purchases.",
+  "metaDescription": "Get the official Free Fire APK 1.132.1 for Android 5.0+. The Naruto crossover update, game modes, Free Fire vs MAX, install steps and account safety.",
+  "primaryKeyword": "free fire apk",
+  "secondaryKeywords": [
+    "free fire download",
+    "free fire new update",
+    "free fire vs free fire max"
+  ],
+  "alternatives": [
+    "pubg-mobile",
+    "free-fire-max",
+    "call-of-duty-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Free Fire on Android?",
+      "a": "Open Google Play, search for Free Fire and check the developer is Garena International before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Garena International and may be altered, so the safest way to play Free Fire is the official listing."
+    },
+    {
+      "q": "Is Free Fire free to play?",
+      "a": "Yes. Free Fire is free to download and play. Garena makes money from in-app purchases of diamonds, the premium currency used for characters, skins and passes, which Google Play lists from $0.09 to $99.99 per item. Some purchases include random items. Paying doesn't make weapons stronger."
+    },
+    {
+      "q": "What's the difference between Free Fire and Free Fire MAX?",
+      "a": "Both are official games from Garena and share the same accounts, matches and items. Free Fire is the lighter version that runs on low-end phones and needs Android 5.0 or newer. Free Fire MAX has better graphics and effects but needs a more powerful phone and more storage."
+    },
+    {
+      "q": "Why is the game called Free Fire x NARUTO SHIPPUDEN on Google Play?",
+      "a": "Garena temporarily renames the Google Play listing during big crossover events. Version 1.132.1 brought a NARUTO SHIPPUDEN collaboration with ninja-themed modes and items. It's the same Free Fire app; the name returns to normal when the event ends. Free Fire's package name, com.dts.freefireth, stays the same."
+    },
+    {
+      "q": "Can I get free diamonds in Free Fire?",
+      "a": "Not from generators, apps or websites that promise them. Those are scams that steal Garena or Google accounts. You can earn some rewards in events and with the Booyah Pass, and Garena runs official top-up promotions, but diamonds otherwise cost money."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+    "https://ff.garena.com/"
+  ],
+  "oldUrls": []
+}

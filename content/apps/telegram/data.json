@@ -1,0 +1,98 @@
+{
+  "slug": "telegram",
+  "name": "Telegram",
+  "shortName": "Telegram",
+  "packageName": "org.telegram.messenger",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Telegram FZ-LLC",
+    "slug": "telegram-fz-llc",
+    "url": "https://telegram.org"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+  "officialUrl": "https://telegram.org/android",
+  "price": "Free",
+  "containsAds": null,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+    "changelog": []
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Contacts",
+      "reason": "Optional: shows which of your contacts use Telegram. You can deny it and find people by username."
+    },
+    {
+      "name": "Camera and microphone",
+      "reason": "Calls, video messages, voice notes and taking photos to send."
+    },
+    {
+      "name": "Photos, videos and files",
+      "reason": "Sending and saving media and documents."
+    },
+    {
+      "name": "Location",
+      "reason": "Only used if you share your location in a chat."
+    },
+    {
+      "name": "Notifications",
+      "reason": "Alerts for new messages and calls."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/telegram/icon.webp",
+  "summary": "Telegram is a free, cloud-based messaging app for Android with chats that sync across all your devices, huge groups, public channels and bots. Google Play lists the version as varying by device, and the official Telegram APK was last updated on October 22, 2026. It's free to use; Telegram Premium is an optional subscription.",
+  "metaDescription": "Get the official Telegram APK for Android: cloud chats, channels, groups and bots. Secret chats explained, privacy settings, install steps and safety.",
+  "primaryKeyword": "telegram apk",
+  "secondaryKeywords": [
+    "telegram download",
+    "telegram for android",
+    "is telegram safe"
+  ],
+  "alternatives": [
+    "whatsapp",
+    "signal",
+    "whatsapp-business"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Telegram on Android?",
+      "a": "Open Google Play, search for Telegram and check the developer is Telegram FZ-LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Telegram also offers its own APK at telegram.org/android, which updates itself without Google Play."
+    },
+    {
+      "q": "Is Telegram end-to-end encrypted?",
+      "a": "Only in secret chats. Regular Telegram chats and groups are encrypted between your phone and Telegram's servers and stored in Telegram's cloud, which is what lets them sync across devices. Secret chats, which you start from a contact's profile, are end-to-end encrypted and stay on that one device."
+    },
+    {
+      "q": "Is Telegram free?",
+      "a": "Yes. Telegram is free to download and use. Telegram Premium is an optional subscription that adds features such as larger file uploads, faster downloads and extra customization. Google Play lists in-app purchases from $0.31 to $289.99, covering Premium and Telegram Stars."
+    },
+    {
+      "q": "Can I hide my phone number on Telegram?",
+      "a": "Yes. Go to Settings, Privacy and Security, Phone Number, and choose who can see it, including Nobody. You can also set a public username so people can find you without your number. Your number is still used to sign up and log in."
+    },
+    {
+      "q": "Can I install Telegram without Google Play?",
+      "a": "Yes. Telegram offers its own APK at telegram.org/android, and that version updates itself from Telegram rather than from Play. Use only Telegram's own site or Google Play; copies on other APK sites aren't official."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+    "https://telegram.org/"
+  ],
+  "oldUrls": []
+}

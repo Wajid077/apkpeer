@@ -1,0 +1,34 @@
+## How to generate UUIDs
+
+1. Set **How many** (1 to 500).
+2. Tick **Uppercase** or **No hyphens** if your system needs that format.
+3. Tap **Generate**, then **Copy all**.
+
+Each UUID is a random version 4 identifier created by your browser's built-in `crypto.randomUUID()` function, which uses a cryptographically secure random source.
+
+## What a UUID looks like
+
+`3f1c9a2e-7b4d-4e8a-9c1f-2d6b8e0a5c7f`
+
+That's 32 hexadecimal digits in five groups: 8-4-4-4-12. In a version 4 UUID, the first digit of the third group is always **4**, and the first digit of the fourth group is always 8, 9, a or b. The other 122 bits are random.
+
+## When to use UUIDs
+
+| Use | Why UUIDs help |
+| --- | --- |
+| Database primary keys | IDs can be created anywhere, even offline, without a central counter |
+| Distributed systems | Several servers can create records without clashing |
+| File and upload names | Avoids collisions and doesn't reveal how many files exist |
+| Test data | Realistic unique IDs for fixtures and mock APIs |
+
+## Trade-offs
+
+UUIDs are long, which makes them awkward to read aloud or type. Because version 4 UUIDs are random, they also don't sort by creation time, which can make some database indexes less efficient. Newer formats such as UUID version 7 add a timestamp at the start for that reason; if your database supports it, consider version 7 for keys.
+
+## Are they really unique?
+
+Practically, yes. With 122 random bits there are about 5.3 × 10³⁶ possible values. You'd need to generate around a billion UUIDs per second for many decades before a single duplicate became likely.
+
+## Related tools
+
+For random numbers in a range, use the [random number generator](/tools/random-number-generator). For secret values such as passwords, use the [password generator](/tools/password-generator).

@@ -1,0 +1,51 @@
+This page explains how the <Operator /> researches, checks and updates every app page on APKPeer. If you think a page breaks these rules, please [tell us](/contact).
+
+## Original apps only
+
+APKPeer lists original, unmodified apps and games. We never publish, link to or host:
+
+- modified APKs, "premium unlocked" builds, or versions with ads or payments removed
+- cheats, mod menus, injectors or tools for cheating in online games
+- cracked copies of paid apps or games
+- apps whose main purpose is streaming pirated films, TV or sport
+- downloaders that rip copyrighted music or video
+- unofficial clones of social apps
+- listings for apps that don't exist on Android
+
+Paid apps can have an information page, but the download button goes to Google Play only.
+
+## Where the facts come from
+
+Every version number, release date, file size, minimum Android version and price on APKPeer comes from an official source: the app's Google Play listing, the developer's website, or the developer's own release notes (for example a changelog page or GitHub releases). Each app page lists its sources at the bottom.
+
+If we can't verify a fact from one of those sources, we leave it out. You'll sometimes see an info table without a file size or Android requirement for that reason. We don't estimate it.
+
+We don't publish star ratings, download counts, benchmark results or "we tested it" claims unless we've actually measured them, and we never copy ratings from other sites.
+
+## How self-hosted APK files are checked
+
+Most download buttons on APKPeer go straight to Google Play or the developer. When we host a file ourselves, it's because the developer distributes an official APK and some readers can't use Google Play. Before a file goes live we:
+
+1. get it from the developer's official channel, never from another APK site
+2. run `apksigner verify --print-certs` and confirm the signing certificate's SHA-256 matches the one used for the developer's official build
+3. record the file's own SHA-256 so you can check your download hasn't been altered
+
+The download page shows both fingerprints. A "Verified original" badge only appears when both checks have passed. If a developer's certificate can't be confirmed, we don't host the file.
+
+## How pages are written
+
+Pages are written for people deciding whether to install an app, not for search engines. They explain what the app does, what changed in the latest version, how to install it safely, and any publicly documented privacy concerns. Drafts may be prepared with the help of AI writing tools. A member of the team checks every fact against the listed sources and edits the page before it's published, and the team is responsible for everything on the site.
+
+App pages don't promote mod versions. Where they're relevant, the safety section explains the risks: malware, account bans, and no security updates.
+
+## Keeping pages up to date
+
+We recheck popular apps regularly and update the version, release notes and "Last reviewed" date when the developer ships a new release. The date at the bottom of each page shows when it was last checked. If you spot an outdated version, [let us know](/contact) with a link to the official release and we'll update it.
+
+## Corrections
+
+When we get something wrong, we fix it as soon as we've confirmed the correct information, and we update the page's review date. Significant corrections are noted on the page.
+
+## Advertising and independence
+
+APKPeer is funded by ads served by Google AdSense and by affiliate commissions from some licensed gambling operators. When a download button is an affiliate link, it's labelled on the page and marked as a sponsored link, and we may earn a commission if you sign up. Affiliate relationships don't change the facts we report: licensing, age limits, provinces where an app is not allowed, and safety risks are always stated. Advertisers and developers can't pay for a listing, a better write-up, or a link. Ads are never styled to look like download buttons, and they're kept apart from the real download links.

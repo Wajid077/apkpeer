@@ -1,0 +1,77 @@
+{
+  "slug": "canva",
+  "name": "Canva: AI Photo & Video Editor",
+  "shortName": "Canva",
+  "packageName": "com.canva.editor",
+  "type": "app",
+  "category": "photo-editors",
+  "developer": {
+    "name": "Canva",
+    "slug": "canva",
+    "url": "https://www.canva.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.canva.editor",
+  "officialUrl": "https://www.canva.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "2.384.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.canva.editor",
+    "changelog": []
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/canva/icon.webp",
+  "summary": "Canva is a free design app for Android that lets you make social posts, videos, posters, presentations and more from thousands of templates, with AI tools built in. The latest Canva APK is version 2.384.0, updated October 28, 2026, and needs Android 8.0 or newer. It's free with no ads; Canva Pro unlocks premium content.",
+  "metaDescription": "Get the official Canva APK 2.384.0 for Android 8.0+. Design social posts, videos and posters from templates with AI tools: free vs Pro, setup and FAQ.",
+  "primaryKeyword": "canva apk",
+  "secondaryKeywords": [
+    "canva app download",
+    "canva for android",
+    "is canva free"
+  ],
+  "alternatives": [
+    "capcut",
+    "snapseed",
+    "picsart"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Canva on Android?",
+      "a": "Open Google Play, search for Canva and check the developer is Canva before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Canva and may be altered, so the safest way to use Canva is the official listing."
+    },
+    {
+      "q": "Is Canva free?",
+      "a": "Yes. Canva is free to download and use, with no ads, and the free plan includes a large set of templates, photos, elements and tools. Canva Pro and team plans unlock premium templates and assets, more AI tools, a brand kit and extra storage. Google Play lists in-app purchases from $1.49 to $300.00."
+    },
+    {
+      "q": "Can I use Canva offline?",
+      "a": "Mostly no. Canva's templates, photos and designs are stored online, so you need an internet connection to browse, edit and save. Designs you've already downloaded to your phone as images, PDFs or videos are yours to use offline. Canva also keeps recent designs available in the app so you can find them quickly when you reconnect."
+    },
+    {
+      "q": "Are Canva designs synced between phone and computer?",
+      "a": "Yes. Sign in with the same Canva account and every design is available in the Android app and at canva.com. You can start a design on your phone and finish it on a computer, or the other way round, and edits appear on both."
+    },
+    {
+      "q": "Can I use Canva designs commercially?",
+      "a": "Generally yes, within Canva's content license. Designs you make with free or Pro content can be used for many commercial purposes, but there are limits, for example on reselling templates or using elements in trademarks. Read Canva's license on canva.com before using a design for a logo or product."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.canva.editor",
+    "https://www.canva.com/"
+  ],
+  "oldUrls": []
+}

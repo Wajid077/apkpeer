@@ -1,0 +1,79 @@
+{
+  "slug": "bus-simulator-indonesia",
+  "name": "Bus Simulator Indonesia",
+  "shortName": "Bus Simulator Indonesia",
+  "packageName": "com.maleo.bussimulatorid",
+  "type": "game",
+  "category": "simulation",
+  "developer": {
+    "name": "Maleo",
+    "slug": "maleo",
+    "url": "https://play.google.com/store/apps/dev?id=Maleo"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": false,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "4.6",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid",
+    "changelog": [
+      "Sticker system.",
+      "Various bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/bus-simulator-indonesia/icon.webp",
+  "summary": "Bus Simulator Indonesia is Maleo's free driving simulator where you drive buses through Indonesian cities, design your own liveries and join online convoys. The latest Bus Simulator Indonesia APK is version 4.6, updated October 22, 2026, and needs Android 7.0 or newer. It contains ads and has no in-app purchases.",
+  "metaDescription": "Get the official Bus Simulator Indonesia APK 4.6 for Android 7.0+. New sticker system, liveries, online convoys, driving tips and install steps.",
+  "primaryKeyword": "bus simulator indonesia apk",
+  "secondaryKeywords": [
+    "bussid apk",
+    "bus simulator indonesia download",
+    "bussid livery"
+  ],
+  "alternatives": [
+    "car-parking-multiplayer",
+    "indian-bikes-driving-3d",
+    "hill-climb-racing"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Bus Simulator Indonesia on Android?",
+      "a": "Open Google Play, search for Bus Simulator Indonesia and check the developer is Maleo before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Maleo and may be altered, so the safest way to play Bus Simulator Indonesia is the official listing."
+    },
+    {
+      "q": "Is Bus Simulator Indonesia free?",
+      "a": "Yes. Bus Simulator Indonesia, often called BUSSID, is free to play and contains ads. Google Play shows no in-app purchases for it, so you earn money for new buses by driving routes."
+    },
+    {
+      "q": "What is a livery in BUSSID?",
+      "a": "A livery is the paint design on your bus. BUSSID lets you use your own livery designs, so you can make your bus look like a real Indonesian bus company. The latest update adds a sticker system for decorating buses."
+    },
+    {
+      "q": "Can I play Bus Simulator Indonesia online?",
+      "a": "Yes. Online multiplayer convoy lets you drive with friends and other players on the same roads. You need an internet connection for convoys, while single-player driving works with fewer online features."
+    },
+    {
+      "q": "What does 'om telolet om' mean in BUSSID?",
+      "a": "\"Om telolet om\" is a famous Indonesian craze where children ask bus drivers to play their musical horns. BUSSID includes these distinctive horns, which are part of its charm."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid"
+  ],
+  "oldUrls": []
+}

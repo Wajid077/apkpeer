@@ -1,0 +1,34 @@
+## How to convert between bases
+
+1. Type a number in the **Number** box.
+2. Choose which base it's written in: binary, octal, decimal or hexadecimal.
+3. All four versions appear at once. Copy the one you need.
+
+Prefixes such as `0x`, `0b` and `0o` are removed automatically, along with spaces and underscores used to group digits. Very large numbers are converted exactly, without rounding.
+
+## The four common bases
+
+| Base | Digits used | Example (255) | Where you see it |
+| --- | --- | --- | --- |
+| Binary (2) | 0–1 | 11111111 | How computers store data |
+| Octal (8) | 0–7 | 377 | Unix file permissions |
+| Decimal (10) | 0–9 | 255 | Everyday numbers |
+| Hexadecimal (16) | 0–9, A–F | FF | Colors, memory addresses, hashes |
+
+## How base conversion works
+
+In any base, each digit's value depends on its position. In decimal, 345 means 3 × 100 + 4 × 10 + 5. In binary, each position is worth a power of 2, so 1011 is 8 + 0 + 2 + 1 = 11.
+
+Hexadecimal is popular with programmers because one hex digit equals exactly four binary digits. A byte (eight bits) is always two hex digits, from 00 to FF, which makes long binary values much easier to read.
+
+## Practical examples
+
+- **Colors:** the hex color #15803D is three bytes: 15, 80 and 3D, or 21, 128 and 61 in decimal. The [color converter](/tools/color-converter) does this for you.
+- **File permissions:** `chmod 755` is octal for rwxr-xr-x.
+- **Networking:** subnet masks like 255.255.255.0 are easier to understand in binary.
+
+## Related tools
+
+To turn text rather than numbers into binary, use the [binary translator](/tools/binary-translator). For ancient numbering, try the [Roman numeral converter](/tools/roman-numeral-converter).
+
+Everything runs in your browser.

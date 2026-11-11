@@ -1,0 +1,81 @@
+{
+  "slug": "call-of-duty-mobile",
+  "name": "Call of Duty®: Mobile",
+  "shortName": "Call of Duty: Mobile",
+  "packageName": "com.activision.callofduty.shooter",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Activision Publishing, Inc.",
+    "slug": "activision",
+    "url": "https://www.activision.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+  "officialUrl": "https://www.callofduty.com/mobile",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.0.57",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-01",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+    "changelog": [
+      "New themed season with a 50-tier Battle Pass.",
+      "New maps, characters, themed events and modes.",
+      "Bug fixes and technical improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/call-of-duty-mobile/icon.webp",
+  "summary": "Call of Duty: Mobile is Activision's free first-person shooter with multiplayer maps, battle royale and seasonal content. The latest Call of Duty Mobile APK is version 1.0.57, updated September 1, 2026, and needs Android 7.0 or newer. It's rated Mature 17+, contains ads, and offers in-app purchases.",
+  "metaDescription": "Get the official Call of Duty: Mobile APK 1.0.57 for Android 7.0+. New season and Battle Pass, game modes, storage needs, settings tips and install steps.",
+  "primaryKeyword": "call of duty mobile apk",
+  "secondaryKeywords": [
+    "codm apk",
+    "cod mobile download",
+    "call of duty mobile season"
+  ],
+  "alternatives": [
+    "pubg-mobile",
+    "free-fire",
+    "blood-strike"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Call of Duty: Mobile on Android?",
+      "a": "Open Google Play, search for Call of Duty: Mobile and check the developer is Activision Publishing, Inc. before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Activision Publishing, Inc. and may be altered, so the safest way to play Call of Duty: Mobile is the official listing."
+    },
+    {
+      "q": "Is Call of Duty: Mobile free?",
+      "a": "Yes. Call of Duty: Mobile is free to play. Google Play marks it as containing ads and lists in-app purchases from $0.99 to $99.99 per item, mainly for the Battle Pass, COD Points and cosmetic bundles. Weapons that affect gameplay can be earned by playing."
+    },
+    {
+      "q": "How much storage does Call of Duty: Mobile need?",
+      "a": "The download from Google Play is only part of it. The game downloads extra resources the first time you open it, and optional map and mode packs add more, so expect it to need several gigabytes of free space. You can choose which packs to download in settings."
+    },
+    {
+      "q": "Can I play Call of Duty: Mobile with a controller?",
+      "a": "Yes. Call of Duty: Mobile supports many Bluetooth controllers. Controller players are usually matched with other controller players in multiplayer."
+    },
+    {
+      "q": "Why is Call of Duty: Mobile rated Mature 17+?",
+      "a": "Google Play rates it Mature 17+ for violence, blood and strong language. It also has voice and text chat with strangers. Activision's own terms set a minimum age for accounts, which varies by country."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+    "https://www.callofduty.com/mobile"
+  ],
+  "oldUrls": []
+}

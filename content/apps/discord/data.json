@@ -1,0 +1,80 @@
+{
+  "slug": "discord",
+  "name": "Discord - Talk, Play, Hang Out",
+  "shortName": "Discord",
+  "packageName": "com.discord",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Discord Inc.",
+    "slug": "discord-inc",
+    "url": "https://discord.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.discord",
+  "officialUrl": "https://discord.com/",
+  "price": "Free",
+  "containsAds": null,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "351.11 - Stable",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.discord",
+    "changelog": [
+      "The \"Show spoiler content\" setting from desktop is now on mobile, so spoiler-tagged text can always be shown without tapping.",
+      "Fixed the bottoms of letters like g, y and p being clipped in various places."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/discord/icon.webp",
+  "summary": "Discord is a free app for chatting in communities called servers, with text channels, voice channels and video calls. The latest Discord APK is version 351.11 - Stable, updated November 3, 2026, and needs Android 7.0 or newer. It's free to use, with optional Nitro subscriptions and other in-app purchases.",
+  "metaDescription": "Get the official Discord APK 351.11 for Android 7.0+. Servers, voice channels and Nitro explained, safety settings for teens, and install steps.",
+  "primaryKeyword": "discord apk",
+  "secondaryKeywords": [
+    "discord app download",
+    "discord for android",
+    "discord nitro"
+  ],
+  "alternatives": [
+    "telegram",
+    "whatsapp",
+    "messenger"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Discord on Android?",
+      "a": "Open Google Play, search for Discord and check the developer is Discord Inc. before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Discord Inc. and may be altered, so the safest way to use Discord is the official listing."
+    },
+    {
+      "q": "Is Discord free?",
+      "a": "Yes. Discord is free for messaging, voice and video calls, and joining or creating servers. Discord Nitro is an optional subscription that adds bigger uploads, HD streaming, custom emoji everywhere and profile customisation. Play lists in-app purchases from $0.99 to $274.94 per item."
+    },
+    {
+      "q": "How old do you have to be to use Discord?",
+      "a": "Discord requires users to be at least 13 in most countries, and older in some. Google Play rates it Teen. Discord offers Family Center so parents can see who their teen talks to, without reading messages."
+    },
+    {
+      "q": "What is a Discord server?",
+      "a": "A server is a community space with its own text and voice channels, roles and rules. Some are small groups of friends; others are large communities for a game, creator or interest. You join one with an invite link or through server discovery."
+    },
+    {
+      "q": "Does Discord show ads?",
+      "a": "Discord has no traditional banner ads, but it does show sponsored Quests, which reward you for playing or watching certain games. Google Play doesn't show a \"Contains ads\" label for Discord, so APKPeer leaves that row out."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.discord",
+    "https://discord.com/"
+  ],
+  "oldUrls": []
+}

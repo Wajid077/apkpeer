@@ -1,0 +1,83 @@
+{
+  "slug": "genshin-impact",
+  "name": "Genshin Impact",
+  "shortName": "Genshin Impact",
+  "packageName": "com.miHoYo.GenshinImpact",
+  "type": "game",
+  "category": "role-playing",
+  "developer": {
+    "name": "COGNOSPHERE PTE. LTD.",
+    "slug": "cognosphere",
+    "url": "https://www.hoyoverse.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+  "officialUrl": "https://genshin.hoyoverse.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "7.2.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+    "changelog": [
+      "Version 7.2 \"Hour of Ruin\".",
+      "New characters: Mitya and Valeriy.",
+      "New areas: Novokitezhgrad and Wingspan Peak, plus new Archon Quests.",
+      "New events, including \"The Grand Defense: Defy the Unjust Judgment\".",
+      "New weapon: Starsealed Edict."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/genshin-impact/icon.webp",
+  "summary": "Genshin Impact is HoYoverse's free open-world action role-playing game set in the fantasy world of Teyvat, with elemental combat and co-op. The latest Genshin Impact APK is version 7.2, updated October 22, 2026, and Play lists Android 6.0 or newer. It's free to play, and in-app purchases from $0.99 to $99.99 buy wishes and passes.",
+  "metaDescription": "Get the official Genshin Impact APK 7.2 for Android. Version 7.2 Hour of Ruin, new characters, storage and phone needs, wish tips and install steps.",
+  "primaryKeyword": "genshin impact apk",
+  "secondaryKeywords": [
+    "genshin impact download",
+    "genshin impact 7.2",
+    "genshin impact android"
+  ],
+  "alternatives": [
+    "honkai-star-rail",
+    "pokemon-go",
+    "minecraft"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Genshin Impact on Android?",
+      "a": "Open Google Play, search for Genshin Impact and check the developer is COGNOSPHERE PTE. LTD. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from COGNOSPHERE PTE. LTD. and may be altered, so the safest way to play Genshin Impact is the official listing."
+    },
+    {
+      "q": "Is Genshin Impact free?",
+      "a": "Yes. Genshin Impact is free to download and play, with no ads. In-app purchases from $0.99 to $99.99 per item on Google Play buy Genesis Crystals for wishes, the Welkin Moon pass and the Battle Pass. You can finish the story without paying."
+    },
+    {
+      "q": "What phone do I need for Genshin Impact?",
+      "a": "Google Play lists Android 6.0 or newer, but the game is demanding. For smooth play you need a recent phone with a strong processor, plenty of RAM and tens of gigabytes of free storage, because the full game and its updates are very large."
+    },
+    {
+      "q": "Can I play Genshin Impact with friends?",
+      "a": "Yes. Once you reach Adventure Rank 16, co-op lets up to four players explore, fight bosses and complete domains together. Genshin also supports cross-play and cross-save with PC and PlayStation through a HoYoverse account."
+    },
+    {
+      "q": "How do wishes and pity work in Genshin?",
+      "a": "Wishes are Genshin's gacha banners, where you spend currency for a random character or weapon. A pity system guarantees a 5-star item within 90 wishes on character banners, and the next 5-star is guaranteed to be the featured character if you missed it last time."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+    "https://genshin.hoyoverse.com/"
+  ],
+  "oldUrls": []
+}

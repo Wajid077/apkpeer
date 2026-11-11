@@ -1,0 +1,79 @@
+{
+  "slug": "pokemon-tcg-pocket",
+  "name": "Pokémon TCG Pocket",
+  "shortName": "Pokémon TCG Pocket",
+  "packageName": "jp.pokemon.pokemontcgp",
+  "type": "game",
+  "category": "card",
+  "developer": {
+    "name": "The Pokémon Company",
+    "slug": "the-pokemon-company",
+    "url": "https://www.pokemon.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp",
+  "officialUrl": "https://tcgpocket.pokemon.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.8.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp",
+    "changelog": [
+      "Bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/pokemon-tcg-pocket/icon.webp",
+  "summary": "Pokémon TCG Pocket is a free mobile card game from The Pokémon Company for collecting digital Pokémon cards and playing quick battles. The latest Pokémon TCG Pocket APK is version 1.8.1, updated October 28, 2026, and needs Android 7.0 or newer. It has no ads, and in-app purchases from $0.99 to $99.99 are optional.",
+  "metaDescription": "Get the official Pokémon TCG Pocket APK 1.8.1 for Android 7.0+. Free daily packs, Wonder Pick, quick battles and trading explained, plus install steps.",
+  "primaryKeyword": "pokemon tcg pocket apk",
+  "secondaryKeywords": [
+    "pokemon tcg pocket download",
+    "pokemon pocket app",
+    "pokemon tcg pocket android"
+  ],
+  "alternatives": [
+    "pokemon-go",
+    "clash-royale",
+    "honkai-star-rail"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Pokémon TCG Pocket on Android?",
+      "a": "Open Google Play, search for Pokémon TCG Pocket and check the developer is The Pokémon Company before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from The Pokémon Company and may be altered, so the safest way to play Pokémon TCG Pocket is the official listing."
+    },
+    {
+      "q": "Is Pokémon TCG Pocket free?",
+      "a": "Yes. It's free to download and play, with no ads. You can open free booster packs every day. In-app purchases from $0.99 to $99.99 per item on Google Play buy Poké Gold and the Premium Pass, which give extra packs."
+    },
+    {
+      "q": "How many free packs do you get in Pokémon TCG Pocket?",
+      "a": "You can open free booster packs regularly: the pack timer refills over time, allowing about two free packs a day, and Pack Hourglasses from missions and events can speed it up."
+    },
+    {
+      "q": "Can you trade in Pokémon TCG Pocket?",
+      "a": "Yes. Trading lets you swap certain cards with friends, using trade stamina and items. Not every rarity can be traded, and the rules have changed over time based on player feedback, so check the in-game trade screen for current limits."
+    },
+    {
+      "q": "Is Pokémon TCG Pocket the same as Pokémon TCG Live?",
+      "a": "No. TCG Pocket uses simplified rules with 20-card decks and an automatic Energy Zone, and focuses on collecting. Pokémon TCG Live is a separate app that plays the full physical card game rules."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp",
+    "https://tcgpocket.pokemon.com/"
+  ],
+  "oldUrls": []
+}

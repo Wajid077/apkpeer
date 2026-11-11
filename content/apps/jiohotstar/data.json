@@ -1,0 +1,80 @@
+{
+  "slug": "jiohotstar",
+  "name": "JioHotstar",
+  "shortName": "JioHotstar",
+  "packageName": "in.startv.hotstar",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "JIOSTAR INDIA PRIVATE LIMITED",
+    "slug": "jiostar-india",
+    "url": "https://www.hotstar.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=in.startv.hotstar",
+  "officialUrl": "https://www.hotstar.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=in.startv.hotstar&gl=IN",
+    "changelog": [
+      "Tadka: a new tab of short micro-shows, exclusive to JioHotstar.",
+      "Smarter search with enhanced filters and category tabs."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/jiohotstar/icon.webp",
+  "summary": "JioHotstar is JioStar India's streaming app for live cricket and sports, Indian TV shows, films, and Disney and Hollywood content. Google Play lists the JioHotstar APK version as \"Varies with device\", updated November 2, 2026, and it needs Android 5.0 or newer. It's free to download with ads, and paid plans are sold in-app.",
+  "metaDescription": "Get the official JioHotstar APK for Android 5.0+. Live cricket, the new Tadka micro-shows, plans and prices in India, install steps and safety tips.",
+  "primaryKeyword": "jiohotstar apk",
+  "secondaryKeywords": [
+    "jiohotstar app download",
+    "hotstar apk",
+    "jiohotstar live cricket"
+  ],
+  "alternatives": [
+    "netflix",
+    "youtube",
+    "mx-player"
+  ],
+  "faq": [
+    {
+      "q": "How do I install JioHotstar on Android?",
+      "a": "Open Google Play, search for JioHotstar and check the developer is JIOSTAR INDIA PRIVATE LIMITED before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from JIOSTAR INDIA PRIVATE LIMITED and may be altered, so the safest way to use JioHotstar is the official listing."
+    },
+    {
+      "q": "Is JioHotstar the same as Disney+ Hotstar?",
+      "a": "Yes, it replaced it. In 2025, Disney+ Hotstar and JioCinema were combined into one app called JioHotstar, run by JioStar India. The app kept Disney+ Hotstar's Google Play listing, so updating Hotstar turned it into JioHotstar."
+    },
+    {
+      "q": "Is JioHotstar free?",
+      "a": "Some content is free with ads, but most live sports, new films and premium shows need a paid plan. Plans are sold inside the app, and Google Play lists in-app purchases from ₹9 to ₹9,199 per item. Some Jio mobile and broadband plans include a JioHotstar subscription."
+    },
+    {
+      "q": "Can I watch IPL on JioHotstar?",
+      "a": "In India, yes. JioStar holds the digital rights to the IPL and other major cricket, and streams matches live in JioHotstar. Which matches need a paid plan can change by season, so check the app before a match."
+    },
+    {
+      "q": "Does JioHotstar work outside India?",
+      "a": "JioHotstar is aimed at viewers in India. Outside India, Hotstar availability and content differ by country, and some regions use a separate app or Disney+ instead. Using a VPN to get around this breaks the service's terms."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=in.startv.hotstar",
+    "https://www.hotstar.com/"
+  ],
+  "oldUrls": []
+}

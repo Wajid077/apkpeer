@@ -1,0 +1,79 @@
+{
+  "slug": "x-twitter",
+  "name": "X",
+  "shortName": "X",
+  "packageName": "com.twitter.android",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "X Corp.",
+    "slug": "x-corp",
+    "url": "https://x.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.twitter.android",
+  "officialUrl": "https://x.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "12.39.0-prod.01",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-04",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/x-twitter/icon.webp",
+  "summary": "X, formerly Twitter, is the official app for X Corp.'s social network, built for real-time news, public posts, live audio and video. The latest X APK is version 12.39.0-prod.01, updated November 4, 2026, and needs Android 9 or newer. It's free with ads, and Premium subscriptions are sold as in-app purchases.",
+  "metaDescription": "Get the official X (Twitter) APK 12.39.0 for Android 9+. What changed since Twitter, Premium plans, privacy and safety settings, and install steps.",
+  "primaryKeyword": "x apk",
+  "secondaryKeywords": [
+    "twitter apk",
+    "x app download",
+    "twitter app for android"
+  ],
+  "alternatives": [
+    "threads",
+    "facebook",
+    "instagram"
+  ],
+  "faq": [
+    {
+      "q": "How do I install X on Android?",
+      "a": "Open Google Play, search for X and check the developer is X Corp. before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from X Corp. and may be altered, so the safest way to use X is the official listing."
+    },
+    {
+      "q": "Is X the same app as Twitter?",
+      "a": "Yes. Twitter was renamed X in July 2023 after Elon Musk bought the company. The Android app kept the same package name, com.twitter.android, so updating Twitter turned it into X. Posts, formerly tweets, and your followers carried over."
+    },
+    {
+      "q": "Is X free to use?",
+      "a": "Yes. X is free to download and use, and it shows ads. Premium subscriptions add features such as editing posts, longer posts, fewer ads and a verification checkmark. Google Play lists in-app purchases from $0.99 to $999.99 per item."
+    },
+    {
+      "q": "Why is X rated Mature 17+?",
+      "a": "Google Play rates X Mature 17+ because the platform allows adult content and users can see posts from anyone. You can hide sensitive media in Settings → Privacy and safety → Content you see, and younger teens should use a different app."
+    },
+    {
+      "q": "Can I use X without an account?",
+      "a": "Not really. X requires you to log in to browse most content in the app and on the web. You can create a free account with an email address or phone number."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "https://x.com/"
+  ],
+  "oldUrls": []
+}

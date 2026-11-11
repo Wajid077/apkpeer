@@ -1,0 +1,79 @@
+{
+  "slug": "bitlife",
+  "name": "BitLife - Life Simulator",
+  "shortName": "BitLife",
+  "packageName": "com.candywriter.bitlife",
+  "type": "game",
+  "category": "simulation",
+  "developer": {
+    "name": "Candywriter, LLC",
+    "slug": "candywriter",
+    "url": "https://candywriter.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.candywriter.bitlife",
+  "officialUrl": "https://candywriter.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "3.25.3",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-21",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.candywriter.bitlife",
+    "changelog": [
+      "Bug fixes and maintenance ahead of the next content update."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/bitlife/icon.webp",
+  "summary": "BitLife is a free text-based life simulator from Candywriter where you live a whole virtual life, from birth to old age, through the choices you make. The latest BitLife APK is version 3.25.3, updated October 21, 2026, and needs Android 7.1 or newer. It's free with ads, and optional purchases unlock extra features.",
+  "metaDescription": "Get the official BitLife APK 3.25.3 for Android 7.1+. Live a virtual life choice by choice: what's free, Bitizenship and God Mode, age rating and safety.",
+  "primaryKeyword": "bitlife apk",
+  "secondaryKeywords": [
+    "bitlife download",
+    "bitlife life simulator",
+    "bitlife god mode"
+  ],
+  "alternatives": [
+    "car-parking-multiplayer",
+    "roblox",
+    "candy-crush-saga"
+  ],
+  "faq": [
+    {
+      "q": "How do I install BitLife on Android?",
+      "a": "Open Google Play, search for BitLife and check the developer is Candywriter, LLC before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Candywriter, LLC and may be altered, so the safest way to play BitLife is the official listing."
+    },
+    {
+      "q": "Is BitLife free?",
+      "a": "Yes. BitLife is free to download and play, with ads. Optional in-app purchases, which Google Play lists from $0.99 to $89.99, unlock extras such as Bitizenship (no ads plus bonus features), God Mode and special packs. You can live full lives without paying."
+    },
+    {
+      "q": "What age is BitLife for?",
+      "a": "Google Play rates BitLife Mature 17+ for sexual content and drug references. Your character can make adult choices, such as relationships, drinking and crime, described in text. It's not intended for young children, and parents can block it with Google Play's parental controls."
+    },
+    {
+      "q": "What is God Mode in BitLife?",
+      "a": "God Mode is an optional purchase that lets you change your character's looks and stats, such as happiness, health and intelligence, and control other characters' actions. It doesn't change the game's core, which is living a life through choices, but it gives you more control."
+    },
+    {
+      "q": "Can I play BitLife offline?",
+      "a": "Yes, most of BitLife works without an internet connection, since it's a single-player text game. Ads and some features need a connection. Your lives are saved on your phone, so back them up before switching phones. Each life you play is saved automatically as you go."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.candywriter.bitlife",
+    "https://candywriter.com/"
+  ],
+  "oldUrls": []
+}

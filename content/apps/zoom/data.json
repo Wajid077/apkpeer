@@ -1,0 +1,79 @@
+{
+  "slug": "zoom",
+  "name": "Zoom Workplace",
+  "shortName": "Zoom",
+  "packageName": "us.zoom.videomeetings",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "zoom.com",
+    "slug": "zoom",
+    "url": "https://www.zoom.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
+  "officialUrl": "https://www.zoom.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-31",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
+    "changelog": [
+      "Bug fixes and improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/zoom/icon.webp",
+  "summary": "Zoom Workplace is Zoom's app for video meetings, chat, phone calls, whiteboards and docs on Android. Google Play lists the Zoom APK version as \"Varies with device\", updated October 31, 2026, and it needs Android 9 or newer. It's free to use with limits, and paid plans are sold as in-app purchases.",
+  "metaDescription": "Get the official Zoom Workplace APK for Android 9+. Joining and hosting meetings, free plan limits, privacy and security settings, and install steps.",
+  "primaryKeyword": "zoom apk",
+  "secondaryKeywords": [
+    "zoom app download",
+    "zoom workplace",
+    "zoom meeting app"
+  ],
+  "alternatives": [
+    "whatsapp",
+    "google-gemini",
+    "messenger"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Zoom on Android?",
+      "a": "Open Google Play, search for Zoom and check the developer is zoom.com before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from zoom.com and may be altered, so the safest way to use Zoom is the official listing."
+    },
+    {
+      "q": "Is Zoom free?",
+      "a": "Yes. You can join meetings for free without paying, and a free Basic account lets you host meetings with time limits on group meetings. Paid plans remove those limits and add features. Google Play lists in-app purchases from $10.00 to $169.99 per item."
+    },
+    {
+      "q": "Do I need an account to join a Zoom meeting?",
+      "a": "Usually not. You can join with the meeting link or ID and passcode. Some hosts require participants to sign in, for example for work or school meetings."
+    },
+    {
+      "q": "Why is the Zoom app called Zoom Workplace?",
+      "a": "Zoom renamed its main app Zoom Workplace in 2024 to reflect that it includes more than meetings: team chat, phone, whiteboards, docs, mail and calendar, with an AI Companion on paid plans."
+    },
+    {
+      "q": "Can I share my screen from Android in Zoom?",
+      "a": "Yes. During a meeting, tap Share and choose Screen to share your phone's screen, or share photos, documents and a whiteboard. Android will ask for permission to record or cast your screen."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
+    "https://www.zoom.com/"
+  ],
+  "oldUrls": []
+}

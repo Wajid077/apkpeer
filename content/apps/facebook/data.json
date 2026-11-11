@@ -1,0 +1,79 @@
+{
+  "slug": "facebook",
+  "name": "Facebook",
+  "shortName": "Facebook",
+  "packageName": "com.facebook.katana",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "Meta Platforms, Inc.",
+    "slug": "meta-platforms",
+    "url": "https://www.facebook.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+  "officialUrl": "https://www.facebook.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/facebook/icon.webp",
+  "summary": "Facebook is Meta's social network app for staying in touch with friends, joining Groups, watching Reels and buying and selling on Marketplace. Google Play shows the Facebook APK version as \"Varies with device\", last updated October 28, 2026. It's free to download, contains ads, and offers in-app purchases.",
+  "metaDescription": "Get the official Facebook APK for Android, updated October 28, 2026. Groups, Marketplace and Reels explained, privacy settings, and install steps.",
+  "primaryKeyword": "facebook apk",
+  "secondaryKeywords": [
+    "facebook app download",
+    "facebook for android",
+    "facebook update"
+  ],
+  "alternatives": [
+    "facebook-lite",
+    "instagram",
+    "threads"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Facebook on Android?",
+      "a": "Open Google Play, search for Facebook and check the developer is Meta Platforms, Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Meta Platforms, Inc. and may be altered, so the safest way to use Facebook is the official listing."
+    },
+    {
+      "q": "What's the difference between Facebook and Facebook Lite?",
+      "a": "Facebook Lite is a much smaller app designed for older phones, slow connections and limited data. It has the core features, including the feed, Groups, Marketplace and messages, with simpler visuals. The full Facebook app has every feature but uses more storage, data and battery."
+    },
+    {
+      "q": "Why does Google Play say \"Varies with device\" for Facebook?",
+      "a": "Meta publishes several builds of Facebook for different phones, processors and screen sizes, and Google Play delivers the one that matches your device. That's why Play shows \"Varies with device\" instead of one version number."
+    },
+    {
+      "q": "Do I need Messenger to chat on Facebook?",
+      "a": "On Android, Facebook sends you to the separate Messenger app for full chats, voice and video calls. You can read and reply to some messages in Facebook itself, and Facebook Lite has messaging built in."
+    },
+    {
+      "q": "How do I secure my Facebook account?",
+      "a": "Turn on two-factor authentication in Accounts Center → Password and security, use a strong unique password, and check Where you're logged in for unknown devices. Never enter your password on pages reached through messages promising prizes or account warnings."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "https://www.facebook.com/"
+  ],
+  "oldUrls": []
+}

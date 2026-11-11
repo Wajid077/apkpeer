@@ -1,0 +1,80 @@
+{
+  "slug": "adobe-lightroom",
+  "name": "Lightroom Photo Editor & Video",
+  "shortName": "Lightroom",
+  "packageName": "com.adobe.lrmobile",
+  "type": "app",
+  "category": "photo-editors",
+  "developer": {
+    "name": "Adobe",
+    "slug": "adobe",
+    "url": "https://www.adobe.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+  "officialUrl": "https://www.adobe.com/products/photoshop-lightroom.html",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "11.6.12",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-04",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "changelog": [
+      "Open Eyes: fix a blink with a tap, with results that look natural.",
+      "Bug fixes and stability improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/adobe-lightroom/icon.webp",
+  "summary": "Adobe Lightroom is Adobe's photo and video editor for Android, with professional colour and light controls, presets and AI tools. The latest Lightroom APK is version 11.6.12, updated November 4, 2026, and needs Android 8.0 or newer. It's free with no ads, and a premium plan unlocks advanced tools and cloud storage.",
+  "metaDescription": "Get the official Adobe Lightroom APK 11.6.12 for Android 8.0+. New Open Eyes tool, free vs premium, presets, RAW editing and install steps.",
+  "primaryKeyword": "lightroom apk",
+  "secondaryKeywords": [
+    "adobe lightroom mobile",
+    "lightroom photo editor",
+    "lightroom presets"
+  ],
+  "alternatives": [
+    "snapseed",
+    "picsart",
+    "remini"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Lightroom on Android?",
+      "a": "Open Google Play, search for Lightroom and check the developer is Adobe before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Adobe and may be altered, so the safest way to use Lightroom is the official listing."
+    },
+    {
+      "q": "Is Lightroom free on Android?",
+      "a": "Yes. Lightroom is free to download, with no ads, and the free version includes core editing tools like exposure, colour, curves, crop and many presets. A premium plan unlocks advanced tools such as AI masking, Generative Remove, healing, RAW editing extras and cloud storage. Play lists in-app purchases from $0.49 to $499.99 per item."
+    },
+    {
+      "q": "Can Lightroom edit RAW photos on Android?",
+      "a": "Yes. Lightroom can import and edit RAW photos (DNG files) from phones that shoot RAW and from cameras, and it can capture DNG photos with its own camera on supported phones."
+    },
+    {
+      "q": "Do I need an Adobe account for Lightroom?",
+      "a": "Yes. You sign in with a free Adobe account, or with Google, Facebook or Apple. Your account keeps your presets and, with a premium plan, syncs your photos and edits across devices."
+    },
+    {
+      "q": "What is the Open Eyes feature in Lightroom?",
+      "a": "According to the latest Play release notes, Open Eyes lets you fix a blink with a tap. It uses AI to open closed eyes in a photo, aiming for results that look natural."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "https://www.adobe.com/products/photoshop-lightroom.html"
+  ],
+  "oldUrls": []
+}

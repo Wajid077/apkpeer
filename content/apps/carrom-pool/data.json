@@ -1,0 +1,80 @@
+{
+  "slug": "carrom-pool",
+  "name": "Carrom Pool: Disc Game",
+  "shortName": "Carrom Pool",
+  "packageName": "com.miniclip.carrom",
+  "type": "game",
+  "category": "board",
+  "developer": {
+    "name": "Miniclip.com",
+    "slug": "miniclip",
+    "url": "https://www.miniclip.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
+  "officialUrl": "https://www.miniclip.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "19.6.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
+    "changelog": [
+      "New features rolling out over the coming days.",
+      "Bug fixes and small improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/carrom-pool/icon.webp",
+  "summary": "Carrom Pool is Miniclip's free online carrom board game where you flick a striker to pocket discs against players around the world or friends. The latest Carrom Pool APK is version 19.6.0, updated October 22, 2026, and needs Android 8.0 or newer. It contains ads and offers in-app purchases.",
+  "metaDescription": "Get the official Carrom Pool APK 19.6.0 for Android 8.0+. Classic, Disc Pool and Freestyle modes, aiming tips, playing with friends and install steps.",
+  "primaryKeyword": "carrom pool apk",
+  "secondaryKeywords": [
+    "carrom pool download",
+    "carrom game online",
+    "carrom pool miniclip"
+  ],
+  "alternatives": [
+    "8-ball-pool",
+    "ludo-king",
+    "monopoly-go"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Carrom Pool on Android?",
+      "a": "Open Google Play, search for Carrom Pool and check the developer is Miniclip.com before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Miniclip.com and may be altered, so the safest way to play Carrom Pool is the official listing."
+    },
+    {
+      "q": "Is Carrom Pool free?",
+      "a": "Yes. Carrom Pool is free to play. It contains ads and offers in-app purchases from $0.10 to $99.99 per item on Google Play, for coins, gems, strikers and passes."
+    },
+    {
+      "q": "Can I play Carrom Pool with friends?",
+      "a": "Yes. You can invite friends to private matches online, or play against random players around the world. Linking a Miniclip or social account makes it easier to find friends."
+    },
+    {
+      "q": "Can I play Carrom Pool offline?",
+      "a": "Carrom Pool includes an offline mode for practice, but most modes, rewards and matches against other players need an internet connection."
+    },
+    {
+      "q": "What are the game modes in Carrom Pool?",
+      "a": "Carrom Pool has Classic mode, using traditional carrom rules, Disc Pool, where you pocket only your own colour, and Freestyle, where you score points by pocketing any disc."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.miniclip.carrom",
+    "https://www.miniclip.com/"
+  ],
+  "oldUrls": []
+}

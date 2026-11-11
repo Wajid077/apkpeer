@@ -1,0 +1,80 @@
+{
+  "slug": "angry-birds-2",
+  "name": "Angry Birds 2",
+  "shortName": "Angry Birds 2",
+  "packageName": "com.rovio.baba",
+  "type": "game",
+  "category": "casual",
+  "developer": {
+    "name": "Rovio Entertainment Oy",
+    "slug": "rovio",
+    "url": "https://www.rovio.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rovio.baba",
+  "officialUrl": "https://www.angrybirds.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "26.7.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.rovio.baba",
+    "changelog": [
+      "Halloween events.",
+      "New feature: the Flocktober Sticker Album, with stickers earned by playing and rewards for completed sets."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/angry-birds-2/icon.webp",
+  "summary": "Angry Birds 2 is Rovio's free slingshot puzzle game where you launch birds to topple the pigs' towers across multi-stage levels. The latest Angry Birds 2 APK is version 26.7.1, updated November 3, 2026, and needs Android 7.1 or newer. It contains ads and offers in-app purchases from $0.99 to $249.99.",
+  "metaDescription": "Get the official Angry Birds 2 APK 26.7.1 for Android 7.1+. Halloween events, the Flocktober Sticker Album, tips for three stars and install steps.",
+  "primaryKeyword": "angry birds 2 apk",
+  "secondaryKeywords": [
+    "angry birds 2 download",
+    "angry birds 2 game",
+    "angry birds 2 update"
+  ],
+  "alternatives": [
+    "plants-vs-zombies-2",
+    "candy-crush-saga",
+    "royal-match"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Angry Birds 2 on Android?",
+      "a": "Open Google Play, search for Angry Birds 2 and check the developer is Rovio Entertainment Oy before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Rovio Entertainment Oy and may be altered, so the safest way to play Angry Birds 2 is the official listing."
+    },
+    {
+      "q": "Is Angry Birds 2 free?",
+      "a": "Yes. Angry Birds 2 is free to play. It contains ads and offers in-app purchases from $0.99 to $249.99 per item on Google Play, for gems, lives and passes."
+    },
+    {
+      "q": "How is Angry Birds 2 different from the original Angry Birds?",
+      "a": "Angry Birds 2 has multi-stage levels, lets you choose which bird to launch next from a set of cards, adds spells and hats, and has clans, events and a competitive Arena. The original had single-stage levels with a fixed bird order."
+    },
+    {
+      "q": "What is the Flocktober Sticker Album?",
+      "a": "It's a new feature in the latest update: you collect special stickers by playing, and complete sets and albums to unlock rewards."
+    },
+    {
+      "q": "Who makes Angry Birds 2?",
+      "a": "Angry Birds 2 is made by Rovio Entertainment, the Finnish studio that created Angry Birds. Rovio has been owned by SEGA since 2023."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.rovio.baba",
+    "https://www.angrybirds.com/"
+  ],
+  "oldUrls": []
+}

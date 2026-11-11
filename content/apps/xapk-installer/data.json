@@ -1,0 +1,89 @@
+{
+  "slug": "xapk-installer",
+  "name": "XAPK Installer",
+  "shortName": "XAPK Installer",
+  "packageName": "com.wuliang.xapkinstaller",
+  "type": "app",
+  "category": "tools",
+  "developer": {
+    "name": "TarrySoft",
+    "slug": "tarrysoft",
+    "url": "https://kigelapps.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "4.6.4.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-15",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller",
+    "changelog": [
+      "Added required changes for Android 11.",
+      "Added French language support.",
+      "Bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Request install packages",
+      "reason": "Installs the APK files contained in an XAPK, which is the app's whole purpose."
+    },
+    {
+      "name": "Storage or all files access",
+      "reason": "Finds XAPK and APK files on your phone, and copies game data (OBB files) to the right folder."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/xapk-installer/icon.webp",
+  "summary": "XAPK Installer is a free Android tool from TarrySoft that installs .xapk files, which bundle an app's APK with split APKs or game data that Android can't install on its own. The latest XAPK Installer APK is version 4.6.4.1, updated September 15, 2026, and needs Android 5.0 or newer. It's free with ads.",
+  "metaDescription": "Get the official XAPK Installer APK 4.6.4.1 for Android 5.0+. What XAPK files are, how to install them safely, permissions explained and safer options.",
+  "primaryKeyword": "xapk installer apk",
+  "secondaryKeywords": [
+    "how to install xapk",
+    "xapk file",
+    "xapk installer for android"
+  ],
+  "alternatives": [
+    "split-apks-installer",
+    "apkmirror-installer",
+    "f-droid"
+  ],
+  "faq": [
+    {
+      "q": "How do I install XAPK Installer on Android?",
+      "a": "Open Google Play, search for XAPK Installer and check the developer is TarrySoft before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from TarrySoft and may be altered, so the safest way to use XAPK Installer is the official listing."
+    },
+    {
+      "q": "What is an XAPK file?",
+      "a": "An XAPK is a ZIP-style package that contains an app's main APK plus extra parts: split APKs for different screen sizes or languages, or large game data (OBB) files. Android can't install an XAPK directly, so you need an installer app like XAPK Installer to unpack it and install the pieces."
+    },
+    {
+      "q": "Is XAPK Installer safe?",
+      "a": "The XAPK Installer app on Google Play is a legitimate tool from TarrySoft. The bigger risk is the XAPK files themselves: the installer will install whatever you give it, including tampered apps. Only install XAPK files of official apps, and prefer Google Play whenever an app is available there."
+    },
+    {
+      "q": "Can I install an XAPK without an installer app?",
+      "a": "Not easily. You can rename an XAPK to .zip and extract it, but installing split APKs needs a tool that supports Android's split install system, and game data must be copied to the right folder. An installer app automates those steps."
+    },
+    {
+      "q": "Why does XAPK Installer need access to all my files?",
+      "a": "It needs to find XAPK and APK files on your phone and, for games, copy OBB data into the Android/obb folder. On newer Android versions that requires broad storage access. Grant it only while you need it, and revoke it in Settings when you're done."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller"
+  ],
+  "oldUrls": []
+}

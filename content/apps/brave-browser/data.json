@@ -1,0 +1,111 @@
+{
+  "slug": "brave-browser",
+  "name": "Brave Private Web Browser, VPN",
+  "shortName": "Brave",
+  "packageName": "com.brave.browser",
+  "type": "app",
+  "category": "browsers",
+  "developer": {
+    "name": "Brave Software, Inc.",
+    "slug": "brave-software",
+    "url": "https://brave.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.brave.browser",
+  "officialUrl": "https://brave.com/download/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "10",
+  "latest": {
+    "version": "1.98.63",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-31",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.brave.browser",
+    "changelog": [
+      "Improved top sites: long-press the top sites widget on the New Tab Page to switch between favorites and frequently visited websites.",
+      "Made several general stability improvements.",
+      "Upgraded to Chromium 156."
+    ]
+  },
+  "versions": [
+    {
+      "version": "1.98.60",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-10-27",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://brave.com/latest/",
+      "changelog": [
+        "Updated Leo to honor Bring Your Own Model (BYOM) and NEAR model selection.",
+        "Updated AI Chat models.",
+        "Added option to turn off “bottom bar” when “Android bottom bar” enabled via brave://flags.",
+        "Added option to switch between “shortcuts” and “frequently visited sites” on the New Tab Page.",
+        "Added search parameter for Brave Search queries done via quick search bar.",
+        "Improved quick search engine settings and edit mode.",
+        "Fixed recent tabs displaying as a blank page.",
+        "Fixed “Find in page” icon design in main menu."
+      ]
+    }
+  ],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/brave-browser/icon.svg",
+  "summary": "Brave Private Web Browser is a free Chromium-based Android browser from Brave Software that blocks ads and trackers by default through Brave Shields. The latest Brave APK is version 1.98.63, updated on October 31, 2026, and it needs Android 10 or newer. Brave Search, the Leo AI assistant and private tabs are built in.",
+  "metaDescription": "Get the official Brave browser APK 1.98.63 for Android 10+. Built-in ad and tracker blocking, Leo AI, install steps, safety notes and what's new.",
+  "primaryKeyword": "brave browser apk",
+  "secondaryKeywords": [
+    "brave apk download",
+    "brave browser for android",
+    "is brave browser safe"
+  ],
+  "alternatives": [
+    "firefox",
+    "duckduckgo-browser",
+    "google-chrome"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Brave on Android?",
+      "a": "Open Google Play, search for Brave and check the developer is Brave Software, Inc. before tapping Install. It needs Android 10 or newer. It's free to install, and Play keeps it updated automatically. Brave also publishes signed APKs on its official GitHub releases page if you can't use Google Play."
+    },
+    {
+      "q": "Is Brave browser safe to use on Android?",
+      "a": "Yes, the official Brave app from Brave Software is safe. It's open source, signed by Brave, and blocks trackers by default. Install it from Google Play or Brave's own GitHub releases, not from repackaged APK sites, and keep it updated, since most releases include security fixes from upstream Chromium."
+    },
+    {
+      "q": "Is Brave browser free?",
+      "a": "Yes, Brave is free to download and use, including the ad and tracker blocking. Brave sells optional paid extras, such as Brave VPN and a premium tier of the Leo AI assistant, but the browser itself and Brave Shields don't cost anything."
+    },
+    {
+      "q": "Does Brave block YouTube ads on Android?",
+      "a": "Brave Shields blocks most ads on websites, including YouTube when you watch it in the browser rather than the YouTube app. Results can change whenever YouTube changes how it serves ads, so an occasional ad may slip through until Brave updates its filter lists."
+    },
+    {
+      "q": "Can I install Brave without Google Play?",
+      "a": "Yes. Brave publishes signed Android APKs on its official GitHub releases page. Download the build that matches your phone's processor (arm64 for most phones made in the last few years), allow your browser to install unknown apps, install it, then turn that permission back off."
+    },
+    {
+      "q": "Does Brave sell my browsing data?",
+      "a": "No. Brave's browser privacy policy says your browsing history stays on your device and isn't collected by Brave. Optional features such as Brave Rewards, Brave News and Leo each have their own section in that policy, so read it on brave.com before switching them on if you want the details."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://brave.com/latest/",
+    "https://brave.com/download/",
+    "https://github.com/brave/brave-browser/releases",
+    "https://brave.com/privacy/browser/",
+    "https://play.google.com/store/apps/details?id=com.brave.browser"
+  ],
+  "oldUrls": [
+    "/brave-browser-2026/"
+  ]
+}

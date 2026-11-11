@@ -1,0 +1,37 @@
+## How to encode or decode Base64
+
+1. Choose **Encode** to turn text into Base64, or **Decode** to turn Base64 back into text.
+2. Paste your text into the **Input** box.
+3. For encoding, tick **URL-safe** if the result will go into a link, file name or token.
+4. Copy the result.
+
+## What Base64 is for
+
+Base64 turns any data into a limited set of 64 safe characters: A–Z, a–z, 0–9, + and /. That lets binary data and special characters travel through systems built only for plain text, such as:
+
+- **Email attachments**, which are sent as Base64 inside the message.
+- **Data URLs**, which embed images directly in HTML or CSS (see the [image to Base64](/tools/image-to-base64) tool).
+- **API tokens and credentials**, for example the "Basic" HTTP authentication header.
+- **Configuration files** that need to hold binary keys or certificates.
+
+Base64 makes data about **33% larger**, because every 3 bytes become 4 characters.
+
+## Base64 is not encryption
+
+Anyone can decode Base64 instantly; there's no key or secret. Never use it to hide passwords or private data. If you see credentials encoded in Base64 in a file or URL, treat them as if they were in plain text.
+
+## Standard vs URL-safe
+
+| | Standard | URL-safe |
+| --- | --- | --- |
+| Characters 62 and 63 | + and / | - and _ |
+| Padding | = at the end | Usually removed |
+| Used in | Email, data URLs, most APIs | URLs, file names, JWT tokens |
+
+The decoder accepts both forms, with or without padding, and ignores spaces and line breaks.
+
+## Text with emoji and other languages
+
+Many simple Base64 tools fail on characters outside basic English. This one encodes text as UTF-8 first, so Arabic, Urdu, Chinese, emoji and accented letters encode and decode correctly.
+
+Everything happens in your browser, so tokens and keys you paste are never sent anywhere.

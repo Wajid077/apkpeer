@@ -1,0 +1,81 @@
+{
+  "slug": "asphalt-legends",
+  "name": "Asphalt Legends - Racing Game",
+  "shortName": "Asphalt Legends",
+  "packageName": "com.gameloft.android.ANMP.GloftA9HM",
+  "type": "game",
+  "category": "racing",
+  "developer": {
+    "name": "Gameloft SE",
+    "slug": "gameloft",
+    "url": "https://www.gameloft.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+  "officialUrl": "https://www.gameloft.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "53.5.3a",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-16",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+    "changelog": [
+      "Eight new cars, including the Bugatti Tourbillon and Ferrari F80.",
+      "TEKKEN 8 Spotlight: a TEKKEN 8-themed game mode with exclusive rewards, including the Mitsubishi Lancer Evolution X TEKKEN 8 Ed.",
+      "Blackcrest: elite missions with the Blackcrest Organization."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/asphalt-legends/icon.webp",
+  "summary": "Asphalt Legends is Gameloft's free arcade racing game for Android, with licensed supercars, nitro-fuelled races, stunts and cross-platform multiplayer. The latest Asphalt Legends APK is version 53.5.3a, updated October 16, 2026, with eight new cars and a TEKKEN 8 mode, and needs Android 9 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official Asphalt Legends APK 53.5.3a for Android 9+. New cars, the TEKKEN 8 Spotlight mode, controls, install steps and account safety notes.",
+  "primaryKeyword": "asphalt legends apk",
+  "secondaryKeywords": [
+    "asphalt legends unite",
+    "asphalt 9 legends apk",
+    "asphalt legends download"
+  ],
+  "alternatives": [
+    "hill-climb-racing",
+    "need-for-speed-no-limits",
+    "csr-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Asphalt Legends on Android?",
+      "a": "Open Google Play, search for Asphalt Legends and check the developer is Gameloft SE before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Gameloft SE and may be altered, so the safest way to play Asphalt Legends is the official listing."
+    },
+    {
+      "q": "Is Asphalt Legends the same as Asphalt 9?",
+      "a": "Yes. Asphalt Legends is the current name of the game that launched as Asphalt 9: Legends and was later called Asphalt Legends Unite. It keeps the same Google Play package, so updates install over earlier versions and your progress carries over."
+    },
+    {
+      "q": "Is Asphalt Legends free?",
+      "a": "Yes, Asphalt Legends is free to download and play. Gameloft earns money from ads and optional in-app purchases, which Google Play lists from $0.29 to $199.99 per item, such as tokens, car packs and passes. Some purchases include random items."
+    },
+    {
+      "q": "What Android version does Asphalt Legends need?",
+      "a": "Asphalt Legends 53.5.3a needs Android 9 or newer, according to its Google Play listing. It's a demanding game with detailed graphics, so it plays best on recent phones, and it needs plenty of free storage for its game data. Lower graphics settings help on older devices."
+    },
+    {
+      "q": "Can I play Asphalt Legends offline?",
+      "a": "Asphalt Legends is designed to be played online. Multiplayer races, events and progress saving need an internet connection, and the game checks in with Gameloft's servers. A stable connection also avoids lag in online races. Playing on Wi-Fi also saves mobile data."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+    "https://www.gameloft.com/"
+  ],
+  "oldUrls": []
+}

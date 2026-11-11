@@ -1,0 +1,78 @@
+{
+  "slug": "granny",
+  "name": "Granny",
+  "shortName": "Granny",
+  "packageName": "com.dvloper.granny",
+  "type": "game",
+  "category": "adventure",
+  "developer": {
+    "name": "DVloper",
+    "slug": "dvloper",
+    "url": "https://play.google.com/store/apps/dev?id=DVloper"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.8.12",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-06-06",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.dvloper.granny",
+    "changelog": [
+      "Fixed a bug that could leave the player unable to move after a new day."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/granny/icon.webp",
+  "summary": "Granny is DVloper's indie horror game where you have five days to escape a locked house while Granny listens for every sound. The latest Granny APK is version 1.8.12, updated June 6, 2026, and needs Android 7.0 or newer. It's free with ads, offers a $2.99 in-app purchase, and is rated Teen.",
+  "metaDescription": "Get the official Granny APK 1.8.12 for Android 7.0+. How to escape the house, difficulty modes, beginner tips, age rating and install steps.",
+  "primaryKeyword": "granny apk",
+  "secondaryKeywords": [
+    "granny game download",
+    "granny horror game",
+    "granny dvloper"
+  ],
+  "alternatives": [
+    "among-us",
+    "minecraft",
+    "roblox"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Granny on Android?",
+      "a": "Open Google Play, search for Granny and check the developer is DVloper before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from DVloper and may be altered, so the safest way to play Granny is the official listing."
+    },
+    {
+      "q": "Is Granny free?",
+      "a": "Yes. Granny is free to play, with ads. Google Play lists an in-app purchase of $2.99 per item, which removes ads."
+    },
+    {
+      "q": "How do you escape in Granny?",
+      "a": "You have five days to find the items that unlock the front door and other escape routes, such as keys, a padlock key, a hammer and tools. Granny hears every sound, so you need to move quietly and hide when she's near."
+    },
+    {
+      "q": "Is Granny too scary for kids?",
+      "a": "Google Play rates Granny Teen for violence and blood. It uses jump scares and a creepy atmosphere, so it may be too frightening for young children."
+    },
+    {
+      "q": "Are there Granny sequels?",
+      "a": "Yes. DVloper also made Granny: Chapter Two, where you escape from both Granny and Grandpa, and Granny 3. All are separate games on Google Play."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.dvloper.granny"
+  ],
+  "oldUrls": []
+}

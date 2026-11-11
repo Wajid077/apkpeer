@@ -1,0 +1,77 @@
+{
+  "slug": "facebook-lite",
+  "name": "Facebook Lite",
+  "shortName": "Facebook Lite",
+  "packageName": "com.facebook.lite",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "Meta Platforms, Inc.",
+    "slug": "meta-platforms",
+    "url": "https://www.facebook.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+  "officialUrl": "https://www.facebook.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-27",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+    "changelog": []
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/facebook-lite/icon.webp",
+  "summary": "Facebook Lite is Meta's small, data-saving version of Facebook for Android, built for slow connections and phones with little storage. Google Play lists the version as varying by device, and the official Facebook Lite APK was last updated on October 27, 2026. It's free, supported by ads, with optional in-app purchases.",
+  "metaDescription": "Get the official Facebook Lite APK for Android: the light, data-saving Facebook from Meta. Lite vs regular Facebook, install steps, privacy and safety.",
+  "primaryKeyword": "facebook lite apk",
+  "secondaryKeywords": [
+    "facebook lite download",
+    "facebook lite vs facebook",
+    "fb lite"
+  ],
+  "alternatives": [
+    "instagram",
+    "facebook",
+    "whatsapp"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Facebook Lite on Android?",
+      "a": "Open Google Play, search for Facebook Lite and check the developer is Meta Platforms, Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Meta Platforms, Inc. and may be altered, so the safest way to use Facebook Lite is the official listing."
+    },
+    {
+      "q": "What is the difference between Facebook and Facebook Lite?",
+      "a": "Facebook Lite is a much smaller app that uses less data and works on slow 2G and 3G connections. It has the core features, such as the feed, posts, photos, groups, pages and messages, but simpler visuals and fewer extras than the full Facebook app. Both use the same account."
+    },
+    {
+      "q": "Does Facebook Lite include Messenger?",
+      "a": "Yes. Facebook Lite has messaging built in, so you can chat with friends without installing the separate Messenger app. That's one of the main reasons people with limited storage choose Facebook Lite over the regular app."
+    },
+    {
+      "q": "Is Facebook Lite safe?",
+      "a": "The official Facebook Lite app from Google Play is safe. It's published by Meta Platforms, Inc. Avoid modified Facebook Lite APKs from other sites, since they can steal your login. Turn on two-factor authentication in Accounts Center to protect your account."
+    },
+    {
+      "q": "Can I use Facebook and Facebook Lite at the same time?",
+      "a": "Yes. They're separate apps and can both be installed on one phone, signed in to the same account. Most people choose one to save space, though, since they show the same feed, friends and messages."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.facebook.lite",
+    "https://www.facebook.com/"
+  ],
+  "oldUrls": []
+}

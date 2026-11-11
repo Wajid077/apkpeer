@@ -1,0 +1,31 @@
+## How to find out which APK you need
+
+1. Open this page **on the Android phone or tablet you want to install the app on**.
+2. The top box shows which APK build matches your device: **arm64-v8a**, **armeabi-v7a**, **x86_64** or **x86**.
+3. When a developer offers several APK files, download the one with that label in its name.
+
+For the most reliable result, use Chrome or another Chromium-based browser such as Samsung Internet, Edge or Brave. They share the processor details needed for detection.
+
+## What the APK labels mean
+
+| Label | Processor | Typical devices |
+| --- | --- | --- |
+| arm64-v8a | 64-bit ARM | Almost all Android phones from the last several years |
+| armeabi-v7a | 32-bit ARM | Older and very low-cost phones, some Android Go devices |
+| x86_64 | 64-bit Intel/AMD | Some Chromebooks and Android emulators |
+| x86 | 32-bit Intel/AMD | Older emulators and a few old tablets |
+| universal | All of the above | Any device, but a bigger download |
+
+Apps that include native code, such as games, browsers and video apps, are often built separately for each processor type. Google Play picks the right version automatically. Outside Play, for example on a developer's GitHub releases page, you choose yourself.
+
+## What happens if you pick the wrong one
+
+Android won't install an APK built for a processor your device doesn't support. You'll typically see "App not installed" or "There was a problem parsing the package". A 64-bit ARM phone can usually run 32-bit ARM builds as well, but many newer phones have dropped 32-bit support completely, so arm64-v8a is the safe choice when your device supports it.
+
+## Other details shown
+
+The page also shows your **Android version**, **device model**, **browser**, number of **CPU cores** and approximate **RAM**, plus your user agent string. These help when checking whether an app supports your phone. Many app pages on APKPeer list the minimum Android version, so you can compare it here.
+
+## Before installing an APK
+
+Download APKs only from the developer or a trusted source, and check the file with the [APK hash checker](/tools/apk-hash-checker) when the developer publishes a SHA-256. Nothing on this page is sent to a server; detection happens in your browser.

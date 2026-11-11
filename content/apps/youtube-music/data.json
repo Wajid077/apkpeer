@@ -1,0 +1,79 @@
+{
+  "slug": "youtube-music",
+  "name": "YouTube Music",
+  "shortName": "YouTube Music",
+  "packageName": "com.google.android.apps.youtube.music",
+  "type": "app",
+  "category": "music-audio",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
+  "officialUrl": "https://music.youtube.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-04",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
+    "changelog": [
+      "New Discover Mix: a personalized playlist of songs based on what you listen to most, refreshed every Wednesday."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/youtube-music/icon.webp",
+  "summary": "YouTube Music is Google's music streaming app, with official songs, albums, playlists, music videos, live performances and covers. Google Play lists the YouTube Music APK version as \"Varies with device\", updated November 4, 2026. It's free with ads, and YouTube Music Premium adds background play, downloads and no ads.",
+  "metaDescription": "Get the official YouTube Music APK for Android, updated November 4, 2026. Free vs Premium, the new Discover Mix, offline downloads and install steps.",
+  "primaryKeyword": "youtube music apk",
+  "secondaryKeywords": [
+    "youtube music download",
+    "youtube music app",
+    "youtube music premium"
+  ],
+  "alternatives": [
+    "spotify",
+    "youtube",
+    "shazam"
+  ],
+  "faq": [
+    {
+      "q": "How do I install YouTube Music on Android?",
+      "a": "Open Google Play, search for YouTube Music and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use YouTube Music is the official listing."
+    },
+    {
+      "q": "Is YouTube Music free?",
+      "a": "Yes. You can listen for free with ads. On phones, the free tier doesn't play in the background or with the screen off for most music. YouTube Music Premium, or YouTube Premium, removes ads and adds background play and offline downloads."
+    },
+    {
+      "q": "Can I listen to YouTube Music offline?",
+      "a": "With Premium, yes. You can download songs, albums and playlists, and turn on Smart Downloads so the app automatically keeps a mix of music you like on your phone."
+    },
+    {
+      "q": "What is Discover Mix?",
+      "a": "Discover Mix is a personalised playlist of songs YouTube Music thinks you'll like, based on what you listen to most. According to the latest Play release notes, it gets a new set of songs every Wednesday."
+    },
+    {
+      "q": "Can I upload my own music to YouTube Music?",
+      "a": "Yes. On the web version you can upload up to 100,000 of your own songs to your library, and they stream in the Android app, including on the free tier."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
+    "https://music.youtube.com/"
+  ],
+  "oldUrls": []
+}

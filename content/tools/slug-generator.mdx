@@ -1,0 +1,40 @@
+## How to create a URL slug
+
+1. Paste a title into the **Input** box, or several titles, one per line.
+2. Choose a separator: **hyphen** (recommended) or underscore.
+3. Copy the slugs.
+
+For example, "My Post Title: Here's What's New!" becomes `my-post-title-heres-whats-new`.
+
+## What the generator does
+
+- Converts letters to **lowercase**.
+- Removes **accents**, so "Café Münster" becomes `cafe-munster`.
+- Deletes **apostrophes**, so "What's New" becomes `whats-new` rather than `what-s-new`.
+- Replaces spaces and symbols with your **separator**.
+- Removes separators from the **start and end**.
+
+## What makes a good slug?
+
+| Good | Why |
+| --- | --- |
+| `/app/brave-browser` | Short, readable, describes the page |
+| `/tools/qr-code-generator` | Contains the words people search for |
+
+| Avoid | Why |
+| --- | --- |
+| `/p?id=48213` | Tells people and search engines nothing |
+| `/brave-browser-2026` | The year makes the URL go out of date |
+| `/My_Post_Title` | Mixed case and underscores are harder to read and share |
+
+Keep slugs short: three to five words is plenty. Remove filler words like "the", "a" and "and" if the slug still makes sense without them.
+
+## Changing a slug later
+
+Once a page is published and linked to, changing its slug breaks links and loses search ranking unless you add a 301 redirect from the old address to the new one. It's worth choosing a good slug before you publish.
+
+## Related tools
+
+To safely put text with spaces or symbols into a link without making a slug, use the [URL encoder](/tools/url-encoder-decoder). To fix capitalization in the titles themselves, use the [case converter](/tools/case-converter).
+
+Slugs are generated in your browser, and nothing you paste is uploaded.

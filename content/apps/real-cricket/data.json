@@ -1,0 +1,81 @@
+{
+  "slug": "real-cricket",
+  "name": "Real Cricket™: Cricket Games",
+  "shortName": "Real Cricket",
+  "packageName": "com.nautilus.realcricket",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "KRAFTON, Inc.",
+    "slug": "krafton",
+    "url": "https://realcricket.krafton.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket",
+  "officialUrl": "https://realcricket.krafton.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "5.4",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nautilus.realcricket",
+    "changelog": [
+      "Refreshed in-game store and special offers.",
+      "Improved announcements.",
+      "Performance and stability updates."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/real-cricket/icon.webp",
+  "summary": "Real Cricket is a free 3D cricket game for Android, now published by KRAFTON, with online multiplayer, leagues and tournaments across Test, ODI and T20 formats. The latest Real Cricket APK is version 5.4, updated October 24, 2026, and needs Android 7.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official Real Cricket APK 5.4 for Android 7.0+. The game formerly known as Real Cricket 24: online matches, leagues, install steps and safety.",
+  "primaryKeyword": "real cricket apk",
+  "secondaryKeywords": [
+    "real cricket 24 apk",
+    "real cricket download",
+    "real cricket online"
+  ],
+  "alternatives": [
+    "wcc3",
+    "efootball",
+    "dream-league-soccer-2026"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Real Cricket on Android?",
+      "a": "Open Google Play, search for Real Cricket and check the developer is KRAFTON, Inc. before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from KRAFTON, Inc. and may be altered, so the safest way to play Real Cricket is the official listing."
+    },
+    {
+      "q": "What happened to Real Cricket 24?",
+      "a": "Real Cricket used to carry the year in its name, such as Real Cricket 24. On Google Play the game is now called Real Cricket™: Cricket Games and is published by KRAFTON, Inc. If you're searching for Real Cricket 24, this is the current official version of the game."
+    },
+    {
+      "q": "Is Real Cricket free?",
+      "a": "Yes. Real Cricket is free to download and play. It shows ads and sells optional in-app purchases, which Google Play lists from $0.19 to $595.00 per item, such as in-game currency and offers. You can play matches and tournaments without paying."
+    },
+    {
+      "q": "Can I play Real Cricket online with friends?",
+      "a": "Yes. Real Cricket has online multiplayer, including real-time matches and leagues against other players. Online modes need a stable internet connection. Some single-player matches and tournaments can be played against the computer. Online matches also earn rewards and ranking points that offline matches don't."
+    },
+    {
+      "q": "Who makes Real Cricket?",
+      "a": "Real Cricket was created by Nautilus Mobile, an Indian studio, which is why its package name begins with com.nautilus. On Google Play it's now offered by KRAFTON, Inc., the South Korean company behind PUBG: Battlegrounds. The current Play listing shows KRAFTON as the publisher."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nautilus.realcricket",
+    "https://realcricket.krafton.com/"
+  ],
+  "oldUrls": []
+}

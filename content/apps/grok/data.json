@@ -1,0 +1,79 @@
+{
+  "slug": "grok",
+  "name": "Grok",
+  "shortName": "Grok",
+  "packageName": "ai.x.grok",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "SpaceX Super Intelligence",
+    "slug": "spacex-super-intelligence",
+    "url": "https://grok.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=ai.x.grok",
+  "officialUrl": "https://grok.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "1.2.53-release.00",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=ai.x.grok",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/grok/icon.webp",
+  "summary": "Grok is an AI assistant app for chatting, image creation and real-time answers that draw on posts from X. The latest Grok APK is version 1.2.53-release.00, updated October 30, 2026, and needs Android 9 or newer. It's free to use with limits, and SuperGrok subscriptions are sold as in-app purchases.",
+  "metaDescription": "Get the official Grok APK 1.2.53 for Android 9+. What Grok does, real-time X search, image tools, SuperGrok plans, install steps and safety notes.",
+  "primaryKeyword": "grok apk",
+  "secondaryKeywords": [
+    "grok ai app",
+    "grok app download",
+    "supergrok"
+  ],
+  "alternatives": [
+    "chatgpt",
+    "google-gemini",
+    "perplexity"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Grok on Android?",
+      "a": "Open Google Play, search for Grok and check the developer is SpaceX Super Intelligence before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from SpaceX Super Intelligence and may be altered, so the safest way to use Grok is the official listing."
+    },
+    {
+      "q": "Is Grok free?",
+      "a": "Grok is free to download and use with daily limits. SuperGrok subscriptions, sold as in-app purchases from $4.99 to $300.00 per item on Google Play, raise those limits and unlock the most capable models and features."
+    },
+    {
+      "q": "Do I need an X account to use Grok?",
+      "a": "No. The Grok app lets you sign in with an X account, but you can also sign in with Google, Apple or an email address. Grok can still search public posts on X to answer questions about current events."
+    },
+    {
+      "q": "Who makes the Grok app?",
+      "a": "Grok was built by xAI, the AI company founded by Elon Musk. Google Play now lists the publisher as SpaceX Super Intelligence, and the app's own description calls the developer SpaceXSI."
+    },
+    {
+      "q": "Is Grok suitable for kids?",
+      "a": "Grok is rated Teen on Google Play. It has looser content rules than many assistants and has been criticised over what its image tools could generate, so it isn't a good choice for younger children. Parents should use Google Family Link to manage access."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=ai.x.grok",
+    "https://grok.com/"
+  ],
+  "oldUrls": []
+}

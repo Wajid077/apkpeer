@@ -1,0 +1,85 @@
+{
+  "slug": "stumble-guys",
+  "name": "Stumble Guys",
+  "shortName": "Stumble Guys",
+  "packageName": "com.kitkagames.fallbuddies",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Scopely",
+    "slug": "scopely",
+    "url": "https://www.scopely.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+  "officialUrl": "https://www.scopely.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "0.104",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+    "changelog": [
+      "New Lost Island season with creatures, Piñatas, weekly events and holiday events.",
+      "New Cat Splat ability: lock onto a moving target and launch a missile to stumble rivals from a distance.",
+      "New Matchmaking Area where you can move, emote and show off while you wait.",
+      "Smash Piñatas for cosmetics and currency.",
+      "Thanksgiving, Black Friday and Cyber Week events."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/stumble-guys/icon.webp",
+  "summary": "Stumble Guys is a free online party game from Scopely where up to 32 players race through chaotic obstacle courses until one is left standing. The latest Stumble Guys APK is version 0.104, updated October 29, 2026, and needs Android 6.0 or newer. It's free to play, with ads and in-app purchases.",
+  "metaDescription": "Get the official Stumble Guys APK 0.104 for Android 6.0+. The new Lost Island season, install steps, account safety notes and answers to common questions.",
+  "primaryKeyword": "stumble guys apk",
+  "secondaryKeywords": [
+    "stumble guys download",
+    "stumble guys for android",
+    "is stumble guys free"
+  ],
+  "alternatives": [
+    "among-us",
+    "roblox",
+    "subway-surfers"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Stumble Guys on Android?",
+      "a": "Open Google Play, search for Stumble Guys and check the developer is Scopely before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Scopely and may be altered, so the safest way to play Stumble Guys is the official listing."
+    },
+    {
+      "q": "Is Stumble Guys free?",
+      "a": "Yes, Stumble Guys is free to download and play. It shows ads and sells optional in-app purchases, such as gems, skins and passes, priced from $0.99 to $149.99 per item on Google Play. Google Play notes that some purchases include random items. Paying doesn't make your character faster or stronger."
+    },
+    {
+      "q": "How many players are in a Stumble Guys match?",
+      "a": "A standard Stumble Guys match starts with up to 32 players. Each round eliminates some of them, until the last round crowns a single winner. You can also create private parties to play with friends, and there are other modes that change the format."
+    },
+    {
+      "q": "Can I play Stumble Guys offline?",
+      "a": "No. Stumble Guys is an online multiplayer game, so it needs an internet connection to find matches and save your progress. A stable Wi-Fi or mobile data connection helps avoid lag in the busier rounds. Without a connection, the game stays on the loading screen."
+    },
+    {
+      "q": "Who makes Stumble Guys?",
+      "a": "Stumble Guys was created by the Finnish studio Kitka Games, which is why its Android package name still starts with com.kitkagames. Scopely acquired the game in 2022 and now publishes it on Google Play. The game is still updated with new seasons, maps and abilities every few weeks."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+    "https://www.scopely.com/"
+  ],
+  "oldUrls": [
+    "/stumble-guys-mod-2026/"
+  ]
+}

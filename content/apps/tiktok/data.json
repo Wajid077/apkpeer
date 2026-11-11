@@ -1,0 +1,79 @@
+{
+  "slug": "tiktok",
+  "name": "TikTok - Videos, Shop & LIVE",
+  "shortName": "TikTok",
+  "packageName": "com.zhiliaoapp.musically",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "TikTok Pte. Ltd.",
+    "slug": "tiktok-pte-ltd",
+    "url": "https://www.tiktok.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+  "officialUrl": "https://www.tiktok.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+    "changelog": [
+      "Quickly find and tag your friends in comments."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/tiktok/icon.webp",
+  "summary": "TikTok is a free short-video app for Android where you watch a personalized feed of videos, create your own with music and effects, go LIVE and shop. Google Play lists the version as varying by device, and the official TikTok APK was last updated on October 29, 2026. It's free with ads and optional coin purchases.",
+  "metaDescription": "Get the official TikTok APK for Android: short videos, LIVE and TikTok Shop. What's new, screen-time and privacy settings, install steps and safety notes.",
+  "primaryKeyword": "tiktok apk",
+  "secondaryKeywords": [
+    "tiktok download",
+    "tiktok app for android",
+    "tiktok lite"
+  ],
+  "alternatives": [
+    "instagram",
+    "snapchat",
+    "capcut"
+  ],
+  "faq": [
+    {
+      "q": "How do I install TikTok on Android?",
+      "a": "Open Google Play, search for TikTok and check the developer is TikTok Pte. Ltd. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from TikTok Pte. Ltd. and may be altered, so the safest way to use TikTok is the official listing."
+    },
+    {
+      "q": "Is it safe to download the TikTok APK?",
+      "a": "The official TikTok app from Google Play is safe to install. Its package name is com.zhiliaoapp.musically and the developer is TikTok Pte. Ltd. Files from other sites aren't official, and modified versions that remove ads or add download features can steal your account and get it banned."
+    },
+    {
+      "q": "Why isn't TikTok available in my country?",
+      "a": "TikTok has been banned or restricted by governments in some countries. India, for example, has blocked it since 2020. If Google Play says the app isn't available in your region, installing an APK from another site won't reliably work, and it may break local law."
+    },
+    {
+      "q": "How do I set a screen time limit on TikTok?",
+      "a": "Open your profile, tap the menu, go to Settings and privacy, then Screen time. You can set a daily limit, schedule breaks and turn on reminders. Accounts belonging to users under 18 have a daily limit switched on by default, and parents can manage it through Family Pairing."
+    },
+    {
+      "q": "What is the difference between TikTok and TikTok Lite?",
+      "a": "TikTok Lite is a smaller version of TikTok for phones with limited storage or slow connections. It focuses on watching videos and uses less data, but it has fewer creation and editing tools than the main TikTok app. Availability varies by country."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+    "https://www.tiktok.com/"
+  ],
+  "oldUrls": []
+}

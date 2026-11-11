@@ -1,0 +1,79 @@
+{
+  "slug": "pinterest",
+  "name": "Pinterest",
+  "shortName": "Pinterest",
+  "packageName": "com.pinterest",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "url": "https://www.pinterest.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pinterest",
+  "officialUrl": "https://www.pinterest.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.pinterest",
+    "changelog": [
+      "Weekly polish to make the app faster and more reliable."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/pinterest/icon.webp",
+  "summary": "Pinterest is a visual discovery app for finding and saving ideas for recipes, home decor, fashion, travel and DIY projects. Google Play lists the Pinterest APK version as \"Varies with device\", updated November 3, 2026. It's free to use, contains ads, and lists in-app purchases on Google Play.",
+  "metaDescription": "Get the official Pinterest APK for Android, updated November 3, 2026. How Pins, boards and visual search work, privacy settings, and install steps.",
+  "primaryKeyword": "pinterest apk",
+  "secondaryKeywords": [
+    "pinterest app download",
+    "pinterest for android",
+    "pinterest ideas"
+  ],
+  "alternatives": [
+    "instagram",
+    "canva",
+    "threads"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Pinterest on Android?",
+      "a": "Open Google Play, search for Pinterest and check the developer is Pinterest before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Pinterest and may be altered, so the safest way to use Pinterest is the official listing."
+    },
+    {
+      "q": "Is Pinterest free?",
+      "a": "Yes. Pinterest is free to use, with ads shown as Promoted Pins. Google Play lists in-app purchases from $5.88 to $329.41 per item, which relate to optional paid features. You don't need to pay to save and browse ideas."
+    },
+    {
+      "q": "What is a Pin and a board?",
+      "a": "A Pin is a saved image or video with a link to its source, such as a recipe or product page. Boards are collections where you organise your Pins by topic, like \"Kitchen ideas\" or \"Summer outfits\". Boards can be public, secret or shared with others."
+    },
+    {
+      "q": "Can I search Pinterest with a photo?",
+      "a": "Yes. Tap the camera in the search bar to search with a photo, or select part of a Pin to find visually similar ideas and products. It's useful for finding furniture, clothes or recipes you've seen elsewhere."
+    },
+    {
+      "q": "Is Pinterest safe for teens?",
+      "a": "Pinterest is rated Teen on Google Play. Accounts for under-16s are private by default, and Pinterest limits messaging and recommendations for younger users. Parents can review settings with their teen."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.pinterest",
+    "https://www.pinterest.com/"
+  ],
+  "oldUrls": []
+}

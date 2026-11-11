@@ -1,0 +1,74 @@
+## What is XAPK Installer?
+
+XAPK Installer is a free Android tool, published on Google Play by TarrySoft, that installs `.xapk` files. If you've ever downloaded an app from outside Google Play and ended up with an XAPK instead of a normal APK, you'll have found that tapping it does nothing. Android doesn't know how to open it. XAPK Installer unpacks the file and installs it for you.
+
+It's been on Google Play since September 2020 and has more than 10 million downloads. It also installs regular APK files and can scan your phone for installable files, so it works as a simple installer and file finder in one.
+
+It's one of the more specialised [tools](/category/tools) we cover. Before you use it, it's worth understanding what XAPK files are and where the real risks lie, which this page explains.
+
+## What's new in XAPK Installer 4.6.4.1
+
+XAPK Installer 4.6.4.1 reached Google Play on September 15, 2026. The [release notes on Play](https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller) list:
+
+- Changes required for Android 11.
+- French language support.
+- Bug fixes and performance improvements.
+
+The notes mention Android 11 even though this version shipped in 2026, which suggests the developer hasn't rewritten them for some time. The Play listing confirms the September 15, 2026 update date and an Android 5.0 minimum.
+
+## What is an XAPK file?
+
+Modern Android apps are often published as an **app bundle**, which Google Play splits into a base APK plus several "split" APKs for your screen size, processor and language. Big games also ship large data files (OBB). When those pieces are downloaded outside Play, some sites package them together as a single `.xapk` file.
+
+An XAPK is basically a ZIP archive containing:
+
+| Part | What it is |
+| --- | --- |
+| Base APK | The main app |
+| Split APKs | Extra pieces for your phone's screen, processor or language |
+| OBB files | Large game data, such as graphics and sound |
+| Manifest | A small file describing what's inside |
+
+## Key features
+
+### Install XAPK and APK files
+
+Open the app, pick an XAPK or APK, and it extracts and installs the parts in the right order, which saves you doing it by hand. For games with OBB data, it copies the data into the `Android/obb` folder where the game expects it.
+
+### Scan for installable files
+
+The app can scan your storage for XAPK and APK files, so you don't need to hunt through folders to find something you've downloaded.
+
+### Works on older phones
+
+With an Android 5.0 minimum, it runs on phones too old for many current apps, which is often when people need to sideload in the first place. Older phones are also where Google Play is most likely to be missing or out of date, so a reliable installer helps there.
+
+## Tips for using it safely
+
+Only install XAPK files of apps you trust, from the developer or a reputable source that checks signatures. After installing, open **Settings → Apps → [the app] → App details** to confirm where it came from. Revoke XAPK Installer's storage and install permissions when you're done, and uninstall any app that asks for permissions it shouldn't need.
+
+## How to install XAPK Installer APK on Android
+
+Install [XAPK Installer from Google Play](https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller).
+
+1. Open Google Play, search for XAPK Installer, and check that the developer is TarrySoft.
+2. Tap **Install** and open the app.
+3. When you install your first file, Android asks you to allow XAPK Installer to **Install unknown apps**. Allow it only if you're about to use it.
+4. If you downloaded a file from APKPeer, check that the SHA-256 matches the one on this page. We link to Google Play only, so there's no APKPeer file for XAPK Installer.
+5. When you're finished, turn the permission off under **Settings → Apps → Special app access → Install unknown apps**.
+
+## Is XAPK Installer APK safe?
+
+The XAPK Installer app on Google Play is a legitimate tool. Play marks it as containing ads and in-app purchases ($0.99 to $99.99 per item) and rates it Everyone. Its permissions, installing packages and accessing storage, are exactly what an installer needs, but they're powerful, so grant them only while you're using it.
+
+The real risk is what you install with it. An installer doesn't check whether an app is genuine; it installs whatever you give it. XAPK files are popular on sites that also distribute modified apps, and a tampered app installed this way has the same access as any other. Prefer Google Play whenever an app is available there, and only install XAPKs of official apps.
+
+The app's description mentions downloading from third-party stores. APKPeer doesn't endorse any particular download site, and we only link to official sources.
+
+## XAPK Installer vs alternatives
+
+- **<AppLink slug="split-apks-installer">SAI (Split APKs Installer)</AppLink>** is an open-source installer for split APK bundles, without ads. It's a cleaner choice if you're comfortable with a more technical app.
+- **<AppLink slug="apkmirror-installer">APKMirror Installer</AppLink>** installs the `.apkm` bundles from APKMirror, a site that checks signatures against the developer's.
+- **<AppLink slug="f-droid">F-Droid</AppLink>** avoids the problem entirely for open-source apps: it installs and updates apps itself, built from source.
+
+If you need to install an XAPK you trust, XAPK Installer does the job. Just keep in mind that the installer is only as safe as the file you feed it.

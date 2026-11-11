@@ -1,0 +1,347 @@
+@import "tailwindcss";
+
+/*
+ * APK Peer design system tokens (see DECISIONS.md, "Design system").
+ * Warm orange-and-cream, light first. Every text pairing was checked against WCAG AA;
+ * ratios are noted next to the tokens they constrain.
+ * Components never hard-code a hex value: they use these tokens, directly or through
+ * the legacy aliases at the end of each block (bg, surface, text, accent…).
+ */
+:root {
+  /* Identity — decoration only. Never text, never behind white text (2.5:1). */
+  --brand: #ec8b57;
+  /* Primary action: one per view. on-brand on brand-strong 5.04:1. */
+  --brand-strong: #b4521c;
+  --brand-strong-hover: #9a4517;
+  --on-brand: #ffffff;
+  /* Inline links and "View all" (5.3:1 on surface-warm, 6.1:1 on card). */
+  --link: #a4461a;
+
+  --surface: #fff8f2; /* page */
+  --surface-warm: #fceee2; /* hero, footer, alternating bands */
+  --card: #ffffff; /* cards, search, info tables, header */
+
+  --ink: #2b1b12; /* headings */
+  --ink-body: #45342a; /* body copy, 10.4:1 or better */
+  --ink-muted: #6b5546; /* meta, 6.1:1 or better */
+
+  --border: #eedfd2;
+  --border-strong: #9c8676; /* control borders, 3.3:1 */
+  --star: #b7791f; /* rating star, 3.5:1 */
+  --focus: #b4521c;
+  --danger: #b42318;
+
+  --badge-app-bg: #e7effd;
+  --badge-app-ink: #1e4fb8; /* 6.3:1 */
+  --badge-game-bg: #fce6d8;
+  --badge-game-ink: #8e3a12; /* 6.3:1 */
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+  --shadow-card: 0 1px 2px rgb(74 40 18 / 0.06), 0 1px 3px rgb(74 40 18 / 0.05);
+  --shadow-raised: 0 6px 16px rgb(74 40 18 / 0.1), 0 2px 4px rgb(74 40 18 / 0.06);
+  --tap-target: 44px;
+  --max-w: 1200px;
+  --measure: 70ch;
+  --header-offset: 112px; /* sticky header is two rows on phones */
+
+  /* Legacy aliases used across components. */
+  --bg: var(--card);
+  --text: var(--ink);
+  --text-muted: var(--ink-muted);
+  --accent: var(--brand-strong);
+  --accent-hover: var(--brand-strong-hover);
+  --accent-text: var(--link);
+  --accent-contrast: var(--on-brand);
+  --radius: var(--radius-md);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --brand: #ec8b57;
+    --brand-strong: #f0a070; /* on-brand on it 8.7:1 */
+    --brand-strong-hover: #f5b68f;
+    --on-brand: #1c130e;
+    --link: #f5a777;
+    --surface: #17110e;
+    --surface-warm: #211813;
+    --card: #2a1f19;
+    --ink: #fbf1e9;
+    --ink-body: #e9dace;
+    --ink-muted: #bfa999;
+    --border: #3c2e26;
+    --border-strong: #7e6a5d;
+    --star: #f2b33d;
+    --focus: #f0a070;
+    --danger: #f97066;
+    --badge-app-bg: #1c2a47;
+    --badge-app-ink: #afc8ff;
+    --badge-game-bg: #3d2416;
+    --badge-game-ink: #ffbf96;
+    --shadow-card: 0 1px 2px rgb(0 0 0 / 0.4);
+    --shadow-raised: 0 8px 20px rgb(0 0 0 / 0.45);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --brand: #ec8b57;
+  --brand-strong: #f0a070;
+  --brand-strong-hover: #f5b68f;
+  --on-brand: #1c130e;
+  --link: #f5a777;
+  --surface: #17110e;
+  --surface-warm: #211813;
+  --card: #2a1f19;
+  --ink: #fbf1e9;
+  --ink-body: #e9dace;
+  --ink-muted: #bfa999;
+  --border: #3c2e26;
+  --border-strong: #7e6a5d;
+  --star: #f2b33d;
+  --focus: #f0a070;
+  --danger: #f97066;
+  --badge-app-bg: #1c2a47;
+  --badge-app-ink: #afc8ff;
+  --badge-game-bg: #3d2416;
+  --badge-game-ink: #ffbf96;
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-raised: 0 8px 20px rgb(0 0 0 / 0.45);
+  color-scheme: dark;
+}
+
+@theme inline {
+  /* bg = card panels; surface = the warm band/hover tint; page = page background. */
+  --color-bg: var(--card);
+  --color-card: var(--card);
+  --color-page: var(--surface);
+  --color-surface: var(--surface-warm);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-fg: var(--ink);
+  --color-body: var(--ink-body);
+  --color-muted: var(--ink-muted);
+  --color-brand: var(--brand);
+  --color-accent: var(--brand-strong);
+  --color-accent-hover: var(--brand-strong-hover);
+  --color-accent-text: var(--link);
+  --color-accent-contrast: var(--on-brand);
+  --color-star: var(--star);
+  --color-danger: var(--danger);
+  --radius-card: var(--radius-md);
+  --shadow-card: var(--shadow-card);
+  --shadow-raised: var(--shadow-raised);
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --text-xs: 13px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-lg: 17px;
+  --text-xl: 22px;
+  --text-2xl: 28px;
+  --text-3xl: 36px;
+}
+
+/*
+ * Element defaults live in @layer base. Unlayered rules beat Tailwind's layered utilities,
+ * which made `a { color: inherit }` override `text-accent-contrast` on download buttons
+ * (failing contrast) and `:focus-visible` override `focus-visible:outline-none`.
+ */
+@layer base {
+  html {
+    background: var(--surface);
+    color: var(--ink-body);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background: var(--surface);
+    color: var(--ink-body);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--ink);
+  }
+
+  a {
+    color: inherit;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+}
+
+.container-site {
+  max-width: var(--max-w);
+  margin-inline: auto;
+  padding-inline: 16px;
+}
+@media (min-width: 1024px) {
+  .container-site {
+    padding-inline: 24px;
+  }
+}
+
+/* Warm full-width band: hero, footer, alternating homepage sections. */
+.ap-band {
+  background: var(--surface-warm);
+}
+
+/* Type badge: APP or GAME. The label text carries the meaning, not the color. */
+.ap-badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: var(--radius-sm);
+  padding: 3px 7px;
+  font-size: 11px;
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.ap-badge--app {
+  background: var(--badge-app-bg);
+  color: var(--badge-app-ink);
+}
+.ap-badge--game {
+  background: var(--badge-game-bg);
+  color: var(--badge-game-ink);
+}
+
+/* Card: rests on shadow-card with a border, lifts on hover. */
+.ap-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  transition:
+    box-shadow 0.15s ease,
+    transform 0.15s ease;
+}
+.ap-card:hover {
+  box-shadow: var(--shadow-raised);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .ap-card:hover {
+    transform: translateY(-1px);
+  }
+}
+
+/* Article body (MDX). Kept hand-rolled to avoid the typography plugin's weight. */
+.prose {
+  max-width: var(--measure);
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--ink-body);
+}
+.prose > * + * {
+  margin-top: 1em;
+}
+.prose h2 {
+  font-size: 24px;
+  line-height: 1.3;
+  font-weight: 600;
+  margin-top: 2.2em;
+  scroll-margin-top: var(--header-offset);
+}
+.prose h3 {
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 600;
+  margin-top: 1.6em;
+  scroll-margin-top: var(--header-offset);
+}
+.prose h2 + *,
+.prose h3 + * {
+  margin-top: 0.5em;
+}
+.prose a {
+  color: var(--link);
+  overflow-wrap: anywhere; /* long URLs used as link text */
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.prose a:hover {
+  text-decoration-thickness: 2px;
+}
+.prose ul,
+.prose ol {
+  padding-left: 1.4em;
+}
+.prose ul {
+  list-style: disc;
+}
+.prose ol {
+  list-style: decimal;
+}
+.prose li + li {
+  margin-top: 0.35em;
+}
+.prose li::marker {
+  color: var(--brand);
+}
+.prose code {
+  font-size: 0.9em;
+  background: var(--surface-warm);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.1em 0.35em;
+}
+.prose strong {
+  font-weight: 600;
+  color: var(--ink);
+}
+.prose blockquote {
+  border-left: 3px solid var(--brand);
+  padding-left: 1em;
+  color: var(--ink-muted);
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+.prose th,
+.prose td {
+  border-bottom: 1px solid var(--border);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+.prose th {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+details > summary {
+  list-style: none;
+  cursor: pointer;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  :root {
+    --header-offset: 80px;
+  }
+}
+
+/* Phones: wide comparison tables scroll inside themselves instead of widening the page. */
+@media (max-width: 639px) {
+  .prose table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}

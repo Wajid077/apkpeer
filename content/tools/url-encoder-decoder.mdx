@@ -1,0 +1,40 @@
+## How to encode or decode a URL
+
+1. Choose **Encode** or **Decode**.
+2. Paste your text or URL into the **Input** box.
+3. When encoding a complete web address, tick **Keep URL structure** so characters like `/`, `?` and `&` stay as they are.
+4. Copy the result.
+
+## What URL encoding does
+
+Web addresses can only contain a limited set of characters. Everything else, such as spaces, quotes, accented letters and emoji, has to be written as a percent sign followed by the byte value in hexadecimal:
+
+| Character | Encoded |
+| --- | --- |
+| space | %20 |
+| & | %26 |
+| = | %3D |
+| ? | %3F |
+| é | %C3%A9 |
+
+This is called **percent-encoding**. Decoding reverses it, turning `%20` back into a space. The decoder also turns `+` into a space, because HTML forms use + for spaces in query strings.
+
+## Encode a value, or a whole URL?
+
+This is the most common mistake. If you're building a link with a search term like `apps & games`, encode **only the value**:
+
+`https://example.com/search?q=apps%20%26%20games`
+
+If you encoded the whole URL with the value already inserted, the `&` would be treated as the start of a new parameter and the search would break. Use **Keep URL structure** only when you have a complete address that's already correct apart from a few unsafe characters, such as spaces.
+
+## Common uses
+
+- Building **share links** and **deep links** for apps.
+- Reading **tracking links** and redirect URLs, which often contain another encoded URL inside them.
+- Debugging **API requests** where parameters aren't arriving as expected.
+
+## Related tools
+
+To turn a title into a clean, readable address rather than an encoded one, use the [slug generator](/tools/slug-generator). For encoding data rather than links, use the [Base64 encoder](/tools/base64-encoder-decoder).
+
+Everything runs in your browser; nothing is uploaded.

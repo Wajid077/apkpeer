@@ -1,0 +1,69 @@
+## What is Brave?
+
+Brave Private Web Browser is a free [Android browser](/category/browsers) made by [Brave Software, Inc.](https://brave.com), the company co-founded by Brendan Eich, who also created JavaScript and co-founded Mozilla. It's built on Chromium, the same open-source engine behind Chrome, so websites look and behave the way you'd expect.
+
+The difference is what Brave does out of the box. Brave Shields blocks ads, trackers, cross-site cookies and fingerprinting scripts on every site, with nothing to install or configure. On a page heavy with ads, that usually means less data used and a faster load.
+
+Brave also ships its own search engine (Brave Search), an AI assistant called Leo, a built-in crypto wallet, and an opt-in rewards program. You can ignore all of that and use it as a plain, quiet browser. The code is public on [GitHub](https://github.com/brave/brave-browser), which is one reason privacy-minded users trust the Brave browser APK more than closed-source alternatives.
+
+## What's new in Brave 1.98.63
+
+Brave 1.98.63 reached Google Play on October 31, 2026. The [Play Store release notes](https://play.google.com/store/apps/details?id=com.brave.browser) list three changes:
+
+- **Top sites switch.** Long-press the top sites widget on the New Tab Page to flip between your favorites and your most visited websites.
+- **Stability work.** Several general stability fixes.
+- **Chromium 156.** The browser engine moves to Chromium 156, which brings the upstream security fixes from that release.
+
+It follows 1.98.60 from October 27, which was a bigger update. According to [Brave's release notes](https://brave.com/latest/), that version let Leo use Bring Your Own Model (BYOM) and NEAR model choices, added an option to switch off the separate "bottom bar" when the Android bottom toolbar is enabled in `brave://flags`, improved quick search engine settings, and fixed recent tabs showing as a blank page.
+
+## Key features
+
+### Brave Shields ad and tracker blocking
+
+Tap the lion icon in the address bar to open Shields for the site you're on. You'll see how many items were blocked and can switch blocking off for just that site if something breaks, for example a login form or a video player. Under **Settings → Brave Shields & privacy** you can make tracker blocking "Aggressive" or keep it on "Standard."
+
+### Private tabs
+
+Brave's private tabs don't save history or cookies once you close them. On Android you open one from the tab switcher. It's a quick way to check a price or sign in to a second account without mixing it into your normal browsing.
+
+### Brave Search and Leo
+
+Brave Search is the default search engine in many regions, and you can change it under **Settings → Search engine**. It uses its own index instead of reselling Google or Bing results. Leo is the built-in AI assistant: open it from the address bar to summarize the page you're reading or ask a quick question. Since 1.98.60 you can also connect your own model (BYOM).
+
+### Background play and Playlist
+
+Brave lets audio and video keep playing when you switch apps or lock the screen, which is handy for podcasts and lectures on video sites. Turn it on under **Settings → Media**. Playlist lets you save videos from supported sites to watch later.
+
+### Sync without an account
+
+Brave Sync connects your phone to Brave on other devices using a sync chain code instead of an email login. Bookmarks, passwords and settings sync across devices, end to end encrypted.
+
+## How to install Brave browser APK on Android
+
+The easiest route is the [Google Play listing](https://play.google.com/store/apps/details?id=com.brave.browser). If your phone doesn't have Play Store, or you need a specific version, Brave publishes signed APKs on its [official GitHub releases page](https://github.com/brave/brave-browser/releases).
+
+1. Open Brave's GitHub releases page and pick the newest build marked **Release** (not Nightly or Beta).
+2. Download the APK that matches your phone's processor. Most phones from the last several years use **arm64**. If you're not sure, a free app like CPU-Z shows it under "System."
+3. If you downloaded the file from APKPeer, check that the SHA-256 matches the one on this page. If you used GitHub, the signature check in step 6 covers you.
+4. Open the APK. Android will ask you to allow your browser or file manager to **Install unknown apps**. Allow it for that one app.
+5. Tap **Install** and wait for it to finish.
+6. Already have Brave from Play Store? The update will only install if the file is signed with Brave's key. If Android says the package conflicts with an existing one, the file isn't genuine. Delete it.
+7. Go back to **Settings → Apps → Special app access → Install unknown apps**, select the app you used, and turn the permission off again.
+
+## Is Brave APK safe?
+
+The official Brave APK is safe. It comes from Brave Software, the code is open source, and every release is signed with Brave's own key. Android won't let a file signed with a different key update the Brave you already have, which makes it hard to slip a tampered build onto your phone.
+
+Brave asks for very little up front. Things like camera, microphone and location are standard Android runtime permissions: Brave only asks for them when a website requests them, and you can say no. You can review them any time under **Settings → Apps → Brave → Permissions**.
+
+There's one documented misstep worth knowing about. In June 2020, users found Brave was autocompleting some crypto exchange addresses with an affiliate referral code. Brave apologized publicly and turned the behavior off by default. Some people also dislike the crypto features (Brave Rewards, Brave Wallet). Both are optional and can be hidden from settings.
+
+The real risk is unofficial copies. Repackaged "Brave" APKs on random download sites can carry malware or adware. APKPeer only lists the official build and links to Brave's own sources.
+
+## Brave vs alternatives
+
+- **<AppLink slug="firefox">Firefox</AppLink>** supports full browser extensions on Android, including uBlock Origin, which gives you finer control over blocking. The trade-off is that it uses Mozilla's Gecko engine, so the odd site built only for Chrome can misbehave.
+- **<AppLink slug="duckduckgo-browser">DuckDuckGo Private Browser</AppLink>** is simpler, with a one-tap "Fire" button that wipes tabs and data, and it can block trackers in other apps too. It has fewer power-user settings than Brave.
+- **<AppLink slug="google-chrome">Google Chrome</AppLink>** has the tightest integration with your Google account and Android itself, but it has no general ad blocker, and Google's business depends on ads.
+
+If you want strong blocking with zero setup and a Chrome-like feel, Brave is the closest fit. If you want to fine-tune every filter, Firefox with extensions is the better choice.

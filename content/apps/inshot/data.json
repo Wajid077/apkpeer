@@ -1,0 +1,81 @@
+{
+  "slug": "inshot",
+  "name": "Video Editor & Maker - InShot",
+  "shortName": "InShot",
+  "packageName": "com.camerasideas.instashot",
+  "type": "app",
+  "category": "video-editors",
+  "developer": {
+    "name": "InShot Video Editor",
+    "slug": "inshot-video-editor",
+    "url": "https://inshot.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot",
+  "officialUrl": "https://inshot.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "2.243.1555",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-22",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot",
+    "changelog": [
+      "Keyframes for filters and effects.",
+      "New effects pack: Twist.",
+      "Bug fixes and other improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/inshot/icon.webp",
+  "summary": "InShot is a free, easy video editor and maker for Android from InShot Video Editor, built for trimming clips, adding music, text and effects, and resizing for social media. The latest InShot APK is version 2.243.1555, updated October 22, 2026, and needs Android 8.0 or newer. It's free with ads; InShot Pro removes them.",
+  "metaDescription": "Get the official InShot APK 2.243.1555 for Android 8.0+. Trim, add music and resize videos for social media: what's new, Pro vs free, install steps.",
+  "primaryKeyword": "inshot apk",
+  "secondaryKeywords": [
+    "inshot video editor",
+    "inshot download",
+    "inshot pro"
+  ],
+  "alternatives": [
+    "capcut",
+    "invideo-ai",
+    "canva"
+  ],
+  "faq": [
+    {
+      "q": "How do I install InShot on Android?",
+      "a": "Open Google Play, search for InShot and check the developer is InShot Video Editor before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from InShot Video Editor and may be altered, so the safest way to use InShot is the official listing."
+    },
+    {
+      "q": "Is InShot free?",
+      "a": "Yes, InShot is free to download and use, with ads. Free exports carry a small InShot watermark, which you can remove for a single video by watching a rewarded ad, or permanently with InShot Pro. Google Play lists in-app purchases from $0.99 to $199.99 for Pro plans and other extras."
+    },
+    {
+      "q": "How do I remove the InShot watermark?",
+      "a": "Tap the watermark in the preview before exporting. InShot offers to remove it for that video if you watch an ad, or for every video if you buy InShot Pro. Don't use modified \"Pro\" APKs to get rid of it: they aren't official and often carry adware."
+    },
+    {
+      "q": "Is InShot good for YouTube and Instagram videos?",
+      "a": "Yes, for short and simple videos. InShot's Canvas tool resizes a video to common shapes, such as 9:16 for Reels and Shorts, 1:1 for posts or 16:9 for YouTube, and you can export up to 4K on supported phones. For long edits with many layers, a desktop editor is easier."
+    },
+    {
+      "q": "What Android version does InShot need?",
+      "a": "InShot 2.243.1555 needs Android 8.0 or newer, according to its Google Play listing. On older phones, Google Play won't offer the current version. Editing high-resolution video also needs enough free storage, so clear some space before big projects."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.camerasideas.instashot",
+    "https://inshot.com/"
+  ],
+  "oldUrls": []
+}

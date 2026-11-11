@@ -1,0 +1,80 @@
+{
+  "slug": "shadow-fight-2",
+  "name": "Shadow Fight 2",
+  "shortName": "Shadow Fight 2",
+  "packageName": "com.nekki.shadowfight",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "NEKKI",
+    "slug": "nekki",
+    "url": "https://nekki.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight",
+  "officialUrl": "https://nekki.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "2.45.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-07-06",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight",
+    "changelog": [
+      "Bug fixes.",
+      "Optimization."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/shadow-fight-2/icon.webp",
+  "summary": "Shadow Fight 2 is Nekki's fighting game with silhouette characters, realistic martial arts animation and RPG-style weapons and armour. The latest Shadow Fight 2 APK is version 2.45.0, updated July 6, 2026, and needs Android 7.0 or newer. It's free with ads and in-app purchases, and a paid Special Edition also exists.",
+  "metaDescription": "Get the official Shadow Fight 2 APK 2.45.0 for Android 7.0+. How fights, gear and the energy system work, tips for beating bosses, and install steps.",
+  "primaryKeyword": "shadow fight 2 apk",
+  "secondaryKeywords": [
+    "shadow fight 2 download",
+    "shadow fight 2 game",
+    "shadow fight 2 special edition"
+  ],
+  "alternatives": [
+    "brawl-stars",
+    "call-of-duty-mobile",
+    "rope-hero"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Shadow Fight 2 on Android?",
+      "a": "Open Google Play, search for Shadow Fight 2 and check the developer is NEKKI before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from NEKKI and may be altered, so the safest way to play Shadow Fight 2 is the official listing."
+    },
+    {
+      "q": "Is Shadow Fight 2 free?",
+      "a": "Yes. Shadow Fight 2 is free to play, with ads and in-app purchases from $0.49 to $249.99 per item on Google Play. Nekki also sells Shadow Fight 2 Special Edition, a paid version without ads or the energy system."
+    },
+    {
+      "q": "What is the energy system in Shadow Fight 2?",
+      "a": "In the free version, each fight uses energy, which refills over time. When it runs out, you wait or spend gems. The paid Special Edition removes energy so you can play without waiting."
+    },
+    {
+      "q": "Can I play Shadow Fight 2 offline?",
+      "a": "Yes. Most of the story can be played offline. Some features, such as online events and syncing progress, need an internet connection."
+    },
+    {
+      "q": "Is Shadow Fight 2 suitable for kids?",
+      "a": "Google Play rates it Everyone 10+ for fantasy violence. Fighters are silhouettes, so there's no blood, but the game is all about combat."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nekki.shadowfight",
+    "https://nekki.com/"
+  ],
+  "oldUrls": []
+}

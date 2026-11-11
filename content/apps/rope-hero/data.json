@@ -1,0 +1,79 @@
+{
+  "slug": "rope-hero",
+  "name": "Rope Hero: Vice Town",
+  "shortName": "Rope Hero",
+  "packageName": "com.mgc.RopeHero.ViceTown",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Naxeex Action & RPG Games",
+    "slug": "naxeex",
+    "url": "https://naxeex.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mgc.RopeHero.ViceTown",
+  "officialUrl": "https://naxeex.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-18",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.mgc.RopeHero.ViceTown",
+    "changelog": [
+      "Bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/rope-hero/icon.webp",
+  "summary": "Rope Hero: Vice Town is a free open-world action game from Naxeex where you play a superhero who swings through a crime-ridden city on a super rope, fighting gangs and completing missions. The official Rope Hero APK was last updated on October 18, 2026. It's rated Mature 17+ and is free with ads and in-app purchases.",
+  "metaDescription": "Get the official Rope Hero: Vice Town APK for Android. Open-world superhero action with rope swinging: what's included, age rating, install and safety.",
+  "primaryKeyword": "rope hero apk",
+  "secondaryKeywords": [
+    "rope hero vice town",
+    "rope hero download",
+    "rope hero game"
+  ],
+  "alternatives": [
+    "free-fire",
+    "pubg-mobile",
+    "gangstar-vegas"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Rope Hero on Android?",
+      "a": "Open Google Play, search for Rope Hero and check the developer is Naxeex Action & RPG Games before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Naxeex Action & RPG Games and may be altered, so the safest way to play Rope Hero is the official listing."
+    },
+    {
+      "q": "Is Rope Hero: Vice Town free?",
+      "a": "Yes. Rope Hero: Vice Town is free to download and play. It shows ads and sells optional in-app purchases, which Google Play lists from $0.08 to $199.00 per item, such as in-game money and gear. You can play the story and open world without paying."
+    },
+    {
+      "q": "Is Rope Hero suitable for kids?",
+      "a": "Google Play rates Rope Hero: Vice Town Mature 17+ for intense violence and blood. It involves fighting gangs and using weapons in an open city, so it's aimed at older teens and adults. Parents can block it with Google Play's content filters or Family Link."
+    },
+    {
+      "q": "Can I play Rope Hero offline?",
+      "a": "Rope Hero: Vice Town is mainly a single-player game, so most of it can be played without an internet connection. Ads and some rewards need a connection. Saving your progress to the cloud also requires being online. Playing offline also saves battery and mobile data on long sessions."
+    },
+    {
+      "q": "Who makes Rope Hero?",
+      "a": "Rope Hero: Vice Town is made by Naxeex Action & RPG Games, which also publishes other Rope Hero games on Google Play, such as Rope Hero 3 and Rope Hero: Mafia City Wars. Vice Town has been on Play since July 2016 and has more than 100 million downloads."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.mgc.RopeHero.ViceTown",
+    "https://naxeex.com/"
+  ],
+  "oldUrls": []
+}

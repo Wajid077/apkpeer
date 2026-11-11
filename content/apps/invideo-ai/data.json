@@ -1,0 +1,84 @@
+{
+  "slug": "invideo-ai",
+  "name": "invideo: AI Video Editor",
+  "shortName": "invideo",
+  "packageName": "io.invideo.ai",
+  "type": "app",
+  "category": "video-editors",
+  "developer": {
+    "name": "invideo INC",
+    "slug": "invideo",
+    "url": "https://invideo.io"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=io.invideo.ai",
+  "officialUrl": "https://invideo.io/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "11",
+  "latest": {
+    "version": "4.5.64",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=io.invideo.ai",
+    "changelog": [
+      "New invideo: tell the AI agent, Agent Two, what to create or change in everyday language.",
+      "A professional multitrack timeline gives you control of every cut.",
+      "Generate images, video, voice, sound and music with 200+ AI models.",
+      "Collaborate in real time and leave feedback on specific frames."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/invideo-ai/icon.webp",
+  "summary": "invideo is an AI video editor for Android from invideo INC that turns text prompts into edited videos and lets you refine them on a multitrack timeline. The latest invideo AI APK is version 4.5.64, updated October 28, 2026, and it needs Android 11 or newer. It's free to install, with paid plans for more generation.",
+  "metaDescription": "Get the official invideo AI APK 4.5.64 for Android 11+. Create videos from text prompts with AI agents: what's free, what's paid, install steps and FAQ.",
+  "primaryKeyword": "invideo ai apk",
+  "secondaryKeywords": [
+    "invideo ai app",
+    "invideo ai download",
+    "is invideo ai free"
+  ],
+  "alternatives": [
+    "capcut",
+    "inshot",
+    "canva"
+  ],
+  "faq": [
+    {
+      "q": "How do I install invideo on Android?",
+      "a": "Open Google Play, search for invideo and check the developer is invideo INC before tapping Install. It needs Android 11 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from invideo INC and may be altered, so the safest way to use invideo is the official listing."
+    },
+    {
+      "q": "Is invideo AI free?",
+      "a": "invideo is free to download and you can try it without paying, but AI generation runs on paid plans and credits. Google Play lists in-app purchases from $9.99 up to $4,608 per item, which covers monthly and yearly plans for individuals and teams. Check what the free tier allows on invideo.io before you commit."
+    },
+    {
+      "q": "What can invideo AI do?",
+      "a": "invideo turns a written prompt into a finished video: it writes a script, picks or generates footage, and adds a voiceover, music and captions. You can then ask its AI agent to change things in plain language, or edit the result yourself on a multitrack timeline. It can also generate images, voices, sound and music."
+    },
+    {
+      "q": "Is invideo AI safe?",
+      "a": "Yes. The official invideo app on Google Play is published by invideo INC and has no ads. It needs an account to save projects and buy plans. Avoid \"premium\" invideo APKs on download sites, since modified builds can steal your login, and the AI features run on invideo's servers anyway."
+    },
+    {
+      "q": "Why can't I install invideo on my phone?",
+      "a": "invideo 4.5.64 needs Android 11 or newer, according to its Google Play listing. If your phone runs Android 10 or older, Play won't offer the app. You can still use invideo in a web browser at invideo.io, where the same account and projects are available."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=io.invideo.ai",
+    "https://invideo.io/"
+  ],
+  "oldUrls": [
+    "/invideo-ai-v4-5-29/"
+  ]
+}

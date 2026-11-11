@@ -1,0 +1,79 @@
+{
+  "slug": "threads",
+  "name": "Threads",
+  "shortName": "Threads",
+  "packageName": "com.instagram.barcelona",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "Instagram",
+    "slug": "instagram",
+    "url": "https://www.instagram.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+  "officialUrl": "https://www.threads.com/",
+  "price": "Free",
+  "containsAds": null,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "453.0.0.56.79",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+    "changelog": [
+      "Bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/threads/icon.webp",
+  "summary": "Threads is Meta's text-based social app for short posts and public conversations, linked to your Instagram account. The latest Threads APK is version 453.0.0.56.79, updated November 2, 2026. It's free to download, with in-app purchases on Google Play, and Meta shows ads in the feed in many countries.",
+  "metaDescription": "Get the official Threads APK 453.0.0.56.79 for Android. How Threads works with Instagram, feeds and privacy settings, install steps and safety tips.",
+  "primaryKeyword": "threads apk",
+  "secondaryKeywords": [
+    "threads app download",
+    "threads instagram app",
+    "threads for android"
+  ],
+  "alternatives": [
+    "x-twitter",
+    "instagram",
+    "facebook"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Threads on Android?",
+      "a": "Open Google Play, search for Threads and check the developer is Instagram before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Instagram and may be altered, so the safest way to use Threads is the official listing."
+    },
+    {
+      "q": "Do I need an Instagram account for Threads?",
+      "a": "Threads is linked to Instagram: the usual way to sign up is with your Instagram account, which carries over your username and verification. Meta has also been testing ways to use Threads without one in some regions. Your Threads profile can be public or private independently of Instagram."
+    },
+    {
+      "q": "Does Threads have ads?",
+      "a": "Yes, in many countries. Meta began showing ads in the Threads feed in 2025. Google Play doesn't show a \"Contains ads\" label for Threads, so APKPeer leaves that row out instead of saying no."
+    },
+    {
+      "q": "Can I delete Threads without deleting Instagram?",
+      "a": "Yes. Meta changed this in 2023: you can delete your Threads profile in Threads settings without affecting your Instagram account. You can also deactivate Threads temporarily."
+    },
+    {
+      "q": "How long can a Threads post be?",
+      "a": "A Threads post can have up to 500 characters, plus links, photos and videos. For longer thoughts you can chain posts into a thread or attach a longer text block, a feature Meta added in 2025."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.instagram.barcelona",
+    "https://www.threads.com/"
+  ],
+  "oldUrls": []
+}

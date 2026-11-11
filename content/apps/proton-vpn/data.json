@@ -1,0 +1,80 @@
+{
+  "slug": "proton-vpn",
+  "name": "Proton VPN: Secure & Fast VPN",
+  "shortName": "Proton VPN",
+  "packageName": "ch.protonvpn.android",
+  "type": "app",
+  "category": "vpn",
+  "developer": {
+    "name": "Proton AG",
+    "slug": "proton-ag",
+    "url": "https://proton.me"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+  "officialUrl": "https://protonvpn.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "5.20.98.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-29",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "changelog": [
+      "Fixed an annoying bug."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/proton-vpn/icon.webp",
+  "summary": "Proton VPN is a VPN app for Android from Proton AG, the Swiss company behind Proton Mail, with a free plan that has no ads and no data limit. The latest Proton VPN APK is version 5.20.98.0, updated October 29, 2026, and needs Android 8.0 or newer. Paid plans add more countries and features.",
+  "metaDescription": "Get the official Proton VPN APK 5.20.98.0 for Android 8.0+. A free VPN with no ads or data cap, open-source apps and audited no-logs policy: install guide.",
+  "primaryKeyword": "proton vpn apk",
+  "secondaryKeywords": [
+    "proton vpn download",
+    "proton vpn free",
+    "is proton vpn safe"
+  ],
+  "alternatives": [
+    "turbo-vpn",
+    "windscribe",
+    "cloudflare-warp"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Proton VPN on Android?",
+      "a": "Open Google Play, search for Proton VPN and check the developer is Proton AG before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Proton also publishes Proton VPN on F-Droid and as an APK through its own website and GitHub releases."
+    },
+    {
+      "q": "Is Proton VPN really free?",
+      "a": "Yes. Proton VPN's free plan has no ads, no data limit and no time limit, which is rare for a free VPN. The trade-offs are fewer server countries, one device at a time, and no choice of a specific server. Paid plans, sold as in-app purchases from $9.99 to $119.88, remove those limits."
+    },
+    {
+      "q": "Is Proton VPN safe to use?",
+      "a": "Yes. Proton VPN is run by Proton AG, a Swiss company, its apps are open source, and its no-logs policy has been checked by independent auditors. It doesn't show ads or sell data to fund the free plan; paid subscriptions pay for it. Download it from Google Play, F-Droid or protonvpn.com."
+    },
+    {
+      "q": "Can I get Proton VPN without Google Play?",
+      "a": "Yes. Proton publishes Proton VPN on F-Droid and offers the APK through its own website and GitHub releases. Those builds come from Proton itself, so they're as safe as the Play version. Avoid copies on other APK sites. Builds from F-Droid and GitHub update separately from the Play version."
+    },
+    {
+      "q": "Does Proton VPN keep logs?",
+      "a": "Proton says it doesn't log your browsing activity, and independent security firms have audited that no-logs policy. Like any account-based service, it stores basic account information such as your email and subscription. Its privacy policy on protonvpn.com explains exactly what's kept."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+    "https://protonvpn.com/",
+    "https://github.com/ProtonVPN/android-app"
+  ],
+  "oldUrls": []
+}

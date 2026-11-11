@@ -1,0 +1,82 @@
+{
+  "slug": "royal-match",
+  "name": "Royal Match",
+  "shortName": "Royal Match",
+  "packageName": "com.dreamgames.royalmatch",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "Dream Games, Ltd.",
+    "slug": "dream-games",
+    "url": "https://www.dreamgames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch",
+  "officialUrl": "https://www.dreamgames.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "39781",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-26",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch",
+    "changelog": [
+      "100 new levels; unlock the Stage and smash the Piñata.",
+      "New area: the Candy Factory.",
+      "New event: Element Hunt, with quick tasks.",
+      "New levels arrive every two weeks."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/royal-match/icon.webp",
+  "summary": "Royal Match is a free match-3 puzzle game from Dream Games where you solve levels to restore King Robert's castle. The latest Royal Match APK is version 39781, updated October 26, 2026, and needs Android 7.0 or newer. It has no ads, and in-app purchases from $0.99 to $99.99 buy coins, boosters and passes.",
+  "metaDescription": "Get the official Royal Match APK 39781 for Android 7.0+. 100 new levels and the Candy Factory area, how boosters and events work, and install steps.",
+  "primaryKeyword": "royal match apk",
+  "secondaryKeywords": [
+    "royal match game",
+    "royal match download",
+    "royal match new levels"
+  ],
+  "alternatives": [
+    "candy-crush-saga",
+    "block-blast",
+    "monopoly-go"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Royal Match on Android?",
+      "a": "Open Google Play, search for Royal Match and check the developer is Dream Games, Ltd. before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Dream Games, Ltd. and may be altered, so the safest way to play Royal Match is the official listing."
+    },
+    {
+      "q": "Does Royal Match have ads?",
+      "a": "No. Royal Match doesn't show ads; Google Play doesn't label it as containing ads. The game makes money from optional in-app purchases from $0.99 to $99.99 per item, such as coins, boosters and the Royal Pass."
+    },
+    {
+      "q": "How many levels does Royal Match have?",
+      "a": "Royal Match has thousands of levels, and Dream Games adds new ones every two weeks. The latest update added 100 new levels along with the Candy Factory area."
+    },
+    {
+      "q": "Can I play Royal Match offline?",
+      "a": "You can play regular levels offline. Events, teams, the Royal Pass and syncing progress need an internet connection, so connect regularly to save your progress."
+    },
+    {
+      "q": "How do I save my Royal Match progress?",
+      "a": "Connect the game to your Facebook or Google account in settings. Your levels and coins are then saved to that account, so you can restore them on a new phone."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch",
+    "https://www.dreamgames.com/"
+  ],
+  "oldUrls": []
+}

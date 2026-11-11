@@ -1,0 +1,79 @@
+{
+  "slug": "gta-san-andreas",
+  "name": "Grand Theft Auto: San Andreas",
+  "shortName": "GTA: San Andreas",
+  "packageName": "com.rockstargames.gtasa",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Rockstar Games",
+    "slug": "rockstar-games",
+    "url": "https://www.rockstargames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+  "officialUrl": "https://www.rockstargames.com/",
+  "price": "$6.99",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "2.11.311",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-01-21",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+    "changelog": [
+      "Fixed a crash some players hit while downloading game assets."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/gta-san-andreas/icon.webp",
+  "summary": "Grand Theft Auto: San Andreas is Rockstar Games' classic open-world action game, following CJ through 1990s Los Santos and beyond. The latest GTA San Andreas APK is version 2.11.311, updated January 21, 2026, and needs Android 9 or newer. It costs $6.99 on Google Play, has no ads, and is rated Mature 17+.",
+  "metaDescription": "Get the official GTA: San Andreas APK 2.11.311 for Android 9+, $6.99 on Google Play. Controls, cloud saves, controller support and install steps.",
+  "primaryKeyword": "gta san andreas apk",
+  "secondaryKeywords": [
+    "gta san andreas android",
+    "gta sa apk",
+    "gta san andreas download"
+  ],
+  "alternatives": [
+    "gta-vice-city",
+    "indian-bikes-driving-3d",
+    "call-of-duty-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install GTA: San Andreas on Android?",
+      "a": "Open Google Play, search for GTA: San Andreas and check the developer is Rockstar Games before tapping the price button. It needs Android 9 or newer. It costs $6.99 on Google Play, and once bought it's tied to your Google account, so you can reinstall it on any phone for free. Avoid copies from other sites: they aren't from Rockstar Games and may be altered, so the safest way to play GTA: San Andreas is the official listing."
+    },
+    {
+      "q": "How much is GTA: San Andreas on Android?",
+      "a": "GTA: San Andreas costs $6.99 on Google Play in the US, as a one-time purchase. There are no ads. Prices vary by country, and the game is sometimes discounted in Google Play sales."
+    },
+    {
+      "q": "Is GTA: San Andreas on Android the full game?",
+      "a": "Yes. The Google Play version contains the full story of the original game, with all of San Andreas: Los Santos, San Fierro, Las Venturas and the countryside, adapted with touch controls and improved graphics."
+    },
+    {
+      "q": "Can I use a controller with GTA: San Andreas on Android?",
+      "a": "Yes. The Android version supports many Bluetooth controllers, which many players find easier than touch controls for driving and aiming."
+    },
+    {
+      "q": "Can Netflix members play GTA: San Andreas?",
+      "a": "Netflix members can play GTA: San Andreas – The Definitive Edition, a remastered version, through Netflix Games at no extra cost while they're subscribed. The Rockstar version on Google Play is a separate one-time purchase."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa",
+    "https://www.rockstargames.com/"
+  ],
+  "oldUrls": []
+}

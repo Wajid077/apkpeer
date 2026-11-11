@@ -1,0 +1,83 @@
+{
+  "slug": "bet99",
+  "name": "BET99 Sportsbook & Casino",
+  "shortName": "BET99",
+  "packageName": "com.bet99.sports",
+  "type": "app",
+  "category": "casino",
+  "developer": {
+    "name": "BET99",
+    "slug": "bet99",
+    "url": "https://www.bet99.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bet99.sports",
+  "officialUrl": "https://www.bet99.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "12",
+  "latest": {
+    "version": "2509.100.909.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-26",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.bet99.sports&gl=CA",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/bet99/icon.webp",
+  "summary": "BET99 is a Canadian sportsbook and online casino app for betting on hockey, cricket, football and other sports, plus casino games. The latest BET99 APK is version 2509.100.909.0, updated October 26, 2026, and needs Android 12 or newer. It's rated Adults only 18+, and this Android app is not available to people in Ontario.",
+  "metaDescription": "Get the official BET99 app for Android 12+. BET99 login, sports betting including cricket, casino games, where it's available, and install steps.",
+  "primaryKeyword": "bet99 app",
+  "secondaryKeywords": [
+    "bet 99 login",
+    "bet99 ca",
+    "cricket bet99",
+    "bet99 sportsbook",
+    "bet99 com",
+    "bet99 sports"
+  ],
+  "alternatives": [
+    "olg",
+    "betty-casino"
+  ],
+  "faq": [
+    {
+      "q": "How do I install BET99 on Android?",
+      "a": "The BET99 Android app is for adults outside Ontario. Open Google Play, search for BET99 and check the developer is BET99 before tapping Install. It needs Android 12 or newer and is free to install. Players in Ontario must use BET99’s separate Ontario product instead. Don’t install BET99 APK files from other sites."
+    },
+    {
+      "q": "How do I log in to BET99?",
+      "a": "Open the BET99 app or website and tap Log In, then enter your username or email and password. New players register with their details and verify their identity before withdrawing. Never share your login, and turn on any extra security the app offers."
+    },
+    {
+      "q": "Can I use the BET99 app in Ontario?",
+      "a": "No. The BET99 Android app on Google Play says it's not available to persons in Ontario. BET99 runs a separate Ontario product, regulated by the AGCO and iGaming Ontario, for players in that province."
+    },
+    {
+      "q": "Does BET99 offer cricket betting?",
+      "a": "Yes. BET99 offers betting on cricket alongside hockey, football, basketball, soccer, UFC and other sports, including major international and T20 competitions. Available markets change by event."
+    },
+    {
+      "q": "How old do you have to be to use BET99?",
+      "a": "BET99's listing says 19+. Google Play rates the app Adults only 18+ for real gambling. Check the legal gambling age in your province before signing up."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.bet99.sports",
+    "https://www.bet99.com/",
+    "https://www.bet99.com/"
+  ],
+  "oldUrls": [],
+  "affiliateUrl": null
+}

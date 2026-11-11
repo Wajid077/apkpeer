@@ -1,0 +1,80 @@
+{
+  "slug": "blood-strike",
+  "name": "Blood Strike - FPS for all",
+  "shortName": "Blood Strike",
+  "packageName": "com.netease.newspike",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "NetEase Games",
+    "slug": "netease-games",
+    "url": "https://www.neteasegames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netease.newspike",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.netease.newspike",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.netease.newspike",
+    "changelog": [
+      "New mode: Nightmare Trial, with a nighttime Shutter Island in War Tide.",
+      "Searching and fighting earn Giggle Coins; top-ranked players get rewards from the Clown.",
+      "Halloween Rally reward events."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/blood-strike/icon.webp",
+  "summary": "Blood Strike is NetEase Games' free first-person shooter with battle royale and fast multiplayer modes, designed to run on a wide range of phones. Google Play lists the Blood Strike APK version as \"Varies with device\", updated November 2, 2026. It has no ads and offers in-app purchases from $0.29 to $99.99.",
+  "metaDescription": "Get the official Blood Strike APK for Android, updated November 2, 2026. The new Nightmare Trial mode, game modes, phone requirements and install steps.",
+  "primaryKeyword": "blood strike apk",
+  "secondaryKeywords": [
+    "blood strike download",
+    "blood strike game",
+    "blood strike netease"
+  ],
+  "alternatives": [
+    "call-of-duty-mobile",
+    "free-fire",
+    "pubg-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Blood Strike on Android?",
+      "a": "Open Google Play, search for Blood Strike and check the developer is NetEase Games before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from NetEase Games and may be altered, so the safest way to play Blood Strike is the official listing."
+    },
+    {
+      "q": "Is Blood Strike free?",
+      "a": "Yes. Blood Strike is free to play and has no ads. NetEase sells optional in-app purchases from $0.29 to $99.99 per item on Google Play, mainly for skins and the battle pass."
+    },
+    {
+      "q": "Does Blood Strike run on low-end phones?",
+      "a": "Blood Strike is designed to run on a wide range of Android phones, including mid-range and older devices, with adjustable graphics settings. Google Play lists its requirements as varying by device."
+    },
+    {
+      "q": "What game modes does Blood Strike have?",
+      "a": "Blood Strike has battle royale, squad-based modes and fast multiplayer modes, with rotating limited-time modes. The latest update adds Nightmare Trial in War Tide, with a nighttime Shutter Island map."
+    },
+    {
+      "q": "Is Blood Strike suitable for kids?",
+      "a": "Google Play rates Blood Strike Teen for violence and blood. It includes online play with strangers and voice chat, so it's not suitable for younger children."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.netease.newspike"
+  ],
+  "oldUrls": []
+}

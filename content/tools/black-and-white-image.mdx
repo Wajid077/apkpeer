@@ -1,0 +1,40 @@
+## How to make a photo black and white
+
+1. Tap **Choose images** or drag your photos onto the box. You can convert several at once.
+2. Set the quality for JPG and WebP output.
+3. Tap **Make black and white** and download the results.
+
+The original format is kept: JPG stays JPG, WebP stays WebP and other formats are saved as PNG.
+
+## How the conversion works
+
+A grayscale image stores only brightness. The simplest way to remove color is to average the red, green and blue values, but that looks flat, because our eyes don't see the three colors as equally bright. Greens look brighter than blues of the same strength.
+
+This tool uses the standard luminance weights:
+
+| Channel | Weight |
+| --- | --- |
+| Red | 21.26% |
+| Green | 71.52% |
+| Blue | 7.22% |
+
+The result keeps the brightness relationships people expect: skies stay darker than foliage, and skin tones look natural.
+
+## When to use black and white
+
+- **Printing** documents and photos without using colored ink.
+- **Classic or artistic photos**, where removing color draws attention to light, shadow and shape.
+- **Scanned documents**, which often look cleaner and smaller in grayscale.
+- **Design and accessibility checks**, to see whether a design still works without color, as it would for some people with color blindness.
+
+## Grayscale vs pure black and white
+
+This tool creates grayscale images with shades of gray. That's what most people mean by a black and white photo. A pure two-tone image with only black and white pixels is different and suits things like stencils and line art.
+
+## Keep your original
+
+Converting removes color information permanently from the new file. The tool never changes your original, so keep it if you might want color later.
+
+## Related tools
+
+To find the exact colors in the original photo first, use the [image color picker](/tools/image-color-picker). To shrink the file afterwards, use the [image compressor](/tools/image-compressor). Everything runs in your browser.

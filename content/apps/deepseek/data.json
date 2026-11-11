@@ -1,0 +1,79 @@
+{
+  "slug": "deepseek",
+  "name": "DeepSeek - AI Assistant",
+  "shortName": "DeepSeek",
+  "packageName": "com.deepseek.chat",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "DeepSeek",
+    "slug": "deepseek",
+    "url": "https://www.deepseek.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.deepseek.chat",
+  "officialUrl": "https://www.deepseek.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "2.7.4",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.deepseek.chat",
+    "changelog": [
+      "Some known issues fixed."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/deepseek/icon.webp",
+  "summary": "DeepSeek is a free AI assistant app from the Chinese AI company DeepSeek, known for its DeepThink reasoning mode. The latest DeepSeek APK is version 2.7.4, updated November 2, 2026, and needs Android 7.0 or newer. It has no ads or in-app purchases, but your data is processed on servers in China.",
+  "metaDescription": "Get the official DeepSeek APK 2.7.4 for Android 7.0+. What DeepThink does, data and privacy concerns, how it compares with ChatGPT, and install steps.",
+  "primaryKeyword": "deepseek apk",
+  "secondaryKeywords": [
+    "deepseek app download",
+    "deepseek ai android",
+    "is deepseek safe"
+  ],
+  "alternatives": [
+    "chatgpt",
+    "google-gemini",
+    "claude"
+  ],
+  "faq": [
+    {
+      "q": "How do I install DeepSeek on Android?",
+      "a": "Open Google Play, search for DeepSeek and check the developer is DeepSeek before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from DeepSeek and may be altered, so the safest way to use DeepSeek is the official listing."
+    },
+    {
+      "q": "Is DeepSeek free?",
+      "a": "Yes. The DeepSeek app is free to download and use, with no ads and no in-app purchases listed on Google Play. DeepSeek makes money mainly by selling access to its AI models to developers through a paid API."
+    },
+    {
+      "q": "Where is my DeepSeek data stored?",
+      "a": "DeepSeek's privacy policy says it stores the information it collects on servers in the People's Republic of China. That includes your prompts, uploaded files and chat history. Keep that in mind before sharing anything personal, confidential or work-related."
+    },
+    {
+      "q": "What is DeepThink in DeepSeek?",
+      "a": "DeepThink switches DeepSeek to its reasoning model, which works through a problem step by step before answering and shows its thinking. It's slower but usually better for maths, logic and coding. Turn it off for quick everyday questions."
+    },
+    {
+      "q": "Why was DeepSeek banned in some countries?",
+      "a": "In 2025, regulators in some countries, including Italy and South Korea, restricted the app over how it handles personal data, and several governments banned it on official devices. Rules differ by country, so check whether it's allowed where you live or work."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.deepseek.chat",
+    "https://www.deepseek.com/"
+  ],
+  "oldUrls": []
+}

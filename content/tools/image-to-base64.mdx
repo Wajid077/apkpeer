@@ -1,0 +1,37 @@
+## How to convert an image to Base64
+
+1. Tap **Choose an image** or drag one onto the box.
+2. Choose the output format: **Data URL**, **Base64 only**, **CSS** or **HTML img**.
+3. Tap **Copy** and paste it into your code.
+
+The tool shows the original file size and the size of the encoded text, so you can see the overhead.
+
+## Output formats
+
+| Format | Looks like | Use it in |
+| --- | --- | --- |
+| Data URL | `data:image/png;base64,iVBOR…` | Anywhere an image URL works |
+| Base64 only | `iVBOR…` | JSON, APIs, databases |
+| CSS | `background-image: url("data:…");` | Stylesheets |
+| HTML | `<img src="data:…" alt="">` | Web pages and HTML emails |
+
+## When embedding images makes sense
+
+Embedding an image as Base64 puts the image data inside your HTML, CSS or JSON instead of in a separate file. That can be useful for:
+
+- **Small icons and logos** in a single-file page or widget.
+- **HTML email signatures**, where external images may be blocked.
+- **APIs and JSON** that need to carry an image as text.
+- **Offline pages** that must work without loading other files.
+
+## When it doesn't
+
+Base64 makes files about a third larger, and embedded images can't be cached separately by the browser. For large photos, or images used on many pages, a normal image file loads faster. As a rule of thumb, embed images under about 10 KB and link to anything bigger.
+
+Before embedding, shrink the image with the [image compressor](/tools/image-compressor) or [image resizer](/tools/image-resizer) to keep the encoded text short.
+
+## Decoding Base64 back into an image
+
+Paste a full data URL into your browser's address bar and press Enter: the image opens, ready to save. For text rather than images, use the [Base64 encoder and decoder](/tools/base64-encoder-decoder).
+
+The image is read in your browser and never uploaded.

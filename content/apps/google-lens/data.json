@@ -1,0 +1,88 @@
+{
+  "slug": "google-lens",
+  "name": "Google Lens",
+  "shortName": "Google Lens",
+  "packageName": "com.google.ar.lens",
+  "type": "app",
+  "category": "tools",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.ar.lens",
+  "officialUrl": "https://lens.google/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2025-08-06",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.ar.lens",
+    "changelog": [
+      "Lens now analyzes camera motion for more accurate results."
+    ]
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Camera",
+      "reason": "Points Lens at what you want to search, translate or copy."
+    },
+    {
+      "name": "Photos",
+      "reason": "Lets you search with a photo you've already taken or a screenshot."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/google-lens/icon.webp",
+  "summary": "Google Lens is Google's free visual search app for Android: point your camera at something to search for it, translate text, copy words or identify plants and products. The standalone Google Lens APK was last updated on August 6, 2025, and needs Android 6.0 or newer. It's free, with no ads and no in-app purchases.",
+  "metaDescription": "Get the official Google Lens APK for Android 6.0+. Search what you see, translate text with your camera and copy text from photos: features, tips and FAQ.",
+  "primaryKeyword": "google lens apk",
+  "secondaryKeywords": [
+    "google lens download",
+    "google lens app",
+    "google lens translate"
+  ],
+  "alternatives": [
+    "google-translate",
+    "google-photos",
+    "microsoft-lens"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Google Lens on Android?",
+      "a": "Open Google Play, search for Google Lens and check the developer is Google LLC before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Google Lens is the official listing."
+    },
+    {
+      "q": "Is Google Lens free?",
+      "a": "Yes. Google Lens is free, with no ads and no in-app purchases, according to its Google Play listing. You don't need to pay for anything to search, translate or copy text with it."
+    },
+    {
+      "q": "Do I need the Google Lens app if I have the Google app?",
+      "a": "Often not. Lens is also built into the Google app (tap the camera icon in the search bar), Google Photos, and the camera app on many Android phones, and Circle to Search uses it on supported phones. The standalone app is handy if you want a dedicated icon for it."
+    },
+    {
+      "q": "Can Google Lens translate text?",
+      "a": "Yes. Point Lens at a sign, menu or document, choose Translate, and the translated text appears over the original in your camera view. It's one of the most useful features when traveling. You can also copy the translated text."
+    },
+    {
+      "q": "Why hasn't the Google Lens app been updated recently?",
+      "a": "The standalone Lens app on Google Play was last updated in August 2025. Most of Lens's improvements now arrive through the Google app and Google's servers, which is where Lens is used most. The standalone app still works and uses the same Lens technology."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.ar.lens",
+    "https://lens.google/"
+  ],
+  "oldUrls": []
+}

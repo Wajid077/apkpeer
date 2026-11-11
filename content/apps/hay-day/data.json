@@ -1,0 +1,82 @@
+{
+  "slug": "hay-day",
+  "name": "Hay Day",
+  "shortName": "Hay Day",
+  "packageName": "com.supercell.hayday",
+  "type": "game",
+  "category": "simulation",
+  "developer": {
+    "name": "Supercell",
+    "slug": "supercell",
+    "url": "https://supercell.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.hayday",
+  "officialUrl": "https://supercell.com/en/games/hayday/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.73.89",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-16",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.supercell.hayday",
+    "changelog": [
+      "Halloween team events with new decorations.",
+      "Angus can now handle fishing while you're away.",
+      "Mussel beaches, pearls and water decorations in fishing.",
+      "Refreshed Community Hub and easier decoration sorting."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/hay-day/icon.webp",
+  "summary": "Hay Day is Supercell's free farming game where you grow crops, raise animals, make goods and trade with neighbours. The latest Hay Day APK is version 1.73.89, updated October 16, 2026, and needs Android 7.0 or newer. It's free to play, contains ads, and offers in-app purchases from $0.29 to $239.99.",
+  "metaDescription": "Get the official Hay Day APK 1.73.89 for Android 7.0+. Halloween events, the new fishing features, farming tips, neighbourhoods and install steps.",
+  "primaryKeyword": "hay day apk",
+  "secondaryKeywords": [
+    "hay day download",
+    "hay day game",
+    "hay day update"
+  ],
+  "alternatives": [
+    "stardew-valley",
+    "coin-master",
+    "clash-of-clans"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Hay Day on Android?",
+      "a": "Open Google Play, search for Hay Day and check the developer is Supercell before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Supercell and may be altered, so the safest way to play Hay Day is the official listing."
+    },
+    {
+      "q": "Is Hay Day free?",
+      "a": "Yes. Hay Day is free to play. Google Play marks it as containing ads and lists in-app purchases from $0.29 to $239.99 per item, mainly diamonds and the Farm Pass. You can progress without paying."
+    },
+    {
+      "q": "What are neighbourhoods in Hay Day?",
+      "a": "Neighbourhoods are groups of players who chat, help each other and take part in Derbies, weekly competitions where you complete tasks for rewards. Joining an active neighbourhood makes the game more social and rewarding."
+    },
+    {
+      "q": "How do I save my Hay Day farm?",
+      "a": "Connect your farm to Supercell ID in settings. Your progress is then saved to your email, so you can play on a new phone or several devices."
+    },
+    {
+      "q": "What's new in Hay Day's latest update?",
+      "a": "The latest update brings Halloween team events with new decorations, lets Angus handle fishing while you're away, adds mussel beaches, pearls and water decorations to fishing, refreshes the Community Hub and makes decorations easier to sort."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.supercell.hayday",
+    "https://supercell.com/en/games/hayday/"
+  ],
+  "oldUrls": []
+}

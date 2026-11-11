@@ -1,0 +1,79 @@
+{
+  "slug": "picsart",
+  "name": "Picsart AI Photo Editor, Video",
+  "shortName": "Picsart",
+  "packageName": "com.picsart.studio",
+  "type": "app",
+  "category": "photo-editors",
+  "developer": {
+    "name": "PicsArt, Inc.",
+    "slug": "picsart",
+    "url": "https://picsart.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.picsart.studio",
+  "officialUrl": "https://picsart.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "31.0.7",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.picsart.studio",
+    "changelog": [
+      "Bug fixes; most new features, stickers and templates arrive without an app update."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/picsart/icon.webp",
+  "summary": "Picsart is an all-in-one photo editor, video editor and design app with AI tools, templates, stickers and filters. The latest Picsart APK is version 31.0.7, updated November 3, 2026, and needs Android 6.0 or newer. It's free with ads, and Picsart Plus and Pro subscriptions unlock premium tools and content.",
+  "metaDescription": "Get the official Picsart APK 31.0.7 for Android 6.0+. AI background remover, templates and video tools, free vs Plus and Pro, and install steps.",
+  "primaryKeyword": "picsart apk",
+  "secondaryKeywords": [
+    "picsart photo editor",
+    "picsart download",
+    "picsart ai"
+  ],
+  "alternatives": [
+    "canva",
+    "snapseed",
+    "adobe-lightroom"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Picsart on Android?",
+      "a": "Open Google Play, search for Picsart and check the developer is PicsArt, Inc. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from PicsArt, Inc. and may be altered, so the safest way to use Picsart is the official listing."
+    },
+    {
+      "q": "Is Picsart free?",
+      "a": "Yes, Picsart is free to download and use, with ads and a limited set of tools and content. Picsart Plus and Pro subscriptions remove ads and unlock premium filters, fonts, stickers, templates and more AI credits. Play lists in-app purchases from $0.99 to $450.00 per item."
+    },
+    {
+      "q": "Can Picsart remove backgrounds?",
+      "a": "Yes. Picsart's background remover automatically cuts out a person or object so you can place it on a new background, a solid colour or a template. Some high-quality AI options use credits from a subscription."
+    },
+    {
+      "q": "Does Picsart add a watermark?",
+      "a": "Edits with free tools save without a watermark. Premium items you try without a subscription, such as some stickers or templates, may be marked and can't be saved until you subscribe or remove them."
+    },
+    {
+      "q": "Is Picsart good for video editing?",
+      "a": "Picsart includes a video editor with trimming, music, text, effects and templates, which works well for short social videos. For longer or more detailed edits, a dedicated video editor such as CapCut gives more control."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.picsart.studio",
+    "https://picsart.com/"
+  ],
+  "oldUrls": []
+}

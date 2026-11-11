@@ -1,0 +1,99 @@
+{
+  "slug": "vlc-for-android",
+  "name": "VLC for Android",
+  "shortName": "VLC",
+  "packageName": "org.videolan.vlc",
+  "type": "app",
+  "category": "video-players",
+  "developer": {
+    "name": "Videolabs",
+    "slug": "videolabs",
+    "url": "https://www.videolan.org"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+  "officialUrl": "https://www.videolan.org/vlc/download-android.html",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "4.2",
+  "latest": {
+    "version": "3.7.2",
+    "versionCode": null,
+    "size": "47–49 MiB",
+    "releaseDate": "2026-10-16",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://f-droid.org/en/packages/org.videolan.vlc/",
+    "changelog": [
+      "Equalizer fixes.",
+      "Remote access can now play audio files in the browser.",
+      "Deleting multiple files in the browser is back.",
+      "Updated the remote access one-time code length.",
+      "Improved the feedback screen.",
+      "More subtitle size options.",
+      "Crash fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [
+    {
+      "name": "Photos, videos, music and files",
+      "reason": "Finds and plays the media stored on your phone and SD card."
+    },
+    {
+      "name": "Network access",
+      "reason": "Streams from network shares, media servers and URLs, and powers the remote access feature."
+    },
+    {
+      "name": "Notifications",
+      "reason": "Shows playback controls while audio plays in the background."
+    }
+  ],
+  "screenshots": [],
+  "icon": "/apps/vlc-for-android/icon.webp",
+  "summary": "VLC for Android is the free, open-source media player from VideoLAN that plays almost any video or audio file, network stream or disc image without ads or tracking. The latest VLC APK is version 3.7.2, released October 16, 2026, and the F-Droid build needs Android 4.2 or newer. It's completely free, with no in-app purchases.",
+  "metaDescription": "Get the official VLC for Android APK 3.7.2. The free, open-source player for almost any video format, with no ads: what's new, install steps and FAQ.",
+  "primaryKeyword": "vlc apk",
+  "secondaryKeywords": [
+    "vlc for android",
+    "vlc media player apk",
+    "vlc player download"
+  ],
+  "alternatives": [
+    "mx-player",
+    "mpv-android",
+    "just-player"
+  ],
+  "faq": [
+    {
+      "q": "How do I install VLC on Android?",
+      "a": "Open Google Play, search for VLC and check the developer is Videolabs before tapping Install. It needs Android 4.2 or newer. It's free to install, and Play keeps it updated automatically. VLC is also on F-Droid, but that build is signed differently, so pick one source and stick with it."
+    },
+    {
+      "q": "Is VLC for Android free?",
+      "a": "Yes, completely. VLC for Android is free and open source, with no ads, no in-app purchases and no tracking. It's made by the VideoLAN non-profit project and Videolabs, and funded by donations and sponsorship rather than by selling anything to users."
+    },
+    {
+      "q": "Can VLC play MKV and other formats on Android?",
+      "a": "Yes. VLC plays almost every common video and audio format, including MKV, MP4, AVI, MOV, FLAC and more, without extra codec packs. It also handles embedded and external subtitles, multiple audio tracks, and network streams from home servers or URLs."
+    },
+    {
+      "q": "Is the VLC APK from F-Droid the same as the Play Store version?",
+      "a": "It's the same app built from the same source code, but signed by F-Droid instead of VideoLAN. Because the signatures differ, you can't update one with the other. Pick one source and stick with it, or uninstall before switching. Both builds come from VideoLAN's open-source code."
+    },
+    {
+      "q": "Why does VLC show 'Varies with device' on Google Play?",
+      "a": "VLC publishes separate builds for different processor types, so Google Play shows \"Varies with device\" instead of one version number. F-Droid lists each build separately, which is why we use its version and Android requirement on this page. The Play version installs the correct build for your phone automatically."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://f-droid.org/en/packages/org.videolan.vlc/",
+    "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+    "https://www.videolan.org/vlc/download-android.html"
+  ],
+  "oldUrls": []
+}

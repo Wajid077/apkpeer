@@ -1,0 +1,79 @@
+{
+  "slug": "stardew-valley",
+  "name": "Stardew Valley",
+  "shortName": "Stardew Valley",
+  "packageName": "com.chucklefish.stardewvalley",
+  "type": "game",
+  "category": "simulation",
+  "developer": {
+    "name": "ConcernedApe",
+    "slug": "concernedape",
+    "url": "https://www.stardewvalley.net"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley",
+  "officialUrl": "https://www.stardewvalley.net/",
+  "price": "$4.99",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "1.6.15.3",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-06-27",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley",
+    "changelog": [
+      "Various bug fixes for the 1.6 update."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/stardew-valley/icon.webp",
+  "summary": "Stardew Valley is ConcernedApe's farming and life simulation game, where you inherit a farm and build a new life in Pelican Town. The latest Stardew Valley APK is version 1.6.15.3, updated June 27, 2026, and needs Android 5.0 or newer. It costs $4.99 on Google Play, with no ads and no in-app purchases.",
+  "metaDescription": "Get the official Stardew Valley APK 1.6.15.3 for Android 5.0+, $4.99 on Google Play. The 1.6 update, farming tips, controls, and install steps.",
+  "primaryKeyword": "stardew valley apk",
+  "secondaryKeywords": [
+    "stardew valley android",
+    "stardew valley mobile",
+    "stardew valley download"
+  ],
+  "alternatives": [
+    "hay-day",
+    "terraria",
+    "minecraft"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Stardew Valley on Android?",
+      "a": "Open Google Play, search for Stardew Valley and check the developer is ConcernedApe before tapping the price button. It needs Android 5.0 or newer. It costs $4.99 on Google Play, and once bought it's tied to your Google account, so you can reinstall it on any phone for free. Avoid copies from other sites: they aren't from ConcernedApe and may be altered, so the safest way to play Stardew Valley is the official listing."
+    },
+    {
+      "q": "How much does Stardew Valley cost on Android?",
+      "a": "Stardew Valley costs $4.99 on Google Play in the US, as a one-time purchase. It has no ads and no in-app purchases, and updates are free."
+    },
+    {
+      "q": "Does the mobile version have the 1.6 update?",
+      "a": "Yes. Stardew Valley's big 1.6 update came to mobile, with new content such as a new farm type, festivals and items. The latest Play release fixes bugs in the 1.6 update."
+    },
+    {
+      "q": "Can I play Stardew Valley multiplayer on Android?",
+      "a": "The mobile version is single-player. Co-op multiplayer is available on PC, Mac, Linux and consoles, but not on Android."
+    },
+    {
+      "q": "Can I move my save from PC to Android?",
+      "a": "Yes, it's possible by copying save files between devices, though it's a manual process. The game's official wiki explains where save files are stored on each platform."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley",
+    "https://www.stardewvalley.net/"
+  ],
+  "oldUrls": []
+}

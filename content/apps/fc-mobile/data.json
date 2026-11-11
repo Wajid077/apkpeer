@@ -1,0 +1,83 @@
+{
+  "slug": "fc-mobile",
+  "name": "EA SPORTS FC Soccer Mobile 27",
+  "shortName": "FC Mobile",
+  "packageName": "com.ea.gp.fifamobile",
+  "type": "game",
+  "category": "sports",
+  "developer": {
+    "name": "ELECTRONIC ARTS",
+    "slug": "electronic-arts",
+    "url": "https://www.ea.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
+  "officialUrl": "https://www.ea.com/games/ea-sports-fc/fc-mobile",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "28.0.01",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-18",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
+    "changelog": [
+      "EA SPORTS FC Soccer Mobile 27 season launch.",
+      "Game Plans: change formation and mentality mid-match.",
+      "New PlayStyles such as Incisive Pass and Dead Ball.",
+      "Gauntlet Mode with unique Traits and House Rules.",
+      "Updated visuals, new commentary and celebrations."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/fc-mobile/icon.webp",
+  "summary": "EA SPORTS FC Mobile is EA's free football game where you build an Ultimate Team of real players and play quick matches and events. The latest FC Mobile APK is version 28.0.01, updated September 18, 2026, for the FC Mobile 27 season, and needs Android 7.0 or newer. It contains ads and in-app purchases.",
+  "metaDescription": "Get the official EA SPORTS FC Mobile APK 28.0.01 for Android 7.0+. The FC Mobile 27 season, Game Plans, Gauntlet Mode, team tips and install steps.",
+  "primaryKeyword": "fc mobile apk",
+  "secondaryKeywords": [
+    "fc mobile 27",
+    "ea sports fc mobile download",
+    "fc mobile android"
+  ],
+  "alternatives": [
+    "efootball",
+    "dream-league-soccer-2026",
+    "score-hero"
+  ],
+  "faq": [
+    {
+      "q": "How do I install FC Mobile on Android?",
+      "a": "Open Google Play, search for FC Mobile and check the developer is ELECTRONIC ARTS before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from ELECTRONIC ARTS and may be altered, so the safest way to play FC Mobile is the official listing."
+    },
+    {
+      "q": "Is EA SPORTS FC Mobile free?",
+      "a": "Yes. FC Mobile is free to download and play. Google Play marks it as containing ads and lists in-app purchases from $0.39 to $99.99 per item, mainly FC Points and passes. You can build a strong team without paying by playing events and using the market."
+    },
+    {
+      "q": "What's new in FC Mobile 27?",
+      "a": "The FC Mobile 27 season adds Game Plans for changing formation and mentality mid-match, new PlayStyles such as Incisive Pass and Dead Ball, Gauntlet Mode with unique Traits and House Rules, plus updated visuals, commentary and celebrations."
+    },
+    {
+      "q": "Is FC Mobile the same as FIFA Mobile?",
+      "a": "Yes. EA's football games were renamed from FIFA to EA SPORTS FC in 2023, when EA's licence deal with FIFA ended. FC Mobile is the continuation of FIFA Mobile, on the same Google Play listing."
+    },
+    {
+      "q": "Does FC Mobile need an internet connection?",
+      "a": "Yes. FC Mobile needs an internet connection to play, because your team, market and events are all online."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
+    "https://www.ea.com/games/ea-sports-fc/fc-mobile"
+  ],
+  "oldUrls": []
+}

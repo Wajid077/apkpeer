@@ -1,0 +1,79 @@
+{
+  "slug": "remini",
+  "name": "Remini - AI Photo Enhancer",
+  "shortName": "Remini",
+  "packageName": "com.bigwinepot.nwdn.international",
+  "type": "app",
+  "category": "photo-editors",
+  "developer": {
+    "name": "Bending Spoons",
+    "slug": "bending-spoons",
+    "url": "https://bendingspoons.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international",
+  "officialUrl": "https://remini.ai/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "3.7.1477.202526404",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-30",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international",
+    "changelog": [
+      "Bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/remini/icon.webp",
+  "summary": "Remini is an AI photo enhancer from Bending Spoons that sharpens blurry, old or low-quality photos and creates AI portraits. The latest Remini APK is version 3.7.1477.202526404, updated October 30, 2026, and needs Android 7.0 or newer. It's free with ads and limits, and subscriptions unlock unlimited enhancements.",
+  "metaDescription": "Get the official Remini APK 3.7.1477 for Android 7.0+. How the AI photo enhancer works, free vs Pro, privacy with face photos, and install steps.",
+  "primaryKeyword": "remini apk",
+  "secondaryKeywords": [
+    "remini ai photo enhancer",
+    "remini app download",
+    "remini pro"
+  ],
+  "alternatives": [
+    "picsart",
+    "snapseed",
+    "adobe-lightroom"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Remini on Android?",
+      "a": "Open Google Play, search for Remini and check the developer is Bending Spoons before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Bending Spoons and may be altered, so the safest way to use Remini is the official listing."
+    },
+    {
+      "q": "Is Remini free?",
+      "a": "Remini has a free tier with ads and a limited number of enhancements. Remini Pro and other subscriptions remove ads and allow many more enhancements and AI photos. Google Play lists in-app purchases from $0.49 to $189.99 per item, and subscriptions are often weekly, so check the price before starting a trial."
+    },
+    {
+      "q": "How does Remini enhance photos?",
+      "a": "Remini uses AI models to rebuild detail in blurry, pixelated or old photos, especially faces. It doesn't recover the original detail exactly: it predicts what the photo probably looked like, so results can look slightly different from the real person."
+    },
+    {
+      "q": "Is my data safe with Remini?",
+      "a": "Remini uploads your photos to Bending Spoons' servers to process them. Its privacy policy explains how long images are kept and how face data is used. Avoid uploading photos of other people without their permission and don't upload sensitive documents."
+    },
+    {
+      "q": "Can Remini enhance videos?",
+      "a": "Yes. Remini can also enhance videos, improving sharpness and clarity, although video enhancement is limited on the free tier and works best on short clips."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international",
+    "https://remini.ai/"
+  ],
+  "oldUrls": []
+}

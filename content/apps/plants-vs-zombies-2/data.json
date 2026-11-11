@@ -1,0 +1,82 @@
+{
+  "slug": "plants-vs-zombies-2",
+  "name": "Plants vs Zombies™ 2",
+  "shortName": "Plants vs. Zombies 2",
+  "packageName": "com.ea.game.pvz2_row",
+  "type": "game",
+  "category": "strategy",
+  "developer": {
+    "name": "ELECTRONIC ARTS",
+    "slug": "electronic-arts",
+    "url": "https://www.ea.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row",
+  "officialUrl": "https://www.ea.com/games/plants-vs-zombies",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "13.5.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-26",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row",
+    "changelog": [
+      "Lawn Legends faction event.",
+      "New plant: Baneberry (early access Oct 19 – Nov 1, 2026).",
+      "Arena: Cactalog season, then Baneberry season (Nov 2–29, 2026).",
+      "Thymed event: The Big Top Extravaganza."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/plants-vs-zombies-2/icon.webp",
+  "summary": "Plants vs. Zombies 2 is EA's free tower defense game where you plant defences across time-travelling worlds to stop waves of zombies. The latest Plants vs. Zombies 2 APK is version 13.5.2, updated October 26, 2026, and needs Android 7.0 or newer. It contains ads and offers in-app purchases from $0.99 to $99.99.",
+  "metaDescription": "Get the official Plants vs. Zombies 2 APK 13.5.2 for Android 7.0+. New Baneberry plant, Arena seasons, strategy tips, and install steps.",
+  "primaryKeyword": "plants vs zombies 2 apk",
+  "secondaryKeywords": [
+    "pvz 2 apk",
+    "plants vs zombies 2 download",
+    "pvz2 android"
+  ],
+  "alternatives": [
+    "clash-royale",
+    "angry-birds-2",
+    "clash-of-clans"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Plants vs. Zombies 2 on Android?",
+      "a": "Open Google Play, search for Plants vs. Zombies 2 and check the developer is ELECTRONIC ARTS before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from ELECTRONIC ARTS and may be altered, so the safest way to play Plants vs. Zombies 2 is the official listing."
+    },
+    {
+      "q": "Is Plants vs. Zombies 2 free?",
+      "a": "Yes. Plants vs. Zombies 2 is free to play, with ads and in-app purchases from $0.99 to $99.99 per item on Google Play. Premium plants and gems can be bought, but you can finish the adventure with free plants."
+    },
+    {
+      "q": "Can I play Plants vs. Zombies 2 offline?",
+      "a": "Yes, most adventure levels work offline. Events, the Arena, Penny's Pursuit and syncing progress need an internet connection."
+    },
+    {
+      "q": "What is the Arena in Plants vs. Zombies 2?",
+      "a": "Arena is a weekly competitive mode where you try to score as many points as possible on a special level with a featured plant. You're ranked against other players for rewards. The latest update brings the Baneberry season from November 2 to November 29, 2026."
+    },
+    {
+      "q": "How do I save my Plants vs. Zombies 2 progress?",
+      "a": "Sign in with an EA account in the game's settings. Your progress is then saved online and can be restored on a new phone."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row",
+    "https://www.ea.com/games/plants-vs-zombies"
+  ],
+  "oldUrls": []
+}

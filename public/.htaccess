@@ -1,0 +1,81 @@
+# APKPeer — Hostinger (LiteSpeed/Apache). Copied into /out by `next build`.
+# Upload the contents of /out to public_html.
+
+Options -MultiViews -Indexes
+AddType application/manifest+json .webmanifest
+AddType application/rss+xml .xml
+<Files "sitemap*.xml">
+  ForceType application/xml
+</Files>
+AddDefaultCharset utf-8
+DirectorySlash Off
+RewriteEngine On
+
+# --- Canonical host: https + no www ---------------------------------------
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://apkpeer.com%{REQUEST_URI} [R=301,L]
+
+# --- 410 Gone: removed mod/piracy content (brief §10) ----------------------
+RewriteRule ^(1-tap-vip-panel-ff|happymod-apk-v3-4-1|moviebox-streaming-app|youcine-apk-v1-17-6|gta-vi-game|gta-mzansi-v4-0-9f|farming-simulator-mod|motogp-guru-mod-apk)/?$ - [G,L]
+
+# --- 301: old WordPress URLs -> new URLs (brief §10) -----------------------
+RewriteRule ^brave-browser-2026/?$ /app/brave-browser [R=301,L]
+RewriteRule ^f-droid-2026/?$ /app/f-droid [R=301,L]
+RewriteRule ^turbo-vpn-2026/?$ /app/turbo-vpn [R=301,L]
+RewriteRule ^iqiyi-movies-streaming-app/?$ /app/iqiyi [R=301,L]
+RewriteRule ^invideo-ai-v4-5-29/?$ /app/invideo-ai [R=301,L]
+RewriteRule ^whatsapp-web-free-download/?$ /app/whatsapp [R=301,L]
+RewriteRule ^roblox-mod-apk/?$ /app/roblox [R=301,L]
+RewriteRule ^dls26-mod-unlimited-money/?$ /app/dream-league-soccer-2026 [R=301,L]
+RewriteRule ^stumble-guys-mod-2026/?$ /app/stumble-guys [R=301,L]
+RewriteRule ^temple-run-2-mod/?$ /app/temple-run-2 [R=301,L]
+RewriteRule ^car-parking-multiplayer-mod/?$ /app/car-parking-multiplayer [R=301,L]
+RewriteRule ^score-hero-mod/?$ /app/score-hero [R=301,L]
+RewriteRule ^minecraft-v1-26-10-25/?$ /app/minecraft-trial [R=301,L]
+RewriteRule ^about-us/?$ /about [R=301,L]
+RewriteRule ^contact-us/?$ /contact [R=301,L]
+# WordPress feed/admin leftovers
+RewriteRule ^feed/?$ /feed.xml [R=301,L]
+RewriteRule ^(wp-admin|wp-login\.php|wp-content|wp-includes)(/.*)?$ - [G,L]
+
+# --- No trailing slash site-wide (also covers /category/games/, /privacy-policy/, /disclaimer/) ---
+RewriteCond %{REQUEST_URI} !^/$
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# --- Drop .html and /index from public URLs --------------------------------
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+RewriteRule ^index$ / [R=301,L]
+
+# --- Serve clean URLs from the exported .html files ------------------------
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]
+
+ErrorDocument 404 /404.html
+ErrorDocument 410 /404.html
+
+# --- Caching ----------------------------------------------------------------
+<IfModule mod_headers.c>
+  <FilesMatch "\.(js|css|woff2|avif|webp|png|jpg|jpeg|svg|ico)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  # Next.js hashed build assets never change: cache for a year.
+  <If "%{REQUEST_URI} =~ m#^/_next/static/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </If>
+  <FilesMatch "\.(html|xml|txt)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Compression: brotli where the server supports it, gzip otherwise.
+# (LiteSpeed on Hostinger also compresses on its own; these rules are harmless there.)
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/css application/javascript application/json image/svg+xml text/xml application/xml application/rss+xml application/manifest+json text/plain
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml text/xml application/xml application/rss+xml application/manifest+json text/plain
+</IfModule>

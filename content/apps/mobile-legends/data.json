@@ -1,0 +1,81 @@
+{
+  "slug": "mobile-legends",
+  "name": "Mobile Legends: Bang Bang",
+  "shortName": "Mobile Legends",
+  "packageName": "com.mobile.legends",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "MOONTON",
+    "slug": "moonton",
+    "url": "https://www.mobilelegends.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mobile.legends",
+  "officialUrl": "https://www.mobilelegends.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-16",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.mobile.legends",
+    "changelog": [
+      "10th anniversary revamped heroes: Masha and Bruno are now live.",
+      "Ranked Season S42 starts September 16 (server time), with the S42 seasonal skin for Popol and Kupa and a new avatar border.",
+      "The Namecard feature is fully upgraded."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/mobile-legends/icon.webp",
+  "summary": "Mobile Legends: Bang Bang is MOONTON's free 5v5 MOBA for Android, where two teams of five heroes battle across three lanes to destroy the enemy base in matches of around ten to fifteen minutes. The official Mobile Legends APK was last updated on October 16, 2026, and needs Android 5.0 or newer. It's free with in-app purchases.",
+  "metaDescription": "Get the official Mobile Legends: Bang Bang APK for Android 5.0+. The 5v5 MOBA from MOONTON: Season 42, heroes and roles, install steps and account safety.",
+  "primaryKeyword": "mobile legends apk",
+  "secondaryKeywords": [
+    "mobile legends bang bang apk",
+    "mlbb download",
+    "mobile legends new season"
+  ],
+  "alternatives": [
+    "honor-of-kings",
+    "league-of-legends-wild-rift",
+    "pubg-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Mobile Legends on Android?",
+      "a": "Open Google Play, search for Mobile Legends and check the developer is MOONTON before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from MOONTON and may be altered, so the safest way to play Mobile Legends is the official listing."
+    },
+    {
+      "q": "Is Mobile Legends free to play?",
+      "a": "Yes. Mobile Legends: Bang Bang is free to download and play. MOONTON makes money from optional in-app purchases of diamonds, used for heroes, skins and passes. Google Play notes that some purchases include random items. Heroes can also be unlocked with Battle Points earned by playing."
+    },
+    {
+      "q": "Why can't I find Mobile Legends on Google Play in the US?",
+      "a": "Players in the United States get a separate regional version, Mobile Legends: Bang Bang.US, published by Skystone Games, with its own Play listing. The main global version on this page is published by MOONTON and is the one available in most other countries."
+    },
+    {
+      "q": "How long is a Mobile Legends match?",
+      "a": "A typical ranked or classic match lasts around ten to fifteen minutes, which is shorter than most PC MOBAs. Matches end when one team destroys the other team's base, so close games can run longer. Ranked matches also allow a surrender vote after a set time if your team agrees."
+    },
+    {
+      "q": "What Android version does Mobile Legends need?",
+      "a": "Mobile Legends needs Android 5.0 or newer, according to its Google Play listing, and the version shown varies by device. It runs on modest phones, though lowering graphics settings in the game helps keep team fights smooth on older devices."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.mobile.legends",
+    "https://www.mobilelegends.com/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "duolingo",
+  "name": "Duolingo: Learn Languages",
+  "shortName": "Duolingo",
+  "packageName": "com.duolingo",
+  "type": "app",
+  "category": "education",
+  "developer": {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "url": "https://www.duolingo.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.duolingo",
+  "officialUrl": "https://www.duolingo.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.duolingo",
+    "changelog": [
+      "Bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/duolingo/icon.webp",
+  "summary": "Duolingo is a free app for learning languages through short, game-like lessons, now with maths, music and chess courses too. Google Play lists the Duolingo APK version as \"Varies with device\", updated November 3, 2026. It's free with ads, and the Super and Max subscriptions remove ads and add extra features.",
+  "metaDescription": "Get the official Duolingo APK for Android, updated November 3, 2026. How lessons, streaks and leagues work, Super vs free, and install steps.",
+  "primaryKeyword": "duolingo apk",
+  "secondaryKeywords": [
+    "duolingo app download",
+    "duolingo for android",
+    "duolingo super"
+  ],
+  "alternatives": [
+    "google-translate",
+    "chatgpt",
+    "youtube"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Duolingo on Android?",
+      "a": "Open Google Play, search for Duolingo and check the developer is Duolingo before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Duolingo and may be altered, so the safest way to use Duolingo is the official listing."
+    },
+    {
+      "q": "Is Duolingo really free?",
+      "a": "Yes. Every language course is free, with ads and a limit on mistakes or lessons per session. Super Duolingo removes ads and the mistake limit, and Duolingo Max adds AI features such as video calls with a character and explanations of your answers."
+    },
+    {
+      "q": "How many languages does Duolingo teach?",
+      "a": "Duolingo offers more than 40 languages, including Spanish, French, Japanese, Korean, German, Hindi and Italian, plus fictional languages like High Valyrian. It also has maths, music and chess courses."
+    },
+    {
+      "q": "Can Duolingo make you fluent?",
+      "a": "Duolingo is good for building vocabulary, grammar and a daily habit, and for reaching a solid beginner to intermediate level. Most people need conversation practice, reading and listening outside the app to become fluent."
+    },
+    {
+      "q": "What happens if I lose my Duolingo streak?",
+      "a": "Your streak resets to zero if you miss a day. A Streak Freeze, which you can earn or buy with gems, protects your streak for a missed day, and you can sometimes repair a lost streak shortly afterwards."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.duolingo",
+    "https://www.duolingo.com/"
+  ],
+  "oldUrls": []
+}

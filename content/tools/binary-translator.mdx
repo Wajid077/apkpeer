@@ -1,0 +1,40 @@
+## How to translate text to binary
+
+1. Choose **Text → binary**.
+2. Type your text. Each character's bytes appear as groups of eight 0s and 1s.
+3. Copy the result.
+
+To decode, choose **Binary → text** and paste binary groups separated by spaces.
+
+## How it works
+
+Computers store text as numbers. This tool uses **UTF-8**, the encoding used by almost every website and app:
+
+| Character | Byte value | Binary |
+| --- | --- | --- |
+| A | 65 | 01000001 |
+| a | 97 | 01100001 |
+| 0 | 48 | 00110000 |
+| space | 32 | 00100000 |
+
+Basic English letters, numbers and punctuation take one byte each. Accented letters such as é take two bytes, most other alphabets take two or three, and emoji take four. That's why some characters turn into several groups of eight digits.
+
+## Reading binary by hand
+
+Each binary digit has a value, doubling from right to left: 128, 64, 32, 16, 8, 4, 2, 1. Add up the values where there's a 1:
+
+`01000001` = 64 + 1 = **65**, which is the letter A.
+
+The [number base converter](/tools/number-base-converter) does this for any number and also shows hexadecimal, which programmers often use as a shorter way to write bytes.
+
+## Tips for decoding
+
+- Separate bytes with spaces. Groups can be shorter than eight digits; leading zeros are optional.
+- If you see an error, look for characters other than 0 and 1, such as the letter O instead of zero.
+- Binary that represents something other than text, like part of an image, won't decode to readable characters.
+
+## Related tools
+
+For another classic code, try the [Morse code translator](/tools/morse-code-translator). To encode text for use in data and URLs, use the [Base64 encoder](/tools/base64-encoder-decoder).
+
+Translation happens in your browser; nothing is uploaded.

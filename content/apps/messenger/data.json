@@ -1,0 +1,79 @@
+{
+  "slug": "messenger",
+  "name": "Messenger",
+  "shortName": "Messenger",
+  "packageName": "com.facebook.orca",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Meta Platforms, Inc.",
+    "slug": "meta-platforms",
+    "url": "https://www.facebook.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+  "officialUrl": "https://www.messenger.com/",
+  "price": "Free",
+  "containsAds": null,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "585.0.0.53.94",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/messenger/icon.webp",
+  "summary": "Messenger is Meta's free messaging app for chats, voice and video calls with Facebook friends and contacts. The latest Messenger APK is version 585.0.0.53.94, updated November 3, 2026. Personal chats are end-to-end encrypted by default. It's free to download, with in-app purchases listed on Google Play.",
+  "metaDescription": "Get the official Messenger APK 585.0.0.53.94 for Android. Encrypted chats and calls, privacy settings, install steps, and how it compares with WhatsApp.",
+  "primaryKeyword": "messenger apk",
+  "secondaryKeywords": [
+    "facebook messenger download",
+    "messenger app for android",
+    "messenger update"
+  ],
+  "alternatives": [
+    "whatsapp",
+    "telegram",
+    "signal"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Messenger on Android?",
+      "a": "Open Google Play, search for Messenger and check the developer is Meta Platforms, Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Meta Platforms, Inc. and may be altered, so the safest way to use Messenger is the official listing."
+    },
+    {
+      "q": "Do I need a Facebook account to use Messenger?",
+      "a": "In most places, yes. Meta removed the option to sign up for Messenger with only a phone number, so you now log in with a Facebook account. If you deactivate Facebook, you can usually keep using Messenger."
+    },
+    {
+      "q": "Are Messenger chats encrypted?",
+      "a": "Yes. Since December 2023, Meta has been making end-to-end encryption the default for personal one-to-one chats and calls on Messenger, and it has extended it to group chats. Messages with businesses may not be end-to-end encrypted."
+    },
+    {
+      "q": "Does Messenger have ads?",
+      "a": "Messenger can show ads in the Chats list in many countries, and businesses can message you after you contact them. Google Play doesn't show a \"Contains ads\" label for Messenger, so APKPeer leaves that row out."
+    },
+    {
+      "q": "Is Messenger the same as Facebook Lite's chat?",
+      "a": "Both use the same Facebook messaging service, so your conversations appear in either. Facebook Lite has a simpler built-in chat, while the Messenger app adds full voice and video calls, group calls, stickers, effects and more settings."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "https://www.messenger.com/"
+  ],
+  "oldUrls": []
+}

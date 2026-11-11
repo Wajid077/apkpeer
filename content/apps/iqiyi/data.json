@@ -1,0 +1,81 @@
+{
+  "slug": "iqiyi",
+  "name": "iQIYI - Drama, Anime, Show",
+  "shortName": "iQIYI",
+  "packageName": "com.iqiyi.i18n",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "iQIYI",
+    "slug": "iqiyi",
+    "url": "https://www.iq.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.iqiyi.i18n",
+  "officialUrl": "https://www.iq.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "8.10.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-21",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.iqiyi.i18n",
+    "changelog": [
+      "Bug fixes, performance updates and improved stability."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/iqiyi/icon.webp",
+  "summary": "iQIYI is the official international streaming app from iQIYI for watching Chinese and other Asian dramas, anime, variety shows and short dramas on Android. The latest iQIYI APK is version 8.10.0, updated October 21, 2026, and needs Android 6.0 or newer. It's free with ads, and VIP membership unlocks more.",
+  "metaDescription": "Get the official iQIYI APK 8.10.0 for Android 6.0+. Stream C-dramas, anime and shows free with ads or with VIP: install steps, safety notes and FAQ.",
+  "primaryKeyword": "iqiyi apk",
+  "secondaryKeywords": [
+    "iqiyi app download",
+    "iqiyi international",
+    "is iqiyi free"
+  ],
+  "alternatives": [
+    "wetv",
+    "viki",
+    "netflix"
+  ],
+  "faq": [
+    {
+      "q": "How do I install iQIYI on Android?",
+      "a": "Open Google Play, search for iQIYI and check the developer is iQIYI before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from iQIYI and may be altered, so the safest way to use iQIYI is the official listing."
+    },
+    {
+      "q": "Is iQIYI free to watch?",
+      "a": "Yes, much of iQIYI's library is free to watch with ads. Newer episodes, some exclusive titles and ad-free viewing need a VIP membership, which you can buy as an in-app purchase. Free viewers often get episodes later than VIP members on series that are still airing."
+    },
+    {
+      "q": "Is the iQIYI app safe?",
+      "a": "Yes. The official iQIYI app from Google Play or iq.com is a signed app from iQIYI, a large streaming company listed on the Nasdaq stock exchange. Like most streaming apps, it collects viewing and device data for recommendations and ads, which its privacy policy on iq.com describes."
+    },
+    {
+      "q": "Does iQIYI have English subtitles?",
+      "a": "Yes. The international iQIYI app offers subtitles in several languages, including English, on most of its catalogue. You can switch the subtitle language from the player while a video is playing. Availability depends on the title and your region. Some shows also offer dubbed audio tracks."
+    },
+    {
+      "q": "Can I download iQIYI videos to watch offline?",
+      "a": "Yes, iQIYI lets you download many episodes inside the app to watch offline. Downloads stay in the app rather than as normal video files, and some titles or higher qualities need VIP. Downloading copies outside the app isn't supported. Check the download quality setting first, since higher qualities use more storage."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.iqiyi.i18n",
+    "https://www.iq.com/"
+  ],
+  "oldUrls": [
+    "/iqiyi-movies-streaming-app/"
+  ]
+}

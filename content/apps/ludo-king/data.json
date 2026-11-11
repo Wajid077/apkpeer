@@ -1,0 +1,80 @@
+{
+  "slug": "ludo-king",
+  "name": "Ludo King®",
+  "shortName": "Ludo King",
+  "packageName": "com.ludo.king",
+  "type": "game",
+  "category": "board",
+  "developer": {
+    "name": "Gametion",
+    "slug": "gametion",
+    "url": "https://gametion.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ludo.king",
+  "officialUrl": "https://gametion.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-02",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.ludo.king",
+    "changelog": [
+      "New mode added.",
+      "Bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/ludo-king/icon.webp",
+  "summary": "Ludo King is Gametion's free Ludo game for Android, where you race your four tokens home against the computer, family on one phone, or friends online. The official Ludo King APK on Google Play was last updated on November 2, 2026, with a new mode, and needs Android 7.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Get the official Ludo King APK for Android 7.0+. Play Ludo with friends online, offline or on one phone: game modes, rules, install steps and safety.",
+  "primaryKeyword": "ludo king apk",
+  "secondaryKeywords": [
+    "ludo king download",
+    "ludo game online",
+    "ludo king with friends"
+  ],
+  "alternatives": [
+    "8-ball-pool",
+    "carrom-pool",
+    "uno"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Ludo King on Android?",
+      "a": "Open Google Play, search for Ludo King and check the developer is Gametion before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Gametion and may be altered, so the safest way to play Ludo King is the official listing."
+    },
+    {
+      "q": "Is Ludo King free?",
+      "a": "Yes, Ludo King is free to download and play. It shows ads and sells optional in-app purchases, such as coins, themes and ad removal, which Google Play lists from $0.49 to $369.09 per item. Every game mode can be played without paying."
+    },
+    {
+      "q": "How do I play Ludo King with friends online?",
+      "a": "Choose the play-with-friends option, create a private room and share the room code with your friends, or invite them from the game. Once everyone has joined, the host starts the match. Everyone needs an internet connection and the Ludo King app."
+    },
+    {
+      "q": "Can I play Ludo King offline?",
+      "a": "Yes. You can play against the computer or pass the phone between players in local mode without an internet connection. Online matches with friends or random players need a connection."
+    },
+    {
+      "q": "How many players can play Ludo King?",
+      "a": "Classic Ludo King games are for two to four players. The game also has a six-player mode on a larger board, which is good for big family gatherings. You can mix human players and computer players in offline games."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.ludo.king",
+    "https://gametion.com/"
+  ],
+  "oldUrls": []
+}

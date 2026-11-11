@@ -1,0 +1,79 @@
+{
+  "slug": "candy-crush-saga",
+  "name": "Candy Crush Saga",
+  "shortName": "Candy Crush Saga",
+  "packageName": "com.king.candycrushsaga",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "King",
+    "slug": "king",
+    "url": "https://candycrush.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+  "officialUrl": "https://candycrush.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "1.339.0.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-15",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+    "changelog": [
+      "Weekly update with new features and levels."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/candy-crush-saga/icon.webp",
+  "summary": "Candy Crush Saga is King's free match-three puzzle game for Android, where you swap candies to make matches and clear thousands of levels. The latest Candy Crush Saga APK is version 1.339.0.2, updated October 15, 2026, and needs Android 6.0 or newer. It's free to play, with ads and optional in-app purchases.",
+  "metaDescription": "Get the official Candy Crush Saga APK 1.339.0.2 for Android 6.0+. How lives and boosters work, tips for hard levels, install steps and spending controls.",
+  "primaryKeyword": "candy crush apk",
+  "secondaryKeywords": [
+    "candy crush saga download",
+    "candy crush saga apk",
+    "candy crush new levels"
+  ],
+  "alternatives": [
+    "candy-crush-soda-saga",
+    "royal-match",
+    "homescapes"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Candy Crush Saga on Android?",
+      "a": "Open Google Play, search for Candy Crush Saga and check the developer is King before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from King and may be altered, so the safest way to play Candy Crush Saga is the official listing."
+    },
+    {
+      "q": "Is Candy Crush Saga free?",
+      "a": "Yes. Candy Crush Saga is free to download and play. King makes money from optional in-app purchases, such as gold bars, boosters and extra moves, which Google Play lists from $0.99 to $149.99 per item, and the game also shows ads. You can finish levels without paying, though hard ones take more tries."
+    },
+    {
+      "q": "How many levels does Candy Crush Saga have?",
+      "a": "Candy Crush Saga has thousands of levels, and King adds new ones regularly. The game is updated every week, according to its Google Play listing, so you're unlikely to run out. The exact count changes with each update."
+    },
+    {
+      "q": "How do lives work in Candy Crush?",
+      "a": "You have up to five lives. Failing a level costs one life, and lives refill over time, one every 30 minutes. You can also get lives from friends, events and rewards, or buy them. When you're out, the game makes you wait before playing again."
+    },
+    {
+      "q": "Can I play Candy Crush Saga offline?",
+      "a": "Yes, you can play levels without an internet connection. Progress is saved on your phone and synced to your King account the next time you're online. Events, rewards from friends and some features need a connection."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+    "https://candycrush.com/"
+  ],
+  "oldUrls": []
+}

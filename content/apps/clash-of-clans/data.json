@@ -1,0 +1,81 @@
+{
+  "slug": "clash-of-clans",
+  "name": "Clash of Clans",
+  "shortName": "Clash of Clans",
+  "packageName": "com.supercell.clashofclans",
+  "type": "game",
+  "category": "strategy",
+  "developer": {
+    "name": "Supercell",
+    "slug": "supercell",
+    "url": "https://supercell.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+  "officialUrl": "https://supercell.com/en/games/clashofclans/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "18.647.5",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-20",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+    "changelog": [
+      "Builder Suggestions rework: an all-new Builder Menu with filters and categories.",
+      "Menu changes: new additions to the Battle Menu, Player Profile and Clan Chat.",
+      "Numerous quality-of-life improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/clash-of-clans/icon.webp",
+  "summary": "Clash of Clans is Supercell's free strategy game for Android: build and defend a village, train troops, raid other players and fight Clan Wars with friends. The latest Clash of Clans APK is version 18.647.5, updated October 20, 2026, and needs Android 7.0 or newer. It's free with no ads, plus optional in-app purchases.",
+  "metaDescription": "Get the official Clash of Clans APK 18.647.5 for Android 7.0+. The new Builder Menu update, how to progress, Supercell ID, install steps and safety.",
+  "primaryKeyword": "clash of clans apk",
+  "secondaryKeywords": [
+    "clash of clans download",
+    "clash of clans update",
+    "coc apk"
+  ],
+  "alternatives": [
+    "clash-royale",
+    "boom-beach",
+    "brawl-stars"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Clash of Clans on Android?",
+      "a": "Open Google Play, search for Clash of Clans and check the developer is Supercell before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Supercell and may be altered, so the safest way to play Clash of Clans is the official listing."
+    },
+    {
+      "q": "Is Clash of Clans free?",
+      "a": "Yes. Clash of Clans is free to download and play, and Google Play doesn't list it as containing ads. Supercell earns money from optional in-app purchases from $0.29 to $239.99 per item, mainly gems and the monthly Gold Pass, which speed up progress. You can reach the top levels without paying, but it takes much longer."
+    },
+    {
+      "q": "How do I save my Clash of Clans village?",
+      "a": "Connect your village to Supercell ID in the game's settings. Supercell ID saves your progress to your account, so you can move to a new phone or play the same village on several devices. Without it, losing your phone can mean losing your village."
+    },
+    {
+      "q": "Are Clash of Clans private servers safe?",
+      "a": "No. Private servers are unofficial copies of the game run by third parties. They need a modified APK, they aren't connected to your real village, and they can contain malware. Supercell doesn't support them, and their terms of service prohibit using them."
+    },
+    {
+      "q": "Does Clash of Clans work offline?",
+      "a": "No. Clash of Clans needs an internet connection at all times, because your village, battles and clan are stored on Supercell's servers. If your connection drops, the game reconnects and keeps your progress safe on the server. A stable connection also helps during attacks, since disconnecting mid-battle can count as a loss."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+    "https://supercell.com/en/games/clashofclans/"
+  ],
+  "oldUrls": []
+}

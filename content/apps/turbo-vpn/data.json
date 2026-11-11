@@ -1,0 +1,84 @@
+{
+  "slug": "turbo-vpn",
+  "name": "Turbo VPN - Secure VPN Proxy",
+  "shortName": "Turbo VPN",
+  "packageName": "free.vpn.unblock.proxy.turbovpn",
+  "type": "app",
+  "category": "vpn",
+  "developer": {
+    "name": "Innovative Connecting",
+    "slug": "innovative-connecting",
+    "url": "https://www.turbovpn.co"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn",
+  "officialUrl": "https://www.turbovpn.co",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "4.3.2.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-20",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn",
+    "changelog": [
+      "Optimized network performance for faster, more stable connections.",
+      "Fixed a few minor bugs."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/turbo-vpn/icon.webp",
+  "summary": "Turbo VPN is a free VPN proxy app for Android from Innovative Connecting that routes your traffic through its servers with one tap. The latest Turbo VPN APK is version 4.3.2.2, updated October 20, 2026, and it needs Android 7.0 or newer. The free tier shows ads; a paid VIP plan removes them.",
+  "metaDescription": "Turbo VPN APK 4.3.2.2 for Android 7.0+: what the free version includes, how to install it, and the ownership questions to know before you trust it.",
+  "primaryKeyword": "turbo vpn apk",
+  "secondaryKeywords": [
+    "turbo vpn download",
+    "is turbo vpn safe",
+    "turbo vpn for android"
+  ],
+  "alternatives": [
+    "proton-vpn",
+    "windscribe",
+    "cloudflare-warp"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Turbo VPN on Android?",
+      "a": "Open Google Play, search for Turbo VPN and check the developer is Innovative Connecting before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Innovative Connecting and may be altered, so the safest way to use Turbo VPN is the official listing."
+    },
+    {
+      "q": "Is Turbo VPN safe to use?",
+      "a": "Turbo VPN is a real app on Google Play, not malware, but there are open questions about who stands behind it. In 2025 the Tech Transparency Project linked its developer, Innovative Connecting, to the Chinese company Qihoo 360. The developer disputed the reports. For sensitive browsing, an audited no-logs VPN is a safer choice."
+    },
+    {
+      "q": "Is Turbo VPN really free?",
+      "a": "Yes, Turbo VPN has a free tier you can use without paying. It's supported by ads, and the free server list is smaller than the paid one. The paid VIP plan, sold as an in-app purchase on Google Play, removes ads and unlocks more server locations."
+    },
+    {
+      "q": "Who owns Turbo VPN?",
+      "a": "Turbo VPN is published by Innovative Connecting, a Singapore-registered developer. A 2025 Tech Transparency Project investigation reported that the developer traces back to Qihoo 360, a Chinese cybersecurity company on a US trade blacklist. Innovative Connecting has said those reports are inaccurate."
+    },
+    {
+      "q": "What Android version does Turbo VPN need?",
+      "a": "Turbo VPN 4.3.2.2 needs Android 7.0 or newer, according to its Google Play listing. On older phones, Play Store won't offer the current version, and an older APK may lack security fixes, so upgrading Android or choosing another VPN is the better option."
+    }
+  ],
+  "published": "2026-11-03",
+  "updated": "2026-11-03",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn",
+    "https://www.turbovpn.co",
+    "https://www.malwarebytes.com/blog/news/2025/04/popular-vpns-are-routing-traffic-via-chinese-companies-including-one-with-link-to-military",
+    "https://www.techtransparencyproject.org/articles/spot-check-apple-and-google-still-have-a-chinese-vpn-problem"
+  ],
+  "oldUrls": [
+    "/turbo-vpn-2026/"
+  ]
+}

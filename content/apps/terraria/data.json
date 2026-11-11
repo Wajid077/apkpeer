@@ -1,0 +1,79 @@
+{
+  "slug": "terraria",
+  "name": "Terraria",
+  "shortName": "Terraria",
+  "packageName": "com.and.games505.TerrariaPaid",
+  "type": "game",
+  "category": "adventure",
+  "developer": {
+    "name": "505 Games Srl",
+    "slug": "505-games",
+    "url": "https://505games.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+  "officialUrl": "https://terraria.org/",
+  "price": "$4.99",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "1.4.5.8.6",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-14",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+    "changelog": [
+      "Critical fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/terraria/icon.webp",
+  "summary": "Terraria is a 2D sandbox adventure where you dig, build, craft and fight bosses in a procedurally generated world. The latest Terraria APK is version 1.4.5.8.6, updated September 14, 2026, and needs Android 6.0 or newer. It costs $4.99 on Google Play, with no ads and no in-app purchases.",
+  "metaDescription": "Get the official Terraria APK 1.4.5.8.6 for Android 6.0+, $4.99 on Google Play. What makes it different from Minecraft, tips for beginners, install steps.",
+  "primaryKeyword": "terraria apk",
+  "secondaryKeywords": [
+    "terraria android",
+    "terraria mobile",
+    "terraria download"
+  ],
+  "alternatives": [
+    "minecraft",
+    "stardew-valley",
+    "minecraft-trial"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Terraria on Android?",
+      "a": "Open Google Play, search for Terraria and check the developer is 505 Games Srl before tapping the price button. It needs Android 6.0 or newer. It costs $4.99 on Google Play, and once bought it's tied to your Google account, so you can reinstall it on any phone for free. Avoid copies from other sites: they aren't from 505 Games Srl and may be altered, so the safest way to play Terraria is the official listing."
+    },
+    {
+      "q": "How much does Terraria cost on Android?",
+      "a": "Terraria costs $4.99 on Google Play in the US, as a one-time purchase. There are no ads and no in-app purchases, so you get the whole game, including future updates, for that price."
+    },
+    {
+      "q": "Is Terraria on Android the same as the PC version?",
+      "a": "The mobile version has the same core content as the PC and console versions, including the major 1.4 updates, with controls adapted for touch screens and controller support. Some features may arrive later on mobile than on PC."
+    },
+    {
+      "q": "Can I play Terraria multiplayer on Android?",
+      "a": "Yes. You can play with friends on the same local network, and online through features supported on mobile. Cross-play depends on the platforms involved, so check with your friends' versions."
+    },
+    {
+      "q": "Is Terraria like Minecraft?",
+      "a": "Both are sandbox games about digging, building and crafting, but Terraria is 2D and much more focused on combat, bosses, loot and exploring underground. Minecraft is 3D and more focused on building."
+    }
+  ],
+  "published": "2026-11-04",
+  "updated": "2026-11-04",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid",
+    "https://terraria.org/"
+  ],
+  "oldUrls": []
+}

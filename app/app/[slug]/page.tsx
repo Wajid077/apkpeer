@@ -70,8 +70,7 @@ export default async function AppPage({ params }: Props) {
             </section>
           </div>
 
-          {/* No ads beside real-money gambling content (Google publisher restrictions). */}
-          {app.category !== "casino" && <AdSlot slot="app-after-info" variant="in-content" />}
+          <AdSlot slot="app-after-info" variant="in-content" />
 
           <div className="mt-10 space-y-10">
             <Screenshots app={app} />
@@ -122,7 +121,7 @@ export default async function AppPage({ params }: Props) {
                 <AppGrid apps={related.slice(0, 4)} compact />
               </div>
             )}
-            {app.category !== "casino" && <AdSlot slot="app-sidebar" variant="sidebar" />}
+            <AdSlot slot="app-sidebar" variant="sidebar" />
           </div>
         </aside>
       </div>

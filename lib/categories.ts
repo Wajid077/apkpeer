@@ -239,15 +239,6 @@ export const CATEGORIES: Category[] = [
     intro:
       "Card games on Android range from digital versions of collectible trading card games to quick solitaire and party games. Each page here explains how matches work, how you get new cards (free daily packs, events or paid packs), what the in-app purchases cost, and whether trading or online battles need an account. You will also find the latest version, what changed in the most recent update, the minimum Android version, and how to install the official game if Play Store is not available. APKPeer lists the original game from its publisher only. Builds promising free packs or unlocked collections are not official, often carry malware, and get accounts banned.",
   },
-  {
-    slug: "casino",
-    name: "Casino",
-    label: "Casino apps",
-    type: "game",
-    schemaCategory: "GameApplication",
-    intro:
-      "Real-money casino apps are legal in Canada only where a province licenses them, and the rules differ a lot from one province to the next. Each page here says exactly which provinces an app is licensed in, who regulates it, the minimum age, how deposits and withdrawals work, and which responsible gambling tools it offers. Where an app is not licensed in your province, we say so and point to the legal provincial option instead. You will also find the latest version, the Android version you need, and how to install the official app from Google Play. Gambling should be entertainment, not a way to make money. Set limits before you play, and get help early if it stops being fun.",
-  },
 ];
 
 export function categoryLabel(c: Category): string {

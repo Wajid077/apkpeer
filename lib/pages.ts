@@ -53,7 +53,7 @@ export const TRUST_PAGES: StaticPage[] = [
   {
     path: "/disclaimer",
     title: "Disclaimer",
-    seoTitle: "Disclaimer – Trademarks, Downloads and Affiliate Links",
+    seoTitle: "Disclaimer – Trademarks, Downloads and Original Apps",
     description: "APKPeer is not affiliated with Google Play or the developers listed. App names, icons and trademarks belong to their owners.",
     updated: "2026-11-03",
   },

@@ -35,6 +35,9 @@ RewriteRule ^score-hero-mod/?$ /app/score-hero [R=301,L]
 RewriteRule ^minecraft-v1-26-10-25/?$ /app/minecraft-trial [R=301,L]
 RewriteRule ^about-us/?$ /about [R=301,L]
 RewriteRule ^contact-us/?$ /contact [R=301,L]
+# Gambling pages removed (2026-11-20, owner request) -> Games hub
+RewriteRule ^category/casino/?$ /category/games [R=301,L]
+RewriteRule ^app/(betty-casino|olg|bet99)(/.*)?$ /category/games [R=301,L]
 # WordPress feed/admin leftovers
 RewriteRule ^feed/?$ /feed.xml [R=301,L]
 RewriteRule ^(wp-admin|wp-login\.php|wp-content|wp-includes)(/.*)?$ - [G,L]

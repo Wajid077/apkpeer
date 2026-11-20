@@ -38,11 +38,10 @@ export default function AppHeader({ app }: { app: App }) {
         <div className="mt-5 flex flex-wrap gap-3">
           <a
             href={dl.href}
-            // Affiliate links must be marked as paid links for search engines.
-            rel={dl.sponsored ? "sponsored nofollow noopener" : "noopener"}
+            rel="noopener"
             className="inline-flex min-h-11 items-center gap-2 rounded-[var(--radius)] bg-accent px-5 font-semibold text-accent-contrast hover:bg-accent-hover"
           >
-            {dl.sponsored ? <DownloadIcon width={18} height={18} /> : <PlayStoreIcon width={18} height={18} />}
+            <PlayStoreIcon width={18} height={18} />
             {dl.label}
           </a>
           {verified && (
@@ -55,12 +54,6 @@ export default function AppHeader({ app }: { app: App }) {
             </Link>
           )}
         </div>
-        {dl.sponsored && (
-          <p className="mt-3 max-w-[60ch] text-[13px] leading-snug text-muted">
-            Affiliate link: APKPeer may earn a commission if you sign up, at no cost to you. Adults only (19+ in Ontario). Gambling can be
-            addictive, so please play responsibly. Help: ConnexOntario 1-866-531-2600.
-          </p>
-        )}
       </div>
     </div>
   );

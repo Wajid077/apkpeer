@@ -41,8 +41,6 @@ export const AppSchema = z.object({
   /** null for apps that aren't on Google Play (e.g. F-Droid); the main button then uses officialUrl. */
   playStoreUrl: z.string().url().nullable(),
   officialUrl: z.string().url(),
-  /** Owner's affiliate tracking link. When set, the main download button uses it (rel=sponsored + disclosure). Schema keeps the official URL. */
-  affiliateUrl: z.string().url().nullable().optional(),
   price: z.string().min(1),
   // null = not verified yet; the template hides unverified rows instead of guessing.
   containsAds: z.boolean().nullable(),
@@ -158,10 +156,9 @@ export function hasVersionNumber(app: App): boolean {
 }
 
 /** Where the main download button goes, and how it's labelled. */
-export function primaryDownload(app: App): { href: string; label: string; sponsored: boolean } {
-  if (app.affiliateUrl) return { href: app.affiliateUrl, label: `Get ${app.shortName}`, sponsored: true };
-  if (app.playStoreUrl) return { href: app.playStoreUrl, label: "Download from Google Play", sponsored: false };
-  return { href: app.officialUrl, label: `Download from ${new URL(app.officialUrl).hostname.replace(/^www\./, "")}`, sponsored: false };
+export function primaryDownload(app: App): { href: string; label: string } {
+  if (app.playStoreUrl) return { href: app.playStoreUrl, label: "Download from Google Play" };
+  return { href: app.officialUrl, label: `Download from ${new URL(app.officialUrl).hostname.replace(/^www\./, "")}` };
 }
 
 /** "Verified original" requires a self-hosted file with both hashes recorded. */

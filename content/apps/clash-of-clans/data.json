@@ -17,31 +17,49 @@
   "inAppPurchases": true,
   "minAndroid": "7.0",
   "latest": {
-    "version": "18.647.5",
+    "version": "19.32.4",
     "versionCode": null,
     "size": null,
-    "releaseDate": "2026-10-20",
+    "releaseDate": "2026-11-12",
     "sha256": null,
     "certSha256": null,
     "selfHosted": false,
     "source": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
     "changelog": [
-      "Builder Suggestions rework: an all-new Builder Menu with filters and categories.",
-      "Menu changes: new additions to the Battle Menu, Player Profile and Clan Chat.",
-      "Numerous quality-of-life improvements."
+      "Town Hall 19 arrives: choose how it looks and which troops defend it.",
+      "Squads: unlock deployable troop hordes at Town Hall 8 and upgrade them with unique abilities at Town Hall 19."
     ]
   },
-  "versions": [],
+  "versions": [
+    {
+      "version": "18.647.5",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-10-20",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+      "changelog": [
+        "Builder Suggestions rework: an all-new Builder Menu with filters and categories.",
+        "Menu changes: new additions to the Battle Menu, Player Profile and Clan Chat.",
+        "Numerous quality-of-life improvements."
+      ]
+    }
+  ],
   "permissions": [],
   "screenshots": [],
   "icon": "/apps/clash-of-clans/icon.webp",
-  "summary": "Clash of Clans is Supercell's free strategy game for Android: build and defend a village, train troops, raid other players and fight Clan Wars with friends. The latest Clash of Clans APK is version 18.647.5, updated October 20, 2026, and needs Android 7.0 or newer. It's free with no ads, plus optional in-app purchases.",
-  "metaDescription": "Get the official Clash of Clans APK 18.647.5 for Android 7.0+. The new Builder Menu update, how to progress, Supercell ID, install steps and safety.",
+  "summary": "The Clash of Clans APK is the official Android installer for Supercell's base-building strategy game, where you build a village, train troops and raid other players. The latest version is 19.32.4, updated November 12, 2026, with Town Hall 19 and Squads, and it needs Android 7.0 or newer. It's free to play.",
+  "metaDescription": "Clash of Clans APK download for Android: get the official Clash of Clans 19.32.4 with Town Hall 19 from Google Play, plus beginner tips and install steps.",
   "primaryKeyword": "clash of clans apk",
   "secondaryKeywords": [
-    "clash of clans download",
-    "clash of clans update",
-    "coc apk"
+    "clash of clans apk download",
+    "clash of clans for android",
+    "clash of clans town hall 19",
+    "is clash of clans safe",
+    "clash of clans vs boom beach",
+    "clash of clans update"
   ],
   "alternatives": [
     "clash-royale",
@@ -50,28 +68,24 @@
   ],
   "faq": [
     {
-      "q": "How do I install Clash of Clans on Android?",
-      "a": "Open Google Play, search for Clash of Clans and check the developer is Supercell before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Supercell and may be altered, so the safest way to play Clash of Clans is the official listing."
+      "q": "What's new in Clash of Clans Town Hall 19?",
+      "a": "The latest update adds Town Hall 19, where you choose how it looks and which troops defend it, and Squads: deployable troop hordes unlocked at Town Hall 8 and upgraded with unique abilities at Town Hall 19."
     },
     {
-      "q": "Is Clash of Clans free?",
-      "a": "Yes. Clash of Clans is free to download and play, and Google Play doesn't list it as containing ads. Supercell earns money from optional in-app purchases from $0.29 to $239.99 per item, mainly gems and the monthly Gold Pass, which speed up progress. You can reach the top levels without paying, but it takes much longer."
+      "q": "Is Clash of Clans appropriate for a 10-year-old?",
+      "a": "Google Play rates it Everyone 10+ for fantasy violence. It has clan chat with strangers, so younger players should join a friends-only clan and use Supercell ID parental settings and purchase authentication."
+    },
+    {
+      "q": "Why is Clash of Clans so easy now?",
+      "a": "Recent updates have shortened many upgrade times and costs and added features like Squads, so progress feels faster than in early versions. Higher Town Hall levels still take time."
     },
     {
       "q": "How do I save my Clash of Clans village?",
-      "a": "Connect your village to Supercell ID in the game's settings. Supercell ID saves your progress to your account, so you can move to a new phone or play the same village on several devices. Without it, losing your phone can mean losing your village."
-    },
-    {
-      "q": "Are Clash of Clans private servers safe?",
-      "a": "No. Private servers are unofficial copies of the game run by third parties. They need a modified APK, they aren't connected to your real village, and they can contain malware. Supercell doesn't support them, and their terms of service prohibit using them."
-    },
-    {
-      "q": "Does Clash of Clans work offline?",
-      "a": "No. Clash of Clans needs an internet connection at all times, because your village, battles and clan are stored on Supercell's servers. If your connection drops, the game reconnects and keeps your progress safe on the server. A stable connection also helps during attacks, since disconnecting mid-battle can count as a loss."
+      "a": "Connect to Supercell ID in settings. Your village is then linked to your email and can be loaded on any phone."
     }
   ],
   "published": "2026-11-03",
-  "updated": "2026-11-03",
+  "updated": "2026-11-25",
   "reviewedBy": "APKPeer Editorial Team",
   "sources": [
     "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",

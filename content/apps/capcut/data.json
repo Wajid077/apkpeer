@@ -17,10 +17,10 @@
   "inAppPurchases": true,
   "minAndroid": "6.0",
   "latest": {
-    "version": "19.9.0",
+    "version": "20.3.0",
     "versionCode": null,
     "size": null,
-    "releaseDate": "2026-10-30",
+    "releaseDate": "2026-11-23",
     "sha256": null,
     "certSha256": null,
     "selfHosted": false,
@@ -30,17 +30,35 @@
       "Improved the trimming experience."
     ]
   },
-  "versions": [],
+  "versions": [
+    {
+      "version": "19.9.0",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-10-30",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
+      "changelog": [
+        "Fixed some known issues.",
+        "Improved the trimming experience."
+      ]
+    }
+  ],
   "permissions": [],
   "screenshots": [],
   "icon": "/apps/capcut/icon.webp",
-  "summary": "CapCut is a free video editor for Android from Bytedance, the company behind TikTok, with templates, auto captions, effects and a multitrack timeline. The latest CapCut APK is version 19.9.0, updated October 30, 2026, and needs Android 6.0 or newer. It's free with no ads, and CapCut Pro unlocks extra features.",
-  "metaDescription": "Get the official CapCut APK 19.9.0 for Android 6.0+. Free video editing with templates and auto captions: what's in Pro, install steps and safety notes.",
+  "summary": "The CapCut APK is the official Android app for CapCut, Bytedance's free video editor with templates, auto captions, effects and AI tools. The latest version is 20.3.0, updated November 23, 2026, and needs Android 6.0 or newer. It's free to use, with CapCut Pro for premium features.",
+  "metaDescription": "CapCut APK download for Android: get the official CapCut 20.3.0 from Google Play, with install steps, editing tips, export fixes and CapCut Pro explained.",
   "primaryKeyword": "capcut apk",
   "secondaryKeywords": [
-    "capcut download",
-    "capcut video editor",
-    "is capcut safe"
+    "capcut apk download",
+    "capcut for android",
+    "capcut app",
+    "is capcut safe",
+    "capcut not working",
+    "capcut vs inshot"
   ],
   "alternatives": [
     "inshot",
@@ -49,28 +67,24 @@
   ],
   "faq": [
     {
-      "q": "How do I install CapCut on Android?",
-      "a": "Open Google Play, search for CapCut and check the developer is Bytedance Pte. Ltd. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Bytedance Pte. Ltd. and may be altered, so the safest way to use CapCut is the official listing."
-    },
-    {
       "q": "Is CapCut free?",
-      "a": "Yes. CapCut is free to download, has no ads, and most editing tools are free. CapCut Pro is an optional subscription that unlocks premium effects, templates, AI tools and more cloud storage. Google Play lists in-app purchases from $0.49 to $900.00, covering Pro plans and other paid items."
+      "a": "Yes. CapCut is free to download and edit with. CapCut Pro, an optional subscription, unlocks premium effects, filters, AI tools and cloud storage."
     },
     {
-      "q": "Is CapCut safe to use?",
-      "a": "The official CapCut app from Google Play is a legitimate app from Bytedance, the company that owns TikTok. Read its terms before editing client or sensitive footage: they give CapCut broad rights over content you upload to its services. Never install modified \"Pro\" versions, which can steal your account."
+      "q": "Why won't CapCut let me export?",
+      "a": "Usually your project contains a Pro feature, such as a premium effect or template, while you're on the free plan. Remove the Pro items marked in the timeline, or subscribe, then export again."
     },
     {
-      "q": "Does CapCut add a watermark?",
-      "a": "CapCut can add an ending clip with its logo to exported videos, and you can delete it from the timeline before exporting. Some templates and Pro features may add a watermark if you use them without a subscription. Check the export preview before you post."
+      "q": "Is CapCut safe?",
+      "a": "The official CapCut app from Google Play, published by Bytedance Pte. Ltd., is safe to install. Review its privacy settings, and avoid unofficial CapCut copies offering free Pro, which can carry malware."
     },
     {
-      "q": "Why is CapCut not available in my country?",
-      "a": "CapCut isn't available everywhere. India, for example, has banned CapCut along with other ByteDance apps since 2020. If Google Play says the app isn't available in your country, that's a regional restriction, and installing an APK from another site doesn't change it."
+      "q": "Can I use CapCut on my laptop?",
+      "a": "Yes. CapCut has desktop apps for Windows and Mac and an online editor, and projects can sync through CapCut cloud storage."
     }
   ],
   "published": "2026-11-03",
-  "updated": "2026-11-03",
+  "updated": "2026-11-25",
   "reviewedBy": "APKPeer Editorial Team",
   "sources": [
     "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",

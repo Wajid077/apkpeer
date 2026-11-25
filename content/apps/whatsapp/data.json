@@ -17,22 +17,37 @@
   "inAppPurchases": true,
   "minAndroid": "6.0",
   "latest": {
-    "version": "2.26.32.84",
+    "version": "Varies with device",
     "versionCode": null,
     "size": null,
-    "releaseDate": "2026-10-31",
+    "releaseDate": "2026-11-21",
     "sha256": null,
     "certSha256": null,
     "selfHosted": false,
-    "source": "https://www.whatsapp.com/android",
+    "source": "https://play.google.com/store/apps/details?id=com.whatsapp",
     "changelog": [
-      "You can choose to share recent group history with new members when you add them to a group.",
-      "Group calls can be transferred between mobile and desktop.",
-      "Call links can have a waiting room.",
-      "You can pin a participant to a bigger tile in group calls."
+      "Choose to share recent group history with new members when you add them to a group.",
+      "Group calls can now move between mobile and desktop, call links can have a waiting room, and you can pin a participant to a bigger tile."
     ]
   },
-  "versions": [],
+  "versions": [
+    {
+      "version": "2.26.32.84",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-10-31",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://www.whatsapp.com/android",
+      "changelog": [
+        "You can choose to share recent group history with new members when you add them to a group.",
+        "Group calls can be transferred between mobile and desktop.",
+        "Call links can have a waiting room.",
+        "You can pin a participant to a bigger tile in group calls."
+      ]
+    }
+  ],
   "permissions": [
     {
       "name": "Contacts",
@@ -57,13 +72,16 @@
   ],
   "screenshots": [],
   "icon": "/apps/whatsapp/icon.webp",
-  "summary": "WhatsApp is Meta's free messaging and calling app, with end-to-end encrypted chats, voice and video calls, groups and status updates. The WhatsApp APK on WhatsApp's own download page is version 2.26.32.84, and it needs Android 6.0 or newer. It's free to use; the Play listing was updated October 31, 2026.",
-  "metaDescription": "Download the official WhatsApp APK 2.26.32.84 for Android 6.0+ from WhatsApp's own source. Install steps, what's new, privacy notes and WhatsApp Web FAQ.",
+  "summary": "The WhatsApp APK is the Android installer for WhatsApp Messenger, Meta's free app for encrypted chats, voice and video calls, groups and Status updates. Google Play updated it on November 21, 2026 with shared group history for new members and better group calls. It's free to download, with no subscription.",
+  "metaDescription": "WhatsApp APK download for Android: get the latest official WhatsApp from Google Play or whatsapp.com, with install steps, new features and safety tips.",
   "primaryKeyword": "whatsapp apk",
   "secondaryKeywords": [
     "whatsapp apk download",
-    "whatsapp web",
-    "is whatsapp apk safe"
+    "whatsapp for android",
+    "whatsapp apk latest version",
+    "whatsapp not working",
+    "is whatsapp safe",
+    "whatsapp download for pc"
   ],
   "alternatives": [
     "telegram",
@@ -72,32 +90,28 @@
   ],
   "faq": [
     {
-      "q": "How do I install WhatsApp on Android?",
-      "a": "Open Google Play, search for WhatsApp and check the developer is WhatsApp LLC before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. On phones without Google Play, WhatsApp offers an official APK at whatsapp.com/android, signed with the same key as the Play version."
+      "q": "How do I download the WhatsApp APK for Android?",
+      "a": "Install WhatsApp from Google Play, published by WhatsApp LLC. If your phone has no Play Store, WhatsApp offers its own official APK at whatsapp.com/android, signed with the same key as the Play version. Avoid APK files from any other site."
     },
     {
-      "q": "Is it safe to download the WhatsApp APK?",
-      "a": "Yes, if it comes from WhatsApp itself. WhatsApp offers an official APK at whatsapp.com/android for phones without Google Play, signed with the same key as the Play version. Don't install WhatsApp APKs from other sites, and never use modified versions of WhatsApp, which WhatsApp bans and which can expose your messages."
+      "q": "Is WhatsApp safe to use?",
+      "a": "Yes. Personal messages and calls are end-to-end encrypted by default, so only you and the person you're talking to can read or hear them. Turn on two-step verification in Settings → Account to stop someone else registering your number."
     },
     {
-      "q": "What is the difference between WhatsApp and WhatsApp Web?",
-      "a": "WhatsApp is the phone app where your account lives. WhatsApp Web is a way to use that same account in a computer's browser at web.whatsapp.com: you link it by scanning a QR code with the phone app under Linked devices. It isn't a separate download for your phone."
+      "q": "Is WhatsApp safe for kids?",
+      "a": "WhatsApp's minimum age is 13 in most countries (16 in some). It has no parental controls of its own, so set Privacy → Groups to My contacts and keep profile photo and last seen to My contacts for younger users."
     },
     {
-      "q": "What Android version does WhatsApp need?",
-      "a": "WhatsApp's download page lists Android 6.0 or newer as the minimum for the current version. On older Android versions WhatsApp stops working and asks you to update your phone. If you're close to the limit, check the requirement on whatsapp.com before relying on an old device."
+      "q": "Why is WhatsApp not working on my phone?",
+      "a": "The most common causes are no internet connection, an outdated app, a wrong date and time on the phone, or WhatsApp's servers having an outage. Update the app from Google Play, switch between Wi-Fi and mobile data, and restart your phone."
     },
     {
-      "q": "Does WhatsApp have ads?",
-      "a": "Not in your chats. Meta announced in June 2025 that it would start showing ads in the Updates tab, where Status and Channels live, while personal chats, calls and groups stay ad-free. That's why our info table doesn't give a simple yes or no for ads."
-    },
-    {
-      "q": "Are WhatsApp messages end-to-end encrypted?",
-      "a": "Yes. Personal messages and calls on WhatsApp are end-to-end encrypted by default, so not even WhatsApp can read them. Chat backups to Google Drive aren't protected that way unless you turn on end-to-end encrypted backup under Settings, Chats, Chat backup."
+      "q": "Can I use WhatsApp on my laptop?",
+      "a": "Yes. Open web.whatsapp.com or the WhatsApp desktop app for Windows or Mac, then scan the QR code from your phone in Settings → Linked devices. You can link up to four devices to one account."
     }
   ],
   "published": "2026-11-03",
-  "updated": "2026-11-03",
+  "updated": "2026-11-25",
   "reviewedBy": "APKPeer Editorial Team",
   "sources": [
     "https://www.whatsapp.com/android",

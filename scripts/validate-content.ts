@@ -27,6 +27,8 @@ const BANNED_RE = [/whether you['’]re an? [^.]{1,40}? or an? /i];
 const FORBIDDEN = [
   /premium unlocked/i, /unlimited (money|coins|gems|diamonds)/i, /\bcracked\b/i, /free in-app purchases/i,
   /\bmod menu/i, /\bvip panel/i, /\binjector\b/i, /\bgb ?whatsapp\b/i, /\binsta ?pro\b/i,
+  // Owner rule (2026-11-25): no gambling or "mod" wording anywhere in page text.
+  /\bcasinos?\b/i, /\bmods?\b/i,
 ];
 // Warn: allowed only inside a safety section explaining that mod builds are risky.
 const CAUTION = [/\bmod(ded)? (apk|version|build)s?\b/i, /\bhack(s|ed)?\b/i, /\bcheats?\b/i];

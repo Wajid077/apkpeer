@@ -138,7 +138,7 @@ export const CATEGORIES: Category[] = [
     type: "game",
     schemaCategory: "GameApplication",
     intro:
-      "Action games on Android cover everything from battle royales and party brawlers to platformers built for quick sessions. Each game page explains how the game plays, whether it needs a constant internet connection, what's free and what costs money (battle passes, skins, loot boxes), and whether it shows ads. You'll also find the latest version, what changed in the most recent update, the minimum Android version, and how to install the official game if Play Store isn't available on your phone. We don't list mod APKs, aimbots or cheat menus. Online action games scan for them, and accounts that use them get banned, often permanently.",
+      "Action games on Android cover everything from battle royales and party brawlers to platformers built for quick sessions. Each game page explains how the game plays, whether it needs a constant internet connection, what's free and what costs money (battle passes, skins, loot boxes), and whether it shows ads. You'll also find the latest version, what changed in the most recent update, the minimum Android version, and how to install the official game if Play Store isn't available on your phone. We don't list altered APKs, aimbots or cheat menus. Online action games scan for them, and accounts that use them get banned, often permanently.",
   },
   {
     slug: "sports",

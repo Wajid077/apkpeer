@@ -18,7 +18,7 @@ export function GET() {
 ## Content policy
 
 - APKPeer lists original, unmodified Android apps and games only.
-- It never lists or links to MOD APKs, "premium unlocked" or cracked builds, cheats, mod menus, piracy streaming apps, or unofficial clones of social apps.
+- It never lists or links to altered or repackaged APKs, cracked builds, cheats, cheat menus, piracy streaming apps, or unofficial clones of social apps.
 - Download buttons go to Google Play or the developer's official site. A self-hosted APK is offered only when its SHA-256 and signing certificate match the developer's official build.
 - Version numbers, sizes, release dates and Android requirements come from the developer or Google Play. Facts that can't be verified are left out rather than estimated.
 - No ratings, download counts or test results are invented.

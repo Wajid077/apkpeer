@@ -1,0 +1,28 @@
+Date,Phase,Link type,Platform,Platform DA/DR,Placement URL (live link),Target URL (my page),Anchor used,Dofollow/Nofollow,Indexed?,Status,Notes
+,1,Social profile,Facebook page,UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,Same logo and bio everywhere
+,1,Social profile,X (Twitter),UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,
+,1,Social profile,Pinterest,UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,Pin top apps and tools with OG images
+,1,Social profile,LinkedIn page,UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,
+,1,Social profile,YouTube channel,UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,
+,1,Social profile,GitHub,UNVERIFIED,,https://apkpeer.com/,apkpeer.com,Nofollow,,Planned,Profile website field
+,1,Social profile,Gravatar,UNVERIFIED,,https://apkpeer.com/,apkpeer.com,Nofollow,,Planned,
+,1,Social profile,Medium,UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,
+,1,Community answer,support.google.com/googleplay/community,UNVERIFIED,,https://apkpeer.com/tools/what-is-my-device,Which APK do I need?,Nofollow,,Planned,Answer 'app not installed' questions
+,1,Community answer,support.google.com/googleplay/community,UNVERIFIED,,https://apkpeer.com/app/whatsapp,WhatsApp install guide,Nofollow,,Planned,
+,1,Community answer,android.stackexchange.com,UNVERIFIED,,https://apkpeer.com/tools/apk-hash-checker,APK hash checker,Nofollow,,Planned,Only where the question asks how to verify an APK
+,1,Community answer,Quora,UNVERIFIED,,https://apkpeer.com/,APKPeer,Nofollow,,Planned,APK safety questions
+,1,Community answer,Reddit r/AndroidQuestions,UNVERIFIED,,https://apkpeer.com/tools/what-is-my-device,this checker,Nofollow,,Planned,Follow subreddit self-promotion rules
+,1,Community answer,community.cloudflare.com,UNVERIFIED,,https://apkpeer.com/app/cloudflare-warp,1.1.1.1 + WARP guide,Nofollow,,Planned,
+,1,Slides,SlideShare,UNVERIFIED,,https://apkpeer.com/,APKPeer,Dofollow?,,Planned,Deck: How to install an APK safely
+,1,Document,Issuu,UNVERIFIED,,https://apkpeer.com/tools,free Android tools,Dofollow?,,Planned,
+,2,Asset (extension),Chrome Web Store,UNVERIFIED,,https://apkpeer.com/tools/qr-code-generator,QR code generator,Nofollow,,Planned,Publish QR tool as extension
+,2,Asset (add-on),addons.mozilla.org,UNVERIFIED,,https://apkpeer.com/tools/qr-code-generator,APKPeer,Nofollow,,Planned,
+,2,Cloud stack,GitHub Pages,UNVERIFIED,,https://apkpeer.com/tools/apk-hash-checker,check an APK's SHA-256,Dofollow,,Planned,Open-source hash checker repo + page
+,2,Cloud stack,Cloudflare Pages,UNVERIFIED,,https://apkpeer.com/,APKPeer,Dofollow,,Planned,Unique guide page
+,2,Cloud stack,GitLab Pages,UNVERIFIED,,https://apkpeer.com/category/games,Android games,Dofollow,,Planned,Unique guide page
+,2,Google stack,Google Sites,UNVERIFIED,,https://apkpeer.com/,APKPeer,Dofollow,,Planned,Interlink with Docs/Sheets/Slides
+,2,Google stack,Google Sheets,UNVERIFIED,,https://apkpeer.com/category/apps,Android apps directory,Dofollow,,Planned,Public list of 120 apps
+,2,Podcast,Spotify for Creators,UNVERIFIED,,https://apkpeer.com/,apkpeer.com,Nofollow,,Planned,Episode: Is it safe to download APKs?
+,3,Forum,XDA Forums,UNVERIFIED,,https://apkpeer.com/app/firefox,Firefox for Android,Nofollow,,Planned,Reply only where it helps
+,3,Directory,AlternativeTo,UNVERIFIED,,https://apkpeer.com/tools,APKPeer tools,Nofollow,,Planned,List the tools
+,3,Launch,Product Hunt,UNVERIFIED,,https://apkpeer.com/tools,APKPeer,Nofollow,,Planned,Launch the tools collection once

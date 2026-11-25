@@ -1,0 +1,79 @@
+{
+  "slug": "archero",
+  "name": "Archero",
+  "shortName": "Archero",
+  "packageName": "com.habby.archero",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Habby",
+    "slug": "habby",
+    "url": "https://www.habby.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.habby.archero",
+  "officialUrl": "https://www.habby.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "8.4.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.habby.archero",
+    "changelog": [
+      "Athena Awakening: new traits for the S-Grade Hero.",
+      "Reworked Clan Pillage mode and new medals.",
+      "Inferno mode extended to Chapter 80; main chapters to Chapter 230."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/archero/icon.webp",
+  "summary": "The Archero APK is the Android installer for Habby's roguelike action game, where an archer fights through rooms of monsters and picks a new skill after each level-up. The latest version is 8.4.0, updated November 19, 2026, and it needs Android 7.0 or newer. It's free with ads and purchases.",
+  "metaDescription": "Archero APK download for Android: get the official Habby Archero 8.4.0 from Google Play, with skill picks, hero tips, the new Athena update and installs.",
+  "primaryKeyword": "archero apk",
+  "secondaryKeywords": [
+    "archero apk download",
+    "archero for android",
+    "archero best skills",
+    "archero heroes",
+    "roguelike games android"
+  ],
+  "alternatives": [
+    "shadow-fight-3",
+    "brawl-stars",
+    "clash-royale"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Archero on Android?",
+      "a": "Open Google Play, search for Archero and check the developer is Habby before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Habby and may be altered, so the safest way to play Archero is the official listing."
+    },
+    {
+      "q": "What are the best skills in Archero?",
+      "a": "Multishot, Front Arrow, Ricochet and Diagonal Arrows are strong early picks. Attack Boost and Attack Speed help every build."
+    },
+    {
+      "q": "How do I play Archero?",
+      "a": "Move to dodge; stand still to shoot automatically. Clear each room, pick a skill when you level up, and reach the boss at the end of the chapter."
+    },
+    {
+      "q": "Does Archero need internet?",
+      "a": "Main chapters can be played offline, but events, rewards and some modes need a connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.habby.archero",
+    "https://www.habby.com/"
+  ],
+  "oldUrls": []
+}

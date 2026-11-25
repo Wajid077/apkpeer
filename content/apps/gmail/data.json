@@ -1,0 +1,77 @@
+{
+  "slug": "gmail",
+  "name": "Gmail",
+  "shortName": "Gmail",
+  "packageName": "com.google.android.gm",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+  "officialUrl": "https://mail.google.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/gmail/icon.webp",
+  "summary": "The Gmail APK is the Android installer for Gmail, Google's free email app with spam filtering, multiple accounts, smart search and Google Meet and Chat built in. Google Play updated it on November 24, 2026, and the version varies by device. Gmail comes preinstalled on most Android phones.",
+  "metaDescription": "Gmail APK download for Android: get the official Gmail app from Google Play, with install steps, inbox tips, storage advice and fixes when mail won't sync.",
+  "primaryKeyword": "gmail apk",
+  "secondaryKeywords": [
+    "gmail apk download",
+    "gmail app for android",
+    "gmail not syncing",
+    "gmail storage full",
+    "add another email to gmail app"
+  ],
+  "alternatives": [
+    "google-drive",
+    "google-meet",
+    "telegram"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Gmail on Android?",
+      "a": "Open Google Play, search for Gmail and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Gmail is the official listing."
+    },
+    {
+      "q": "Can I add Outlook or Yahoo accounts to the Gmail app?",
+      "a": "Yes. Open Gmail, tap your profile picture, choose Add another account and pick Outlook, Yahoo or Other. Gmail then shows each inbox separately or all together."
+    },
+    {
+      "q": "Why is Gmail not syncing on my phone?",
+      "a": "Check that sync is on in Gmail settings for that account, that background data isn't restricted, and that your Google storage isn't full. Pulling down on the inbox forces a refresh."
+    },
+    {
+      "q": "What happens when my Gmail storage is full?",
+      "a": "You stop receiving new mail until you free space. The 15 GB free allowance is shared with Google Drive and Google Photos, so deleting large attachments or old backups helps."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.gm",
+    "https://mail.google.com/"
+  ],
+  "oldUrls": []
+}

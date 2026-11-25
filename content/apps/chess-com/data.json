@@ -1,0 +1,79 @@
+{
+  "slug": "chess-com",
+  "name": "Chess - Play and Learn Online",
+  "shortName": "Chess.com",
+  "packageName": "com.chess",
+  "type": "game",
+  "category": "board",
+  "developer": {
+    "name": "Chess.com",
+    "slug": "chess-com",
+    "url": "https://www.chess.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.chess",
+  "officialUrl": "https://www.chess.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.chess",
+    "changelog": [
+      "Puzzle practice now earns points for every correct move, with scoring bonuses.",
+      "Game Review estimates your rating in that game and how well you played at each stage.",
+      "Daily Chess lets you pre-program moves that trigger automatically."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/chess-com/icon.webp",
+  "summary": "The Chess.com APK is the Android installer for Chess - Play and Learn Online, Chess.com's app for playing online and against bots, solving puzzles and taking lessons. Google Play updated it on November 19, 2026, and the version varies by device. It's free, with optional memberships that unlock more lessons and reviews.",
+  "metaDescription": "Chess.com APK download for Android: get the official Chess - Play and Learn app from Google Play, with free vs membership, puzzles and game review.",
+  "primaryKeyword": "chess.com apk",
+  "secondaryKeywords": [
+    "chess com apk download",
+    "chess app for android",
+    "chess.com membership",
+    "chess puzzles app",
+    "play chess online"
+  ],
+  "alternatives": [
+    "ludo-king",
+    "carrom-pool",
+    "monopoly-go"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Chess.com on Android?",
+      "a": "Open Google Play, search for Chess.com and check the developer is Chess.com before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Chess.com and may be altered, so the safest way to play Chess.com is the official listing."
+    },
+    {
+      "q": "Is Chess.com free?",
+      "a": "Yes. You can play unlimited games, solve daily puzzles and play bots for free. Memberships unlock unlimited puzzles, lessons and full game reviews."
+    },
+    {
+      "q": "Can beginners learn chess with Chess.com?",
+      "a": "Yes. The app teaches the rules, has lessons and beginner bots, and Game Review explains your mistakes after each game."
+    },
+    {
+      "q": "Is Chess.com safe for kids?",
+      "a": "It's rated Everyone. Chess.com has a kids' mode on chesskid.com and settings to limit chat and messages. Turn chat off for young children."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.chess",
+    "https://www.chess.com/"
+  ],
+  "oldUrls": []
+}

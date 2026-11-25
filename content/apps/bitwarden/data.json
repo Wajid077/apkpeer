@@ -1,0 +1,80 @@
+{
+  "slug": "bitwarden",
+  "name": "Bitwarden Password Manager",
+  "shortName": "Bitwarden",
+  "packageName": "com.x8bit.bitwarden",
+  "type": "app",
+  "category": "tools",
+  "developer": {
+    "name": "Bitwarden Inc.",
+    "slug": "bitwarden",
+    "url": "https://bitwarden.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+  "officialUrl": "https://bitwarden.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "10",
+  "latest": {
+    "version": "2026.10.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+    "changelog": [
+      "Create a new login from the generator tab.",
+      "Improved keyboard navigation.",
+      "Fixed autofill crashes on Android 10.",
+      "Fixed autofill selection being lost after editing an item."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/bitwarden/icon.webp",
+  "summary": "The Bitwarden APK is the Android installer for Bitwarden Password Manager, an open-source vault for passwords, passkeys and secure notes with autofill. The latest version is 2026.10.1, updated November 19, 2026, and it needs Android 10 or newer. The free plan syncs unlimited passwords across devices.",
+  "metaDescription": "Bitwarden APK download for Android: get the official Bitwarden Password Manager 2026.10.1 from Google Play, with autofill setup and free vs Premium.",
+  "primaryKeyword": "bitwarden apk",
+  "secondaryKeywords": [
+    "bitwarden apk download",
+    "bitwarden for android",
+    "bitwarden autofill android",
+    "bitwarden free vs premium",
+    "best password manager android"
+  ],
+  "alternatives": [
+    "proton-vpn",
+    "signal",
+    "google-chrome"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Bitwarden on Android?",
+      "a": "Open Google Play, search for Bitwarden and check the developer is Bitwarden Inc. before tapping Install. It needs Android 10 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Bitwarden Inc. and may be altered, so the safest way to use Bitwarden is the official listing."
+    },
+    {
+      "q": "Is Bitwarden free?",
+      "a": "Yes. The free plan stores unlimited passwords on unlimited devices. Premium adds extras like built-in two-factor codes, file attachments and security reports for a small yearly fee."
+    },
+    {
+      "q": "How do I turn on Bitwarden autofill?",
+      "a": "In Bitwarden, open Settings → Autofill and enable the Autofill service. Android then offers Bitwarden logins in apps and browsers."
+    },
+    {
+      "q": "What if I forget my Bitwarden master password?",
+      "a": "Bitwarden can't recover it, because your vault is encrypted with it. Write it down and store it safely, and set up emergency access or a password hint."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+    "https://bitwarden.com/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "crunchyroll",
+  "name": "Crunchyroll: Anime Streaming",
+  "shortName": "Crunchyroll",
+  "packageName": "com.crunchyroll.crunchyroid",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "Crunchyroll, LLC",
+    "slug": "crunchyroll",
+    "url": "https://www.crunchyroll.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid",
+  "officialUrl": "https://www.crunchyroll.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-25",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid",
+    "changelog": [
+      "Screen readers clearly announce the player's Next episode button.",
+      "The Teen profile maturity prompt shows the correct message in every region.",
+      "Plan options update right after you subscribe or upgrade."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/crunchyroll/icon.webp",
+  "summary": "The Crunchyroll APK is the Android installer for Crunchyroll, the anime streaming service with simulcasts shortly after Japan, subtitles and dubs. Google Play updated it on November 25, 2026, and the version varies by device. Crunchyroll is free to install; watching most anime needs a Premium plan.",
+  "metaDescription": "Crunchyroll APK download for Android: get the official Crunchyroll anime app from Google Play, with plans, offline viewing, subs vs dubs and playback fixes.",
+  "primaryKeyword": "crunchyroll apk",
+  "secondaryKeywords": [
+    "crunchyroll apk download",
+    "crunchyroll for android",
+    "crunchyroll offline viewing",
+    "crunchyroll premium",
+    "crunchyroll not working"
+  ],
+  "alternatives": [
+    "netflix",
+    "disney-plus",
+    "prime-video"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Crunchyroll on Android?",
+      "a": "Open Google Play, search for Crunchyroll and check the developer is Crunchyroll, LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Crunchyroll, LLC and may be altered, so the safest way to use Crunchyroll is the official listing."
+    },
+    {
+      "q": "Is Crunchyroll free?",
+      "a": "Crunchyroll's free tier with ads was reduced, and most of the catalogue now needs a Premium plan. Check the app for what's free in your country."
+    },
+    {
+      "q": "Can I download anime on Crunchyroll?",
+      "a": "Yes, offline viewing is included with the higher Premium tiers. Tap the download icon next to an episode."
+    },
+    {
+      "q": "Does Crunchyroll have dubbed anime?",
+      "a": "Yes. Many shows have English and other dubs. Change audio and subtitles from the player settings."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid",
+    "https://www.crunchyroll.com/"
+  ],
+  "oldUrls": []
+}

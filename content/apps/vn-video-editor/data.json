@@ -1,0 +1,80 @@
+{
+  "slug": "vn-video-editor",
+  "name": "VN: Photo & Video Editor",
+  "shortName": "VN",
+  "packageName": "com.frontrow.vlog",
+  "type": "app",
+  "category": "video-editors",
+  "developer": {
+    "name": "Ubiquiti Labs, LLC",
+    "slug": "ubiquiti-labs",
+    "url": "https://vlognow.me"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.frontrow.vlog",
+  "officialUrl": "https://vlognow.me/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "2.26.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.frontrow.vlog",
+    "changelog": [
+      "9 new Face body effects, including glasses, eyebrows and mustaches.",
+      "Trim audio while adding it.",
+      "Noise Reduction in Adjust.",
+      "Story: set a cover, a default photo duration and transitions."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/vn-video-editor/icon.webp",
+  "summary": "The VN APK is the Android installer for VN: Photo & Video Editor from Ubiquiti Labs, a free multi-track editor with keyframes, curves, music and no watermark on exports. The latest version is 2.26.0, updated November 24, 2026, and it needs Android 7.0 or newer.",
+  "metaDescription": "VN video editor APK download for Android: get the official VN 2.26.0 from Google Play, with multi-track editing, export settings, VN vs CapCut and fixes.",
+  "primaryKeyword": "vn video editor apk",
+  "secondaryKeywords": [
+    "vn apk download",
+    "vn video editor for android",
+    "vn vs capcut",
+    "vn export settings",
+    "vn editor no watermark"
+  ],
+  "alternatives": [
+    "capcut",
+    "kinemaster",
+    "inshot"
+  ],
+  "faq": [
+    {
+      "q": "How do I install VN on Android?",
+      "a": "Open Google Play, search for VN and check the developer is Ubiquiti Labs, LLC before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Ubiquiti Labs, LLC and may be altered, so the safest way to use VN is the official listing."
+    },
+    {
+      "q": "Does VN add a watermark?",
+      "a": "No. VN exports without a watermark on the free version. Some templates, effects and assets need the paid VN Pro plan."
+    },
+    {
+      "q": "VN vs CapCut: which is better?",
+      "a": "CapCut has more trending templates and AI tools. VN has a cleaner timeline that feels closer to desktop editors, and it suits people who edit clip by clip."
+    },
+    {
+      "q": "What are the best VN export settings?",
+      "a": "For social media, export at 1080p and 30 fps with the default bitrate. Use 4K only if your footage was shot in 4K and you have the storage."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.frontrow.vlog",
+    "https://vlognow.me/"
+  ],
+  "oldUrls": []
+}

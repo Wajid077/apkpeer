@@ -1,0 +1,77 @@
+{
+  "slug": "disney-plus",
+  "name": "Disney+",
+  "shortName": "Disney+",
+  "packageName": "com.disney.disneyplus",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "Disney",
+    "slug": "disney",
+    "url": "https://www.disney.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+  "officialUrl": "https://www.disneyplus.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "26.21.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "changelog": [
+      "Bug fixes and streaming improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/disney-plus/icon.webp",
+  "summary": "The Disney+ APK is the Android installer for Disney's streaming app, home to Disney, Pixar, Marvel, Star Wars and National Geographic. The latest version is 26.21.0, updated November 17, 2026, and it needs Android 6.0 or newer. It's free to install and needs a Disney+ subscription to watch.",
+  "metaDescription": "Disney+ APK download for Android: get the official Disney Plus app 26.21.0 from Google Play, with plans, downloads, kids' profiles and playback fixes.",
+  "primaryKeyword": "disney plus apk",
+  "secondaryKeywords": [
+    "disney plus apk download",
+    "disney+ app for android",
+    "disney plus download offline",
+    "disney plus not working",
+    "disney plus kids profile"
+  ],
+  "alternatives": [
+    "netflix",
+    "prime-video",
+    "jiohotstar"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Disney+ on Android?",
+      "a": "Open Google Play, search for Disney+ and check the developer is Disney before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Disney and may be altered, so the safest way to use Disney+ is the official listing."
+    },
+    {
+      "q": "Is Disney+ free on Android?",
+      "a": "The app is free to install, but you need a Disney+ subscription to watch. Plans and prices vary by country, and some include ads."
+    },
+    {
+      "q": "Can I download Disney+ films to watch offline?",
+      "a": "Yes, on supported plans. Tap the download icon on a film or episode. Downloads must be renewed online now and then."
+    },
+    {
+      "q": "Why does Disney+ show an error code?",
+      "a": "Most errors come from the connection or a sign-in problem. Update the app, restart your router or phone, and sign out and back in."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "https://www.disneyplus.com/"
+  ],
+  "oldUrls": []
+}

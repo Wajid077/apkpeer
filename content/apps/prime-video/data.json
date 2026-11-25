@@ -1,0 +1,77 @@
+{
+  "slug": "prime-video",
+  "name": "Prime Video",
+  "shortName": "Prime Video",
+  "packageName": "com.amazon.avod.thirdpartyclient",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "Amazon Mobile LLC",
+    "slug": "amazon",
+    "url": "https://www.amazon.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+  "officialUrl": "https://www.primevideo.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/prime-video/icon.webp",
+  "summary": "The Prime Video APK is the Android installer for Amazon's streaming app, with Amazon Originals, films, live sport in some countries and downloads for offline viewing. Google Play updated it on November 24, 2026, and it needs Android 9 or newer. It's included with Prime or a standalone Prime Video plan.",
+  "metaDescription": "Prime Video APK download for Android: get the official Amazon Prime Video app from Google Play, with downloads, plans, data-saving tips and playback fixes.",
+  "primaryKeyword": "prime video apk",
+  "secondaryKeywords": [
+    "prime video apk download",
+    "amazon prime video app",
+    "prime video download offline",
+    "prime video not working",
+    "prime video on tv"
+  ],
+  "alternatives": [
+    "netflix",
+    "disney-plus",
+    "jiohotstar"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Prime Video on Android?",
+      "a": "Open Google Play, search for Prime Video and check the developer is Amazon Mobile LLC before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Amazon Mobile LLC and may be altered, so the safest way to use Prime Video is the official listing."
+    },
+    {
+      "q": "Is Prime Video free?",
+      "a": "The app is free to install, but watching needs Amazon Prime or a Prime Video subscription. Some films and series are also sold or rented separately, and some regions show ads unless you pay extra."
+    },
+    {
+      "q": "Can I download Prime Video shows on Android?",
+      "a": "Yes. Tap the download icon on a title. Downloads work on Wi-Fi or mobile data, depending on your settings, and have limits on how many you can keep."
+    },
+    {
+      "q": "Why is Prime Video not working?",
+      "a": "Update the app, check your connection, and sign out and back in. If only one title fails, it may not be available in your country."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+    "https://www.primevideo.com/"
+  ],
+  "oldUrls": []
+}

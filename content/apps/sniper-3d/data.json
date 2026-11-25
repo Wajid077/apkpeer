@@ -1,0 +1,77 @@
+{
+  "slug": "sniper-3d",
+  "name": "Sniper 3D：Gun Shooting Games",
+  "shortName": "Sniper 3D",
+  "packageName": "com.fungames.sniper3d",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Wildlife Studios",
+    "slug": "wildlife-studios",
+    "url": "https://wildlifestudios.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d",
+  "officialUrl": "https://wildlifestudios.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "7.17.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-25",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.fungames.sniper3d",
+    "changelog": [
+      "Bug fixes and stability improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/sniper-3d/icon.webp",
+  "summary": "The Sniper 3D APK is the Android installer for Wildlife Studios' shooting game, where you complete sniper missions, upgrade rifles and play PvP. The latest version is 7.17.1, updated November 25, 2026, and it needs Android 7.1 or newer. It's free with ads and purchases, rated Mature 17+.",
+  "metaDescription": "Sniper 3D APK download for Android: get the official Wildlife Studios Sniper 3D 7.17.1 from Google Play, with rifle upgrades, mission tips and rating.",
+  "primaryKeyword": "sniper 3d apk",
+  "secondaryKeywords": [
+    "sniper 3d apk download",
+    "sniper 3d for android",
+    "sniper 3d tips",
+    "sniper 3d best gun",
+    "offline shooting games"
+  ],
+  "alternatives": [
+    "call-of-duty-mobile",
+    "pubg-mobile",
+    "free-fire"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Sniper 3D on Android?",
+      "a": "Open Google Play, search for Sniper 3D and check the developer is Wildlife Studios before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Wildlife Studios and may be altered, so the safest way to play Sniper 3D is the official listing."
+    },
+    {
+      "q": "Is Sniper 3D suitable for kids?",
+      "a": "No. Google Play rates it Mature 17+ for intense violence and blood. It's meant for adults."
+    },
+    {
+      "q": "Does Sniper 3D work offline?",
+      "a": "Many single-player missions work offline. PvP, events and ads need a connection."
+    },
+    {
+      "q": "How do I upgrade guns in Sniper 3D?",
+      "a": "Spend coins and diamonds from missions on damage, stability, zoom, ammo and reload. Upgrade one main rifle first to beat harder missions."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.fungames.sniper3d",
+    "https://wildlifestudios.com/"
+  ],
+  "oldUrls": []
+}

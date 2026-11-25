@@ -1,0 +1,77 @@
+{
+  "slug": "nordvpn",
+  "name": "NordVPN – fast VPN for privacy",
+  "shortName": "NordVPN",
+  "packageName": "com.nordvpn.android",
+  "type": "app",
+  "category": "vpn",
+  "developer": {
+    "name": "Nord Security",
+    "slug": "nord-security",
+    "url": "https://nordsecurity.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nordvpn.android",
+  "officialUrl": "https://nordvpn.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nordvpn.android",
+    "changelog": [
+      "A new check of your digital footprint: see what's visible about you online, from public profiles to data leaks."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/nordvpn/icon.webp",
+  "summary": "The NordVPN APK is the Android installer for NordVPN, a paid VPN from Nord Security with servers in many countries, Threat Protection and a no-logs policy. Google Play updated it on November 19, 2026, and the version varies by device. The app is free to install, but using it needs a NordVPN subscription.",
+  "metaDescription": "NordVPN APK download for Android: get the official NordVPN app from Google Play, with plans explained, Threat Protection and connection fixes.",
+  "primaryKeyword": "nordvpn apk",
+  "secondaryKeywords": [
+    "nordvpn apk download",
+    "nordvpn for android",
+    "is nordvpn safe",
+    "nordvpn free trial",
+    "nordvpn not connecting"
+  ],
+  "alternatives": [
+    "proton-vpn",
+    "windscribe",
+    "cloudflare-warp"
+  ],
+  "faq": [
+    {
+      "q": "How do I install NordVPN on Android?",
+      "a": "Open Google Play, search for NordVPN and check the developer is Nord Security before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Nord Security and may be altered, so the safest way to use NordVPN is the official listing."
+    },
+    {
+      "q": "Is NordVPN free?",
+      "a": "No. The app is free to install, but you need a paid plan to connect. Nord offers a money-back guarantee on new plans; check current terms before buying."
+    },
+    {
+      "q": "Is NordVPN safe?",
+      "a": "NordVPN uses modern encryption, has a no-logs policy that has been independently audited, and is published by Nord Security on Google Play. As with any VPN, you're trusting the provider with your traffic."
+    },
+    {
+      "q": "Why won't NordVPN connect?",
+      "a": "Try a different server or protocol (NordLynx or OpenVPN), switch networks, and make sure no other VPN app is active. Restarting the phone often helps."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nordvpn.android",
+    "https://nordvpn.com/"
+  ],
+  "oldUrls": []
+}

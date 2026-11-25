@@ -1,0 +1,79 @@
+{
+  "slug": "marvel-snap",
+  "name": "MARVEL SNAP: Hero Strategy CCG",
+  "shortName": "MARVEL SNAP",
+  "packageName": "com.nvsgames.snap",
+  "type": "game",
+  "category": "card",
+  "developer": {
+    "name": "Second Dinner",
+    "slug": "second-dinner",
+    "url": "https://www.seconddinner.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nvsgames.snap",
+  "officialUrl": "https://www.marvelsnap.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "59.15.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-11",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nvsgames.snap",
+    "changelog": [
+      "Season: Knights of Avalon, with new cards including Arthur Pendragon, Merlin of Avalon and Captain Britain.",
+      "Limited-time modes: Sanctum Showdown, High Voltage and Draft.",
+      "New albums: Eastern Fantasy and Storybook."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/marvel-snap/icon.webp",
+  "summary": "The MARVEL SNAP APK is the Android installer for Second Dinner's fast collectible card game with Marvel heroes and villains, where matches last about three minutes. The latest version is 59.15.1, updated November 11, 2026, and it needs Android 7.0 or newer. It's free with in-app purchases.",
+  "metaDescription": "MARVEL SNAP APK download for Android: get the official MARVEL SNAP 59.15.1 card game from Google Play, with how to play, deck tips and the new season.",
+  "primaryKeyword": "marvel snap apk",
+  "secondaryKeywords": [
+    "marvel snap apk download",
+    "marvel snap for android",
+    "marvel snap deck tips",
+    "marvel snap season",
+    "card games android"
+  ],
+  "alternatives": [
+    "clash-royale",
+    "pokemon-tcg-pocket",
+    "uno"
+  ],
+  "faq": [
+    {
+      "q": "How do I install MARVEL SNAP on Android?",
+      "a": "Open Google Play, search for MARVEL SNAP and check the developer is Second Dinner before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Second Dinner and may be altered, so the safest way to play MARVEL SNAP is the official listing."
+    },
+    {
+      "q": "How do you play MARVEL SNAP?",
+      "a": "Each game lasts six turns across three locations. Play cards to locations and win two of the three by having more power there. Snapping doubles the stakes for cubes."
+    },
+    {
+      "q": "Is MARVEL SNAP free?",
+      "a": "Yes. It's free on Google Play. You can buy gold, passes and bundles, but cards are earned by playing and levelling your collection."
+    },
+    {
+      "q": "What does Snap mean in MARVEL SNAP?",
+      "a": "Snapping doubles the cubes at stake when you think you'll win. Your opponent can retreat to lose fewer cubes."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nvsgames.snap",
+    "https://www.marvelsnap.com/"
+  ],
+  "oldUrls": []
+}

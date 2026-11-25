@@ -1,0 +1,78 @@
+{
+  "slug": "amazon-shopping",
+  "name": "Amazon Shopping",
+  "shortName": "Amazon Shopping",
+  "packageName": "com.amazon.mShop.android.shopping",
+  "type": "app",
+  "category": "shopping",
+  "developer": {
+    "name": "Amazon Mobile LLC",
+    "slug": "amazon",
+    "url": "https://www.amazon.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
+  "officialUrl": "https://www.amazon.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "12",
+  "latest": {
+    "version": "32.20.2.100",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-28",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
+    "changelog": [
+      "Shortcuts: tap and hold the Amazon app icon to open Orders, Daily Deals, Cart and Search.",
+      "Bug fixes and improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/amazon-shopping/icon.webp",
+  "summary": "The Amazon Shopping APK is the Android installer for Amazon's shopping app: browse, buy, track orders and manage returns from your phone. The latest version is 32.20.2.100, updated October 28, 2026, and it needs Android 12 or newer. The app is free; you pay only for what you buy.",
+  "metaDescription": "Amazon Shopping APK download for Android: get the official Amazon app 32.20.2.100 from Google Play, with order tracking, deals and safe shopping tips.",
+  "primaryKeyword": "amazon shopping apk",
+  "secondaryKeywords": [
+    "amazon shopping apk download",
+    "amazon app for android",
+    "amazon app not working",
+    "track amazon order",
+    "amazon app shortcuts"
+  ],
+  "alternatives": [
+    "temu",
+    "shein",
+    "prime-video"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Amazon Shopping on Android?",
+      "a": "Open Google Play, search for Amazon Shopping and check the developer is Amazon Mobile LLC before tapping Install. It needs Android 12 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Amazon Mobile LLC and may be altered, so the safest way to use Amazon Shopping is the official listing."
+    },
+    {
+      "q": "Does the Amazon app need Android 12?",
+      "a": "Yes. Google Play lists Android 12 or newer for the current version. On older phones, use amazon.com in your browser instead."
+    },
+    {
+      "q": "How do I track an Amazon order in the app?",
+      "a": "Tap the profile icon, then Your Orders, and pick the order. You'll see the delivery estimate, carrier updates and, for many orders, a live map on delivery day."
+    },
+    {
+      "q": "Is Amazon Shopping the same app in every country?",
+      "a": "Yes, one app covers most Amazon stores. Change the country and language in Settings to switch to your local store."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
+    "https://www.amazon.com/"
+  ],
+  "oldUrls": []
+}

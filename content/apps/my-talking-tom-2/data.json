@@ -1,0 +1,79 @@
+{
+  "slug": "my-talking-tom-2",
+  "name": "My Talking Tom 2: Pet Game",
+  "shortName": "My Talking Tom 2",
+  "packageName": "com.outfit7.mytalkingtom2",
+  "type": "game",
+  "category": "casual",
+  "developer": {
+    "name": "Outfit7 Limited",
+    "slug": "outfit7",
+    "url": "https://outfit7.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2",
+  "officialUrl": "https://outfit7.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-18",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2",
+    "changelog": [
+      "The basement is transformed: an Egypt-themed Spooky Quest.",
+      "A haunted Halloween makeover and a spooky outfit.",
+      "A new grill recipe."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/my-talking-tom-2/icon.webp",
+  "summary": "The My Talking Tom 2 APK is the Android installer for Outfit7's virtual pet game, where you care for Tom, play mini-games and look after his pets. Google Play updated it on November 18, 2026, and it needs Android 7.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "My Talking Tom 2 APK download for Android: get the official Outfit7 pet game from Google Play, with care tips, coins, mini-games and advice for parents.",
+  "primaryKeyword": "my talking tom 2 apk",
+  "secondaryKeywords": [
+    "my talking tom 2 apk download",
+    "my talking tom 2 for android",
+    "talking tom game",
+    "my talking tom 2 coins",
+    "talking tom for kids"
+  ],
+  "alternatives": [
+    "pou",
+    "subway-surfers",
+    "hay-day"
+  ],
+  "faq": [
+    {
+      "q": "How do I install My Talking Tom 2 on Android?",
+      "a": "Open Google Play, search for My Talking Tom 2 and check the developer is Outfit7 Limited before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Outfit7 Limited and may be altered, so the safest way to play My Talking Tom 2 is the official listing."
+    },
+    {
+      "q": "How do I get coins in My Talking Tom 2?",
+      "a": "Play mini-games, complete daily tasks and collect rewards for levelling up. Watching optional ads also gives coins."
+    },
+    {
+      "q": "Is My Talking Tom 2 safe for kids?",
+      "a": "It's rated Everyone with comic mischief. It contains ads and sells items, so set up purchase authentication and check Outfit7's parental settings in the game."
+    },
+    {
+      "q": "Does My Talking Tom 2 work offline?",
+      "a": "Most care activities work offline, but rewards, events and ads need a connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2",
+    "https://outfit7.com/"
+  ],
+  "oldUrls": []
+}

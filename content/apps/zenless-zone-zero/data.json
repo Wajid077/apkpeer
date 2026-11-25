@@ -1,0 +1,79 @@
+{
+  "slug": "zenless-zone-zero",
+  "name": "Zenless Zone Zero",
+  "shortName": "Zenless Zone Zero",
+  "packageName": "com.HoYoverse.Nap",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "COGNOSPHERE PTE. LTD.",
+    "slug": "cognosphere",
+    "url": "https://www.hoyoverse.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap",
+  "officialUrl": "https://zenless.hoyoverse.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "3.3.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap",
+    "changelog": [
+      "Version 3.3 \"Journey to the Sky\".",
+      "New S-Rank Agents Phoenix (Fire, Anomaly) and Severian (Wind, Attack).",
+      "Returning Agents Velina and Norma, plus new outfits."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/zenless-zone-zero/icon.webp",
+  "summary": "The Zenless Zone Zero APK is the Android installer for HoYoverse's urban fantasy action game, where you lead Agents into dangerous Hollows in New Eridu. The latest version is 3.3.0, updated October 3, 2026, and it needs Android 6.0 or newer. The game is free with in-app purchases.",
+  "metaDescription": "Zenless Zone Zero APK download for Android: get the official ZZZ 3.3.0 from Google Play, with phone requirements, Agents, version 3.3 news and installs.",
+  "primaryKeyword": "zenless zone zero apk",
+  "secondaryKeywords": [
+    "zenless zone zero apk download",
+    "zzz apk",
+    "zenless zone zero android requirements",
+    "zenless zone zero 3.3",
+    "hoyoverse games"
+  ],
+  "alternatives": [
+    "genshin-impact",
+    "honkai-star-rail",
+    "honor-of-kings"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Zenless Zone Zero on Android?",
+      "a": "Open Google Play, search for Zenless Zone Zero and check the developer is COGNOSPHERE PTE. LTD. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from COGNOSPHERE PTE. LTD. and may be altered, so the safest way to play Zenless Zone Zero is the official listing."
+    },
+    {
+      "q": "What phone do I need for Zenless Zone Zero?",
+      "a": "Google Play lists Android 6.0 or newer, but the game is demanding. A recent mid-range or flagship phone with at least 6 GB of RAM and plenty of free storage plays much better."
+    },
+    {
+      "q": "Is Zenless Zone Zero free to play?",
+      "a": "Yes. You can play the story and events for free. Agents and weapons come from Signal Search, a random draw system, and premium currency can be bought."
+    },
+    {
+      "q": "Can I play Zenless Zone Zero on PC?",
+      "a": "Yes. HoYoverse also publishes ZZZ for PC and consoles, and your HoYoverse account carries progress across platforms where supported."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap",
+    "https://zenless.hoyoverse.com/"
+  ],
+  "oldUrls": []
+}

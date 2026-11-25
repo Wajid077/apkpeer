@@ -1,0 +1,77 @@
+{
+  "slug": "twitch",
+  "name": "Twitch: Live Streaming",
+  "shortName": "Twitch",
+  "packageName": "tv.twitch.android.app",
+  "type": "app",
+  "category": "entertainment",
+  "developer": {
+    "name": "Twitch Interactive, Inc.",
+    "slug": "twitch-interactive",
+    "url": "https://www.twitch.tv"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+  "officialUrl": "https://www.twitch.tv/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-21",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+    "changelog": [
+      "Bug fixes, stability fixes and app optimizations."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/twitch/icon.webp",
+  "summary": "The Twitch APK is the Android installer for Twitch, Amazon's live streaming platform for gaming, music, sport and chat. Google Play updated it on November 21, 2026, and the version varies by device. Watching is free with ads; subscriptions, Bits and Turbo are optional ways to support streamers.",
+  "metaDescription": "Twitch APK download for Android: get the official Twitch app from Google Play to watch and stream live, with subs and Bits explained and safety tips.",
+  "primaryKeyword": "twitch apk",
+  "secondaryKeywords": [
+    "twitch apk download",
+    "twitch app for android",
+    "stream on twitch from phone",
+    "twitch not loading",
+    "twitch subscription"
+  ],
+  "alternatives": [
+    "youtube",
+    "discord",
+    "tiktok"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Twitch on Android?",
+      "a": "Open Google Play, search for Twitch and check the developer is Twitch Interactive, Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Twitch Interactive, Inc. and may be altered, so the safest way to use Twitch is the official listing."
+    },
+    {
+      "q": "Can I stream on Twitch from my phone?",
+      "a": "Yes. Tap the Create button in the app to go live with your camera, or stream your screen for mobile games. You need a Twitch account and a stable upload speed."
+    },
+    {
+      "q": "What are Twitch subs and Bits?",
+      "a": "A sub is a monthly subscription to one channel with perks like emotes and fewer ads. Bits are a virtual currency you use to cheer in chat. Both support the streamer and are optional."
+    },
+    {
+      "q": "Why won't Twitch streams load?",
+      "a": "Lower the video quality, check your connection, update the app and clear its cache. Some streams are also limited by region."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
+    "https://www.twitch.tv/"
+  ],
+  "oldUrls": []
+}

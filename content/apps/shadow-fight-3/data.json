@@ -1,0 +1,77 @@
+{
+  "slug": "shadow-fight-3",
+  "name": "Shadow Fight 3 - RPG fighting",
+  "shortName": "Shadow Fight 3",
+  "packageName": "com.nekki.shadowfight3",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "NEKKI",
+    "slug": "nekki",
+    "url": "https://nekki.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3",
+  "officialUrl": "https://nekki.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "1.46.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-06",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3",
+    "changelog": [
+      "Technical improvements and bug fixes."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/shadow-fight-3/icon.webp",
+  "summary": "The Shadow Fight 3 APK is the Android installer for NEKKI's 3D fighting RPG, where you join a faction, master weapons and battle through a story. The latest version is 1.46.2, updated November 6, 2026, and it needs Android 8.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Shadow Fight 3 APK download for Android: get the official NEKKI Shadow Fight 3 1.46.2 from Google Play, with factions, combat tips and gear advice.",
+  "primaryKeyword": "shadow fight 3 apk",
+  "secondaryKeywords": [
+    "shadow fight 3 apk download",
+    "shadow fight 3 for android",
+    "shadow fight 3 factions",
+    "shadow fight 3 tips",
+    "fighting games android"
+  ],
+  "alternatives": [
+    "shadow-fight-2",
+    "mobile-legends",
+    "call-of-duty-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Shadow Fight 3 on Android?",
+      "a": "Open Google Play, search for Shadow Fight 3 and check the developer is NEKKI before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from NEKKI and may be altered, so the safest way to play Shadow Fight 3 is the official listing."
+    },
+    {
+      "q": "Which Shadow Fight 3 faction should I choose?",
+      "a": "Legion focuses on strength and defence, Dynasty on speed and agility, and Heralds on balance and spirit. Pick the style you enjoy; you can try others later in the story."
+    },
+    {
+      "q": "Is Shadow Fight 3 offline?",
+      "a": "No. Shadow Fight 3 needs an internet connection. Shadow Fight 2 is the better pick if you want offline play."
+    },
+    {
+      "q": "How is Shadow Fight 3 different from Shadow Fight 2?",
+      "a": "Shadow Fight 3 has full 3D characters, factions, a longer story and Shadow Form. Shadow Fight 2 keeps the silhouette style and works offline."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nekki.shadowfight3",
+    "https://nekki.com/"
+  ],
+  "oldUrls": []
+}

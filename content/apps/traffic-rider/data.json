@@ -1,0 +1,79 @@
+{
+  "slug": "traffic-rider",
+  "name": "Traffic Rider",
+  "shortName": "Traffic Rider",
+  "packageName": "com.skgames.trafficrider",
+  "type": "game",
+  "category": "racing",
+  "developer": {
+    "name": "skgames",
+    "slug": "skgames",
+    "url": "https://play.google.com/store/apps/developer?id=skgames"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
+  "officialUrl": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.skgames.trafficrider",
+    "changelog": [
+      "Race Mode with weekly League races, Quick Race, Nitro and Tune+ upgrades.",
+      "Mirrors now work.",
+      "Better camera movement and crash effects.",
+      "Rebalanced missions."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/traffic-rider/icon.webp",
+  "summary": "The Traffic Rider APK is the Android installer for Traffic Rider by skgames, a first-person motorbike game where you weave through traffic on highways. Google Play updated it on November 17, 2026, and the version varies by device. Traffic Rider is free with ads and in-app purchases.",
+  "metaDescription": "Traffic Rider APK download for Android: get the official skgames Traffic Rider from Google Play, with the new Race Mode, bike upgrades and riding tips.",
+  "primaryKeyword": "traffic rider apk",
+  "secondaryKeywords": [
+    "traffic rider apk download",
+    "traffic rider game for android",
+    "traffic rider race mode",
+    "traffic rider bikes",
+    "bike racing games"
+  ],
+  "alternatives": [
+    "hill-climb-racing",
+    "asphalt-legends",
+    "indian-bikes-driving-3d"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Traffic Rider on Android?",
+      "a": "Open Google Play, search for Traffic Rider and check the developer is skgames before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from skgames and may be altered, so the safest way to play Traffic Rider is the official listing."
+    },
+    {
+      "q": "What is Race Mode in Traffic Rider?",
+      "a": "Race Mode adds weekly League races where you earn points to climb rankings, Quick Races against rivals, Nitro boosts and Tune+ upgrades bought with Race Credits."
+    },
+    {
+      "q": "How do I earn more money in Traffic Rider?",
+      "a": "Ride fast, overtake cars closely and ride in the opposite lane on two-way roads for bonus points. Completing missions also pays well."
+    },
+    {
+      "q": "Does Traffic Rider work offline?",
+      "a": "Career and Endless modes work offline. Race Mode leagues need a connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.skgames.trafficrider"
+  ],
+  "oldUrls": []
+}

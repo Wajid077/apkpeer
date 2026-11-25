@@ -1,0 +1,79 @@
+{
+  "slug": "wordscapes",
+  "name": "Wordscapes: Word puzzle game",
+  "shortName": "Wordscapes",
+  "packageName": "com.peoplefun.wordcross",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "PeopleFun",
+    "slug": "peoplefun",
+    "url": "https://peoplefun.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross",
+  "officialUrl": "https://peoplefun.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "3.14.51",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross",
+    "changelog": [
+      "Bonus butterflies that land on coin tiles now show on top, and the coins are collected.",
+      "Butterflies caught in a puzzle are kept when you leave a level and come back.",
+      "Stability improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/wordscapes/icon.webp",
+  "summary": "The Wordscapes APK is the Android installer for Wordscapes, PeopleFun's word puzzle game that mixes anagrams and crosswords across thousands of levels. The latest version is 3.14.51, updated November 24, 2026, and it needs Android 7.1 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Wordscapes APK download for Android: get the official Wordscapes 3.14.51 word puzzle from Google Play, with how to play, coin and hint tips, and installs.",
+  "primaryKeyword": "wordscapes apk",
+  "secondaryKeywords": [
+    "wordscapes apk download",
+    "wordscapes for android",
+    "wordscapes tips",
+    "wordscapes daily puzzle",
+    "word puzzle games"
+  ],
+  "alternatives": [
+    "block-blast",
+    "royal-match",
+    "gardenscapes"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Wordscapes on Android?",
+      "a": "Open Google Play, search for Wordscapes and check the developer is PeopleFun before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from PeopleFun and may be altered, so the safest way to play Wordscapes is the official listing."
+    },
+    {
+      "q": "How do I play Wordscapes?",
+      "a": "Swipe across the letters in the wheel to make words that fit the crossword grid. Fill every space to finish the level. Extra valid words go into your bonus jar for coins."
+    },
+    {
+      "q": "How do I get free coins in Wordscapes?",
+      "a": "Find bonus words, complete the Daily Puzzle and events, and collect from the piggy bank or daily rewards. Coins buy hints."
+    },
+    {
+      "q": "Does Wordscapes work offline?",
+      "a": "Yes, most levels work offline. Events, daily rewards and ads need a connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross",
+    "https://peoplefun.com/"
+  ],
+  "oldUrls": []
+}

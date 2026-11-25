@@ -1,0 +1,77 @@
+{
+  "slug": "reddit",
+  "name": "Reddit",
+  "shortName": "Reddit",
+  "packageName": "com.reddit.frontpage",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "reddit Inc.",
+    "slug": "reddit",
+    "url": "https://www.redditinc.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+  "officialUrl": "https://www.reddit.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/reddit/icon.webp",
+  "summary": "The Reddit APK is the Android installer for Reddit, the community platform with thousands of topic forums called subreddits. Google Play updated it on November 17, 2026, and the version varies by device. Reddit is free with ads, rated Mature 17+, and Reddit Premium removes ads.",
+  "metaDescription": "Reddit APK download for Android: get the official Reddit app from Google Play, with subreddit tips, NSFW content settings and fixes when feeds fail.",
+  "primaryKeyword": "reddit apk",
+  "secondaryKeywords": [
+    "reddit apk download",
+    "reddit app for android",
+    "reddit not loading",
+    "reddit nsfw settings",
+    "reddit premium"
+  ],
+  "alternatives": [
+    "x-twitter",
+    "threads",
+    "discord"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Reddit on Android?",
+      "a": "Open Google Play, search for Reddit and check the developer is reddit Inc. before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from reddit Inc. and may be altered, so the safest way to use Reddit is the official listing."
+    },
+    {
+      "q": "Why is Reddit rated Mature 17+?",
+      "a": "Reddit hosts user-created communities, including some with adult content. Mature content is hidden unless you're signed in, confirm your age and turn it on in settings."
+    },
+    {
+      "q": "How do I hide NSFW content on Reddit?",
+      "a": "Open Settings, find Content preferences and turn off Show mature content. Blurring is also available for anything that slips through."
+    },
+    {
+      "q": "Do I need an account to use Reddit?",
+      "a": "No, you can browse many posts without one, but you need an account to vote, comment, join communities and customise your feed."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "https://www.reddit.com/"
+  ],
+  "oldUrls": []
+}

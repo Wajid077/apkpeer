@@ -1,0 +1,78 @@
+{
+  "slug": "gardenscapes",
+  "name": "Gardenscapes",
+  "shortName": "Gardenscapes",
+  "packageName": "com.playrix.gardenscapes",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "Playrix",
+    "slug": "playrix",
+    "url": "https://playrix.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes",
+  "officialUrl": "https://playrix.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "10.0.6",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-09",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes",
+    "changelog": [
+      "Lonely Lighthouse event: help Lisa and Patrick save a ship during a storm.",
+      "Winter Collection card event."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/gardenscapes/icon.webp",
+  "summary": "The Gardenscapes APK is the Android installer for Playrix's match-3 puzzle game, where you beat levels to earn stars and restore a garden with Austin the butler. The latest version is 10.0.6, updated November 9, 2026, and the Android requirement varies by device. It's free with in-app purchases.",
+  "metaDescription": "Gardenscapes APK download for Android: get the official Playrix Gardenscapes 10.0.6 from Google Play, with boosters, events, level tips and installs.",
+  "primaryKeyword": "gardenscapes apk",
+  "secondaryKeywords": [
+    "gardenscapes apk download",
+    "gardenscapes for android",
+    "gardenscapes tips",
+    "gardenscapes boosters",
+    "match 3 games"
+  ],
+  "alternatives": [
+    "homescapes",
+    "royal-match",
+    "candy-crush-saga"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Gardenscapes on Android?",
+      "a": "Open Google Play, search for Gardenscapes and check the developer is Playrix before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Playrix and may be altered, so the safest way to play Gardenscapes is the official listing."
+    },
+    {
+      "q": "How do I earn stars in Gardenscapes?",
+      "a": "Finish match-3 levels. Each level gives a star, and stars pay for garden restoration tasks."
+    },
+    {
+      "q": "Is Gardenscapes the same as Homescapes?",
+      "a": "They're made by Playrix and play the same way, but Gardenscapes focuses on restoring a garden while Homescapes renovates a house."
+    },
+    {
+      "q": "Does Gardenscapes have ads?",
+      "a": "Google Play doesn't label it with ads. It earns money from in-app purchases of coins, lives and boosters."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes",
+    "https://playrix.com/"
+  ],
+  "oldUrls": []
+}

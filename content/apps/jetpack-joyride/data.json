@@ -1,0 +1,77 @@
+{
+  "slug": "jetpack-joyride",
+  "name": "Jetpack Joyride",
+  "shortName": "Jetpack Joyride",
+  "packageName": "com.halfbrick.jetpackjoyride",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "Halfbrick Studios",
+    "slug": "halfbrick",
+    "url": "https://www.halfbrick.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride",
+  "officialUrl": "https://www.halfbrick.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.104.2",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride",
+    "changelog": [
+      "Bug fixes and general improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/jetpack-joyride/icon.webp",
+  "summary": "The Jetpack Joyride APK is the Android installer for Halfbrick's endless runner, where Barry Steakfries flies a jetpack through a secret lab, dodging zappers and missiles. The latest version is 1.104.2, updated October 19, 2026, and it needs Android 7.0 or newer. It's free with ads and purchases.",
+  "metaDescription": "Jetpack Joyride APK download for Android: get the official Jetpack Joyride 1.104.2 from Google Play, with vehicles, missions, coin tips and install steps.",
+  "primaryKeyword": "jetpack joyride apk",
+  "secondaryKeywords": [
+    "jetpack joyride apk download",
+    "jetpack joyride for android",
+    "jetpack joyride vehicles",
+    "jetpack joyride tips",
+    "jetpack joyride missions"
+  ],
+  "alternatives": [
+    "fruit-ninja",
+    "subway-surfers",
+    "temple-run-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Jetpack Joyride on Android?",
+      "a": "Open Google Play, search for Jetpack Joyride and check the developer is Halfbrick Studios before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Halfbrick Studios and may be altered, so the safest way to play Jetpack Joyride is the official listing."
+    },
+    {
+      "q": "Is Jetpack Joyride free?",
+      "a": "Yes. It's free on Google Play with ads and optional purchases. Everything important can be earned with coins from runs."
+    },
+    {
+      "q": "What are the best vehicles in Jetpack Joyride?",
+      "a": "The Strong Arm Machine (S.A.M.) and Lil' Stomper are favourites. Each vehicle acts as an extra life, so any vehicle is worth grabbing."
+    },
+    {
+      "q": "How do I level up fast?",
+      "a": "Complete the three missions you're given, because finishing them raises your rank. Swap hard missions with coins if they block you."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride",
+    "https://www.halfbrick.com/"
+  ],
+  "oldUrls": []
+}

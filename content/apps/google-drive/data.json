@@ -1,0 +1,77 @@
+{
+  "slug": "google-drive",
+  "name": "Google Drive",
+  "shortName": "Google Drive",
+  "packageName": "com.google.android.apps.docs",
+  "type": "app",
+  "category": "productivity",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+  "officialUrl": "https://drive.google.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-11",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+    "changelog": [
+      "Bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-drive/icon.webp",
+  "summary": "The Google Drive APK is the Android installer for Google Drive, Google's cloud storage app for files, photos and documents. It comes with 15 GB free, shared with Gmail and Photos, and optional Google One plans. Google Play updated it on November 11, 2026, and the version varies by device.",
+  "metaDescription": "Google Drive APK download for Android: get the official Drive app from Google Play, with storage plans, offline files, sharing tips and fixes for uploads.",
+  "primaryKeyword": "google drive apk",
+  "secondaryKeywords": [
+    "google drive apk download",
+    "google drive for android",
+    "google drive storage full",
+    "google drive offline",
+    "google drive upload stuck"
+  ],
+  "alternatives": [
+    "google-photos",
+    "gmail",
+    "google-meet"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Google Drive on Android?",
+      "a": "Open Google Play, search for Google Drive and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Google Drive is the official listing."
+    },
+    {
+      "q": "How much free storage does Google Drive give?",
+      "a": "Every Google account gets 15 GB free, shared between Drive, Gmail and Google Photos. Google One plans add more if you need it."
+    },
+    {
+      "q": "Can I use Google Drive files offline?",
+      "a": "Yes. Open a file's three-dot menu and choose Make available offline. Docs, Sheets and Slides can also be edited offline and sync when you reconnect."
+    },
+    {
+      "q": "Why is my Google Drive upload stuck?",
+      "a": "Check your connection and whether Drive is set to upload on Wi-Fi only. Keep the app open for big files, and make sure your storage isn't full."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
+    "https://drive.google.com/"
+  ],
+  "oldUrls": []
+}

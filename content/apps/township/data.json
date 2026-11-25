@@ -1,0 +1,79 @@
+{
+  "slug": "township",
+  "name": "Township",
+  "shortName": "Township",
+  "packageName": "com.playrix.township",
+  "type": "game",
+  "category": "casual",
+  "developer": {
+    "name": "Playrix",
+    "slug": "playrix",
+    "url": "https://playrix.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.township",
+  "officialUrl": "https://playrix.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "40.1.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-13",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.playrix.township",
+    "changelog": [
+      "Holiday card collection with a unique badge.",
+      "Alpine and Christmas Passes in Season Adventures.",
+      "New Christmas regatta season and a new Barista School building."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/township/icon.webp",
+  "summary": "The Township APK is the Android installer for Playrix's farming and town-building game, where you grow crops, run factories and build a busy town. The latest version is 40.1.0, updated November 13, 2026, and the Android requirement varies by device. Township is free with in-app purchases.",
+  "metaDescription": "Township APK download for Android: get the official Playrix Township 40.1.0 from Google Play, with beginner tips, coins and cash explained and installs.",
+  "primaryKeyword": "township apk",
+  "secondaryKeywords": [
+    "township apk download",
+    "township game for android",
+    "township tips",
+    "township cash",
+    "farming games android"
+  ],
+  "alternatives": [
+    "hay-day",
+    "gardenscapes",
+    "homescapes"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Township on Android?",
+      "a": "Open Google Play, search for Township and check the developer is Playrix before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Playrix and may be altered, so the safest way to play Township is the official listing."
+    },
+    {
+      "q": "What is the difference between coins and T-cash in Township?",
+      "a": "Coins come from orders and buy most buildings. T-cash is the premium currency for speeding things up and special items. You earn small amounts of T-cash by levelling up and in events."
+    },
+    {
+      "q": "Is Township like Hay Day?",
+      "a": "They share farming and orders, but Township adds a growing town with factories, a zoo, a mine and community buildings, so there's more building and management."
+    },
+    {
+      "q": "Can I play Township offline?",
+      "a": "Basic farming works offline, but trains, co-ops, events and saving progress need a connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.playrix.township",
+    "https://playrix.com/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "linkedin",
+  "name": "LinkedIn: Community & Network",
+  "shortName": "LinkedIn",
+  "packageName": "com.linkedin.android",
+  "type": "app",
+  "category": "social",
+  "developer": {
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "url": "https://www.linkedin.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.linkedin.android",
+  "officialUrl": "https://www.linkedin.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "10",
+  "latest": {
+    "version": "4.1.1276",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.linkedin.android",
+    "changelog": [
+      "Bug fixes and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/linkedin/icon.webp",
+  "summary": "The LinkedIn APK is the Android installer for LinkedIn, the professional network for jobs, networking and industry news. The latest version is 4.1.1276, updated November 19, 2026, and it needs Android 10 or newer. LinkedIn is free, with optional Premium plans for job seekers and recruiters.",
+  "metaDescription": "LinkedIn APK download for Android: get the official LinkedIn app 4.1.1276 from Google Play, with job search tips, profile advice and Premium explained.",
+  "primaryKeyword": "linkedin apk",
+  "secondaryKeywords": [
+    "linkedin apk download",
+    "linkedin app for android",
+    "linkedin job search",
+    "linkedin premium",
+    "linkedin not working"
+  ],
+  "alternatives": [
+    "x-twitter",
+    "gmail",
+    "zoom"
+  ],
+  "faq": [
+    {
+      "q": "How do I install LinkedIn on Android?",
+      "a": "Open Google Play, search for LinkedIn and check the developer is LinkedIn before tapping Install. It needs Android 10 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from LinkedIn and may be altered, so the safest way to use LinkedIn is the official listing."
+    },
+    {
+      "q": "Is LinkedIn Premium worth it?",
+      "a": "It can help if you're actively job hunting: it shows who viewed your profile, adds InMail messages and gives applicant insights. Try the free trial and cancel if you don't use it."
+    },
+    {
+      "q": "How do I search for jobs on the LinkedIn app?",
+      "a": "Tap Jobs, search by title and location, and turn on job alerts. Easy Apply lets you send your profile and resume in a few taps."
+    },
+    {
+      "q": "Why does LinkedIn need Android 10?",
+      "a": "The current version on Google Play requires Android 10 or newer. On older phones, use linkedin.com in a browser."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.linkedin.android",
+    "https://www.linkedin.com/"
+  ],
+  "oldUrls": []
+}

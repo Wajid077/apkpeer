@@ -1,0 +1,77 @@
+{
+  "slug": "pou",
+  "name": "Pou",
+  "shortName": "Pou",
+  "packageName": "me.pou.app",
+  "type": "game",
+  "category": "casual",
+  "developer": {
+    "name": "Zakeh",
+    "slug": "zakeh",
+    "url": "https://pou.me"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=me.pou.app",
+  "officialUrl": "https://pou.me/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.4.141",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-18",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=me.pou.app",
+    "changelog": [
+      "New items, wallpapers, scenes and outfits, including Halloween and Wizard outfits."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/pou/icon.webp",
+  "summary": "The Pou APK is the Android installer for Pou, Zakeh's virtual pet game where you feed, clean and play with a little alien and decorate its home. The latest version is 1.4.141, updated November 18, 2026, and it needs Android 7.0 or newer. Pou is free with ads and in-app purchases.",
+  "metaDescription": "Pou APK download for Android: get the official Pou 1.4.141 virtual pet game from Google Play, with care tips, coins and mini-games, and parent advice.",
+  "primaryKeyword": "pou apk",
+  "secondaryKeywords": [
+    "pou apk download",
+    "pou game for android",
+    "pou coins",
+    "pou mini games",
+    "pou for kids"
+  ],
+  "alternatives": [
+    "my-talking-tom-2",
+    "hay-day",
+    "township"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Pou on Android?",
+      "a": "Open Google Play, search for Pou and check the developer is Zakeh before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Zakeh and may be altered, so the safest way to play Pou is the official listing."
+    },
+    {
+      "q": "How do I get coins in Pou?",
+      "a": "Play the mini-games in the Game Room. Coins also come from levelling up. You can buy coins, but regular play is enough for food and most items."
+    },
+    {
+      "q": "Is Pou good for kids?",
+      "a": "Pou is rated Everyone and is easy to play. Parents should know it shows ads and sells coins, so turn on purchase authentication in Google Play."
+    },
+    {
+      "q": "Can I save my Pou?",
+      "a": "Yes. Create a Pou account in settings to save progress online and restore it on a new phone."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=me.pou.app",
+    "https://pou.me/"
+  ],
+  "oldUrls": []
+}

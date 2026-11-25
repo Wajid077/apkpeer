@@ -1,0 +1,79 @@
+{
+  "slug": "kinemaster",
+  "name": "KineMaster - AI Video Editor",
+  "shortName": "KineMaster",
+  "packageName": "com.nexstreaming.app.kinemasterfree",
+  "type": "app",
+  "category": "video-editors",
+  "developer": {
+    "name": "KineMaster, Video Editor Experts Group",
+    "slug": "kinemaster",
+    "url": "https://www.kinemaster.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree",
+  "officialUrl": "https://www.kinemaster.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "8.2.19",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-20",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree",
+    "changelog": [
+      "AI template suggestions that match your editing style.",
+      "Select and adjust multiple layers at once.",
+      "Continue On: move a project from phone to tablet (Android 17+)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/kinemaster/icon.webp",
+  "summary": "The KineMaster APK is the Android installer for KineMaster, a multi-layer video editor with chroma key, AI tools, templates and an asset store. The latest version is 8.2.19, updated November 20, 2026, and it needs Android 8.0 or newer. It's free with a watermark; a subscription removes it.",
+  "metaDescription": "KineMaster APK download for Android: get the official KineMaster 8.2.19 video editor from Google Play, with layers, chroma key, watermark facts and fixes.",
+  "primaryKeyword": "kinemaster apk",
+  "secondaryKeywords": [
+    "kinemaster apk download",
+    "kinemaster for android",
+    "kinemaster watermark",
+    "kinemaster chroma key",
+    "kinemaster vs capcut"
+  ],
+  "alternatives": [
+    "capcut",
+    "vn-video-editor",
+    "inshot"
+  ],
+  "faq": [
+    {
+      "q": "How do I install KineMaster on Android?",
+      "a": "Open Google Play, search for KineMaster and check the developer is KineMaster, Video Editor Experts Group before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from KineMaster, Video Editor Experts Group and may be altered, so the safest way to use KineMaster is the official listing."
+    },
+    {
+      "q": "How do I remove the KineMaster watermark?",
+      "a": "Subscribe to KineMaster's paid plan. Unofficial APKs that claim to remove it are unsafe and may contain malware."
+    },
+    {
+      "q": "Does KineMaster have green screen?",
+      "a": "Yes. Add a video layer, open Chroma Key, and choose the colour to remove. It works best with even lighting on a plain green or blue background."
+    },
+    {
+      "q": "KineMaster vs CapCut: which should I use?",
+      "a": "CapCut is free without a watermark and great for short-form templates. KineMaster gives more control over layers and a large asset store, but the free version adds a watermark."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree",
+    "https://www.kinemaster.com/"
+  ],
+  "oldUrls": []
+}

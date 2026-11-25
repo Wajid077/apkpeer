@@ -1,0 +1,77 @@
+{
+  "slug": "viber",
+  "name": "Rakuten Viber Messenger",
+  "shortName": "Viber",
+  "packageName": "com.viber.voip",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Viber Media",
+    "slug": "viber-media",
+    "url": "https://www.viber.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.viber.voip",
+  "officialUrl": "https://www.viber.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.viber.voip",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/viber/icon.webp",
+  "summary": "The Viber APK is the Android installer for Rakuten Viber Messenger, a free calling and messaging app with encrypted chats, group calls, communities and stickers. Google Play updated it on November 17, 2026, and the version varies by device. Viber is free; Viber Out calls to regular numbers cost extra.",
+  "metaDescription": "Viber APK download for Android: get the official Rakuten Viber Messenger from Google Play, with free calls, encryption, Viber Out explained and sync fixes.",
+  "primaryKeyword": "viber apk",
+  "secondaryKeywords": [
+    "viber apk download",
+    "viber for android",
+    "viber out calls",
+    "viber backup",
+    "viber not working"
+  ],
+  "alternatives": [
+    "whatsapp",
+    "telegram",
+    "signal"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Viber on Android?",
+      "a": "Open Google Play, search for Viber and check the developer is Viber Media before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Viber Media and may be altered, so the safest way to use Viber is the official listing."
+    },
+    {
+      "q": "Are Viber calls free?",
+      "a": "Calls and messages between Viber users are free over Wi-Fi or mobile data. Viber Out lets you call regular phone numbers for a fee."
+    },
+    {
+      "q": "Is Viber encrypted?",
+      "a": "Yes. One-to-one and group chats and calls between Viber users are end-to-end encrypted by default."
+    },
+    {
+      "q": "How do I back up Viber chats?",
+      "a": "Go to Settings → Account → Viber backup and connect your Google account. Backups go to Google Drive and restore when you set up Viber on a new phone."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.viber.voip",
+    "https://www.viber.com/"
+  ],
+  "oldUrls": []
+}

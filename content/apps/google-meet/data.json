@@ -1,0 +1,77 @@
+{
+  "slug": "google-meet",
+  "name": "Google Meet",
+  "shortName": "Google Meet",
+  "packageName": "com.google.android.apps.tachyon",
+  "type": "app",
+  "category": "communication",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon",
+  "officialUrl": "https://meet.google.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-11",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon",
+    "changelog": [
+      "Premium features such as AI note-taking and real-time speech-to-speech translation."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-meet/icon.webp",
+  "summary": "The Google Meet APK is the Android installer for Google Meet, Google's video calling and meeting app, which also replaced Google Duo. Google Play updated it on November 11, 2026, and the version varies by device. Meet is free for one-to-one and group calls, with longer meetings on paid Google plans.",
+  "metaDescription": "Google Meet APK download for Android: get the official Meet app from Google Play for video calls and meetings, with time limits, call tips and audio fixes.",
+  "primaryKeyword": "google meet apk",
+  "secondaryKeywords": [
+    "google meet apk download",
+    "google meet for android",
+    "google meet time limit",
+    "google meet vs zoom",
+    "google meet not working"
+  ],
+  "alternatives": [
+    "zoom",
+    "whatsapp",
+    "gmail"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Google Meet on Android?",
+      "a": "Open Google Play, search for Google Meet and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Google Meet is the official listing."
+    },
+    {
+      "q": "Is Google Meet free?",
+      "a": "Yes. With a free Google account, one-to-one calls can run for up to 24 hours and group meetings for up to 60 minutes. Google Workspace and Google One plans add longer meetings and recording."
+    },
+    {
+      "q": "Is Google Meet the same as Google Duo?",
+      "a": "Yes. Google merged Duo into Meet, so the Meet app handles both personal video calls and scheduled meetings."
+    },
+    {
+      "q": "Can I join a Google Meet without the app?",
+      "a": "Yes. Open the meeting link in Chrome or another browser, or join from the Gmail app's Meet tab if your Gmail shows it."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon",
+    "https://meet.google.com/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "hungry-shark-evolution",
+  "name": "Hungry Shark Evolution",
+  "shortName": "Hungry Shark Evolution",
+  "packageName": "com.fgol.HungrySharkEvolution",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Ubisoft Entertainment",
+    "slug": "ubisoft",
+    "url": "https://www.ubisoft.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+  "officialUrl": "https://www.ubisoft.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "14.6.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-13",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+    "changelog": [
+      "Horde of the Damned event: 10 waves of Halloween-themed dangers.",
+      "Event currency to unlock Demon Sharks, pets and gems."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/hungry-shark-evolution/icon.webp",
+  "summary": "The Hungry Shark Evolution APK is the Android installer for Ubisoft's arcade game where you control a shark, eat everything in sight and unlock bigger sharks. The latest version is 14.6.0, updated October 13, 2026, and it needs Android 6.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Hungry Shark Evolution APK download for Android: get the official Ubisoft game 14.6.0 from Google Play, with shark unlocks, tips and new events.",
+  "primaryKeyword": "hungry shark evolution apk",
+  "secondaryKeywords": [
+    "hungry shark evolution apk download",
+    "hungry shark for android",
+    "hungry shark tips",
+    "hungry shark gems",
+    "shark games"
+  ],
+  "alternatives": [
+    "jetpack-joyride",
+    "subway-surfers",
+    "angry-birds-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Hungry Shark Evolution on Android?",
+      "a": "Open Google Play, search for Hungry Shark Evolution and check the developer is Ubisoft Entertainment before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Ubisoft Entertainment and may be altered, so the safest way to play Hungry Shark Evolution is the official listing."
+    },
+    {
+      "q": "How do I unlock new sharks in Hungry Shark Evolution?",
+      "a": "Level your current shark by eating and surviving, then buy the next shark with coins. Some special sharks need gems or come from events."
+    },
+    {
+      "q": "What is Gold Rush?",
+      "a": "Eating gold creatures fills a meter. When it's full, Gold Rush makes your shark invincible for a short time and boosts points."
+    },
+    {
+      "q": "Does Hungry Shark Evolution work offline?",
+      "a": "Yes, the main game works offline. Events, daily rewards and ads need a connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
+    "https://www.ubisoft.com/"
+  ],
+  "oldUrls": []
+}

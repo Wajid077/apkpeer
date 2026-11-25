@@ -1,0 +1,78 @@
+{
+  "slug": "fruit-ninja",
+  "name": "Fruit Ninja®",
+  "shortName": "Fruit Ninja",
+  "packageName": "com.halfbrick.fruitninjafree",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "Halfbrick Studios",
+    "slug": "halfbrick",
+    "url": "https://www.halfbrick.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
+  "officialUrl": "https://www.halfbrick.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "3.98.4",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-18",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
+    "changelog": [
+      "New PAC-MAN Game Theme with four PAC-MAN Blades, four Dojos and a new collection system.",
+      "Four new events to level up blades and unlock PAC-MAN Avatars."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/fruit-ninja/icon.webp",
+  "summary": "The Fruit Ninja APK is the Android installer for Halfbrick's classic slicing game, where you swipe to cut fruit and avoid bombs. The latest version is 3.98.4, updated November 18, 2026, and it needs Android 6.0 or newer. Fruit Ninja is free with ads and in-app purchases.",
+  "metaDescription": "Fruit Ninja APK download for Android: get the official Fruit Ninja 3.98.4 from Google Play, with game modes, blades, high-score tips and safe install steps.",
+  "primaryKeyword": "fruit ninja apk",
+  "secondaryKeywords": [
+    "fruit ninja apk download",
+    "fruit ninja for android",
+    "fruit ninja game modes",
+    "fruit ninja blades",
+    "fruit ninja tips"
+  ],
+  "alternatives": [
+    "jetpack-joyride",
+    "subway-surfers",
+    "temple-run-2"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Fruit Ninja on Android?",
+      "a": "Open Google Play, search for Fruit Ninja and check the developer is Halfbrick Studios before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Halfbrick Studios and may be altered, so the safest way to play Fruit Ninja is the official listing."
+    },
+    {
+      "q": "What are the Fruit Ninja game modes?",
+      "a": "Classic (three misses and you're out), Arcade (a 60-second score attack with bonus bananas) and Zen (90 seconds, no bombs). Events and battle modes rotate too."
+    },
+    {
+      "q": "Is Fruit Ninja free?",
+      "a": "Yes. It's free on Google Play with ads and optional purchases for blades, dojos and starfruit."
+    },
+    {
+      "q": "How do I get a high score in Fruit Ninja?",
+      "a": "Slice three or more fruit in one swipe for combos, save fruit for big combos instead of slicing one at a time, and in Arcade, prioritise the Frenzy and Double Score bananas."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree",
+    "https://www.halfbrick.com/"
+  ],
+  "oldUrls": []
+}

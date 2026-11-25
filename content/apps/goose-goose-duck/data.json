@@ -1,0 +1,79 @@
+{
+  "slug": "goose-goose-duck",
+  "name": "Goose Goose Duck",
+  "shortName": "Goose Goose Duck",
+  "packageName": "com.Gaggle.fun.GooseGooseDuck",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Gaggle Studios, Inc.",
+    "slug": "gaggle-studios",
+    "url": "https://gaggle.fun"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck",
+  "officialUrl": "https://gaggle.fun/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "4.12.01",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-03",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck",
+    "changelog": [
+      "v4.12 Trick or Treat: the Wereduck, a new Trick or Treat monster, plus a new monster draft.",
+      "Draft Mode interface update, bug fixes and optimisations."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/goose-goose-duck/icon.webp",
+  "summary": "The Goose Goose Duck APK is the official Android installer for Gaggle Studios' social deduction game, where geese complete tasks while hidden ducks try to stop them. The latest version is 4.12.01, updated October 3, 2026, and it needs Android 6.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "Goose Goose Duck APK download for Android: get Goose Goose Duck 4.12.01 from Google Play, with roles explained, Among Us comparison and install steps.",
+  "primaryKeyword": "goose goose duck apk",
+  "secondaryKeywords": [
+    "goose goose duck apk download",
+    "goose goose duck for android",
+    "goose goose duck mobile",
+    "is goose goose duck safe for kids",
+    "goose goose duck vs among us",
+    "goose goose duck roles"
+  ],
+  "alternatives": [
+    "among-us",
+    "roblox",
+    "stumble-guys"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Goose Goose Duck on Android?",
+      "a": "Open Google Play, search for Goose Goose Duck and check the developer is Gaggle Studios, Inc. before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Gaggle Studios, Inc. and may be altered, so the safest way to play Goose Goose Duck is the official listing."
+    },
+    {
+      "q": "Is Goose Goose Duck on mobile?",
+      "a": "Yes. Goose Goose Duck is available on Android through Google Play and on iPhone, with cross-play with PC players."
+    },
+    {
+      "q": "Is Goose Goose Duck safe for kids?",
+      "a": "Google Play rates it Teen for violence, blood and crude humour. It has built-in voice chat with strangers, so younger players should use private lobbies or mute voice chat."
+    },
+    {
+      "q": "Goose Goose Duck vs Among Us: what's the difference?",
+      "a": "Both are social deduction games. Goose Goose Duck has many more roles, built-in proximity voice chat and frequent new modes; Among Us is simpler and easier for beginners."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.Gaggle.fun.GooseGooseDuck",
+    "https://gaggle.fun/"
+  ],
+  "oldUrls": []
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "honor-of-kings",
+  "name": "Honor of Kings",
+  "shortName": "Honor of Kings",
+  "packageName": "com.levelinfinite.sgameGlobal",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Level Infinite",
+    "slug": "level-infinite",
+    "url": "https://www.pubgmobile.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
+  "officialUrl": "https://www.honorofkings.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "5.1",
+  "latest": {
+    "version": "12.1.1.9",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-16",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
+    "changelog": [
+      "New Heavenly Wish skins.",
+      "Hero balance: mechanics upgraded for Butterfly, Dr Bian and Haya; stats buffed for Dunshan, Han Xin, Zhang Fei and Luban No.7."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/honor-of-kings/icon.webp",
+  "summary": "The Honor of Kings APK is the official Android installer for the global version of Honor of Kings, a 5v5 MOBA published by Level Infinite. The latest version is 12.1.1.9, updated November 16, 2026, and it needs Android 5.1 or newer. It's free to play, with skins and passes sold in-game.",
+  "metaDescription": "Honor of Kings APK download for Android: get Honor of Kings 12.1.1.9 from Google Play, with roles, hero balance changes, beginner tips and install steps.",
+  "primaryKeyword": "honor of kings apk",
+  "secondaryKeywords": [
+    "honor of kings apk download",
+    "honor of kings for android",
+    "honor of kings global",
+    "is honor of kings safe",
+    "honor of kings vs mobile legends",
+    "honor of kings not loading"
+  ],
+  "alternatives": [
+    "mobile-legends",
+    "brawl-stars",
+    "clash-royale"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Honor of Kings on Android?",
+      "a": "Open Google Play, search for Honor of Kings and check the developer is Level Infinite before tapping Install. It needs Android 5.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Level Infinite and may be altered, so the safest way to play Honor of Kings is the official listing."
+    },
+    {
+      "q": "Is Honor of Kings safe?",
+      "a": "Yes, the official game from Google Play, published by Level Infinite, is safe. Only top up through the in-game store or Google Play, and avoid third-party sites and altered APKs that ask for your login."
+    },
+    {
+      "q": "Honor of Kings vs Mobile Legends: which is better?",
+      "a": "Both are 5v5 mobile MOBAs. Honor of Kings is famous for polished heroes and visuals and huge popularity in China; Mobile Legends is very popular in Southeast Asia with fast matches. Try both."
+    },
+    {
+      "q": "Why is Honor of Kings not loading?",
+      "a": "Check your connection and storage space, update the game, and download the resource packs inside the game on Wi-Fi. Restarting the phone often fixes stuck loading screens."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal",
+    "https://www.honorofkings.com/"
+  ],
+  "oldUrls": []
+}

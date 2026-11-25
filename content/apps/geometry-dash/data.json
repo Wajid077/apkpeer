@@ -1,0 +1,80 @@
+{
+  "slug": "geometry-dash",
+  "name": "Geometry Dash",
+  "shortName": "Geometry Dash",
+  "packageName": "com.robtopx.geometryjump",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "RobTop Games",
+    "slug": "robtop-games",
+    "url": "https://www.robtopgames.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjump",
+  "officialUrl": "https://www.robtopgames.com/",
+  "price": "$3.99",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "2.2.145",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjump",
+    "changelog": [
+      "Platformer saving, death tracking and death markers.",
+      "Editor sounds and packs, import and export of editor levels, auto-save and auto-backup.",
+      "Custom platformer controls and a start position switcher."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/geometry-dash/icon.webp",
+  "summary": "The Geometry Dash APK is the official Android version of RobTop Games' full rhythm platformer, with every official level, the level editor and online community levels. The latest version is 2.2.145, updated October 19, 2026, and it needs Android 6.0 or newer. It costs $3.99 on Google Play, with no ads.",
+  "metaDescription": "Geometry Dash APK download for Android: get the full Geometry Dash 2.2.145 from Google Play ($3.99), with the level editor, tips and Lite vs full.",
+  "primaryKeyword": "geometry dash apk",
+  "secondaryKeywords": [
+    "geometry dash apk download",
+    "geometry dash for android",
+    "geometry dash full version",
+    "is geometry dash safe",
+    "geometry dash vs geometry dash lite",
+    "geometry dash level editor"
+  ],
+  "alternatives": [
+    "geometry-dash-lite",
+    "subway-surfers",
+    "sonic-dash"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Geometry Dash on Android?",
+      "a": "Open Google Play, search for Geometry Dash and check the developer is RobTop Games before tapping the price button. It needs Android 6.0 or newer. It costs $3.99 on Google Play, and once bought it's tied to your Google account, so you can reinstall it on any phone for free. Avoid copies from other sites: they aren't from RobTop Games and may be altered, so the safest way to play Geometry Dash is the official listing."
+    },
+    {
+      "q": "How much is Geometry Dash on Android?",
+      "a": "Geometry Dash costs $3.99 on Google Play in the US, as a one-time purchase with no ads. The free Geometry Dash Lite has fewer levels and no level editor."
+    },
+    {
+      "q": "Is Geometry Dash safe for 7-year-olds?",
+      "a": "Geometry Dash is rated Everyone 10+ for fantasy violence and mild blood. Online levels and comments are made by other players, so younger children may need supervision."
+    },
+    {
+      "q": "What's the difference between Geometry Dash and Geometry Dash Lite?",
+      "a": "Lite is the free demo with a handful of levels and ads. The full game adds every official level, the level editor, online levels made by players, and no ads."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.robtopx.geometryjump",
+    "https://www.robtopgames.com/"
+  ],
+  "oldUrls": []
+}

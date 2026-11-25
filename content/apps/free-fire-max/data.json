@@ -1,0 +1,79 @@
+{
+  "slug": "free-fire-max",
+  "name": "Free Fire MAX: Storm Arena",
+  "shortName": "Free Fire MAX",
+  "packageName": "com.dts.freefiremax",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "Garena International",
+    "slug": "garena",
+    "url": "https://ff.garena.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+  "officialUrl": "https://ff.garena.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "2.132.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-09-10",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+    "changelog": [
+      "BR Storm Makeover: Storm Arena brings new visuals and team banners in the sky.",
+      "Storm Weapons and MVP Squads: Storm Weapon eliminations grant highlight effects and buffs, and top squads earn special airdrops."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/free-fire-max/icon.webp",
+  "summary": "The Free Fire MAX APK is the official Android installer for Garena's high-graphics version of Free Fire, with better visuals and effects for stronger phones. The latest version is 2.132.1, the Storm Arena season, and Play lists Android 5.0 or newer. It's free to play and shares accounts and matches with Free Fire.",
+  "metaDescription": "Free Fire MAX APK download for Android: get the official Free Fire MAX 2.132.1 from Google Play, with MAX vs Free Fire, tips and install steps.",
+  "primaryKeyword": "free fire max apk",
+  "secondaryKeywords": [
+    "free fire max apk download",
+    "free fire max for android",
+    "free fire max game",
+    "is free fire max safe",
+    "free fire max vs free fire",
+    "free fire max not opening"
+  ],
+  "alternatives": [
+    "free-fire",
+    "pubg-mobile",
+    "call-of-duty-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Free Fire MAX on Android?",
+      "a": "Open Google Play, search for Free Fire MAX and check the developer is Garena International before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Garena International and may be altered, so the safest way to play Free Fire MAX is the official listing."
+    },
+    {
+      "q": "What's the difference between Free Fire MAX and Free Fire?",
+      "a": "Both are Garena games that share the same account, progress and matches. Free Fire MAX has higher-quality graphics, effects and sound for stronger phones, while Free Fire is lighter and runs on low-cost phones."
+    },
+    {
+      "q": "Is Free Fire MAX safe?",
+      "a": "Yes, the official game from Google Play, published by Garena, is safe. Avoid sites offering free diamonds or altered Free Fire MAX APKs: they steal accounts and lead to bans."
+    },
+    {
+      "q": "Why is Free Fire MAX not opening?",
+      "a": "Check you have enough free storage for the game's resources, update it from Google Play, clear its cache and restart the phone. Free Fire MAX needs a stronger phone than Free Fire; if it struggles, try Free Fire instead."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
+    "https://ff.garena.com/"
+  ],
+  "oldUrls": []
+}

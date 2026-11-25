@@ -1,0 +1,79 @@
+{
+  "slug": "uno",
+  "name": "UNO!™",
+  "shortName": "UNO!",
+  "packageName": "com.matteljv.uno",
+  "type": "game",
+  "category": "card",
+  "developer": {
+    "name": "Mattel Game Studios HK Limited",
+    "slug": "mattel-game-studios",
+    "url": "https://www.mattel163.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.matteljv.uno",
+  "officialUrl": "https://www.mattel163.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "6.0",
+  "latest": {
+    "version": "1.18.7042",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.matteljv.uno",
+    "changelog": [
+      "Thanksgiving Day Baking Partners event (Nov 23 to 29): team up and earn a limited holiday frame.",
+      "A Black Friday event (Nov 23 to 29) with collectible stamps and rewards."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/uno/icon.webp",
+  "summary": "The UNO! APK is the official Android installer for Mattel's UNO! card game, where you match colours and numbers and play online with friends or players worldwide. The latest version is 1.18.7042, updated November 17, 2026, and it needs Android 6.0 or newer. It's free with ads and in-app purchases.",
+  "metaDescription": "UNO! APK download for Android: get the official UNO! 1.18.7042 from Google Play, with how to play online with friends, house rules and install steps.",
+  "primaryKeyword": "uno apk",
+  "secondaryKeywords": [
+    "uno apk download",
+    "uno for android",
+    "uno game",
+    "is uno safe for kids",
+    "uno online with friends",
+    "uno offline"
+  ],
+  "alternatives": [
+    "ludo-king",
+    "carrom-pool",
+    "8-ball-pool"
+  ],
+  "faq": [
+    {
+      "q": "How do I install UNO! on Android?",
+      "a": "Open Google Play, search for UNO! and check the developer is Mattel Game Studios HK Limited before tapping Install. It needs Android 6.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Mattel Game Studios HK Limited and may be altered, so the safest way to play UNO! is the official listing."
+    },
+    {
+      "q": "Is the UNO! app safe for kids?",
+      "a": "UNO! is rated Everyone. It includes online play with strangers and quick chat, so younger children should play in private rooms with friends and family."
+    },
+    {
+      "q": "Can I play UNO! with friends online?",
+      "a": "Yes. Create a private room in UNO! and invite friends, or team up in 2v2 mode."
+    },
+    {
+      "q": "Can I play UNO! offline?",
+      "a": "The UNO! app is mainly an online game. Some modes need a connection for matchmaking and events."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.matteljv.uno",
+    "https://www.mattel163.com/"
+  ],
+  "oldUrls": []
+}

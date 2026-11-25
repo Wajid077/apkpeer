@@ -1,0 +1,81 @@
+{
+  "slug": "hill-climb-racing-2",
+  "name": "Hill Climb Racing 2",
+  "shortName": "Hill Climb Racing 2",
+  "packageName": "com.fingersoft.hcr2",
+  "type": "game",
+  "category": "racing",
+  "developer": {
+    "name": "Fingersoft",
+    "slug": "fingersoft",
+    "url": "https://www.fingersoft.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2",
+  "officialUrl": "https://www.fingersoft.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.76.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-05",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2",
+    "changelog": [
+      "10-year anniversary update.",
+      "The Climb: a roguelike deck-building challenge.",
+      "The Great Below: floating underground tracks.",
+      "The Deep Caverns Cup."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/hill-climb-racing-2/icon.webp",
+  "summary": "The Hill Climb Racing 2 APK is the official Android installer for Fingersoft's physics-based driving game with online cups, vehicle tuning and adventure tracks. The latest version is 1.76.1, updated November 5, 2026, the 10-year anniversary update, and it needs Android 7.0 or newer. It's free with ads.",
+  "metaDescription": "Hill Climb Racing 2 APK download for Android: get HCR2 1.76.1 (10-year anniversary) from Google Play, with tuning tips, cups and install steps.",
+  "primaryKeyword": "hill climb racing 2 apk",
+  "secondaryKeywords": [
+    "hill climb racing 2 apk download",
+    "hill climb racing 2 for android",
+    "hcr2",
+    "is hill climb racing 2 online",
+    "hill climb racing 2 tips",
+    "hill climb racing 2 not connecting"
+  ],
+  "alternatives": [
+    "hill-climb-racing",
+    "car-parking-multiplayer",
+    "asphalt-legends"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Hill Climb Racing 2 on Android?",
+      "a": "Open Google Play, search for Hill Climb Racing 2 and check the developer is Fingersoft before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Fingersoft and may be altered, so the safest way to play Hill Climb Racing 2 is the official listing."
+    },
+    {
+      "q": "Is Hill Climb Racing 2 online?",
+      "a": "Cups, team events and leaderboards are online and need a connection. Adventure mode can be played offline, but progress syncs when you reconnect."
+    },
+    {
+      "q": "Is Hill Climb Racing 2 multiplayer?",
+      "a": "Yes, in an asynchronous way: in cups you race against recordings of other players' runs, and teams compete together in events."
+    },
+    {
+      "q": "What's new in the anniversary update?",
+      "a": "The 10-year anniversary update adds The Climb, a roguelike deck-building challenge, The Great Below with floating underground tracks, and The Deep Caverns Cup."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2",
+    "https://www.fingersoft.com/"
+  ],
+  "oldUrls": []
+}

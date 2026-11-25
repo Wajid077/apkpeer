@@ -1,0 +1,79 @@
+{
+  "slug": "candy-crush-soda-saga",
+  "name": "Candy Crush Soda Saga",
+  "shortName": "Candy Crush Soda",
+  "packageName": "com.king.candycrushsodasaga",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "King",
+    "slug": "king",
+    "url": "https://candycrush.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga",
+  "officialUrl": "https://www.king.com/game/candycrushsoda",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "1.332.6",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-20",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga",
+    "changelog": [
+      "New fizzy episodes to explore.",
+      "New sticky levels."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/candy-crush-soda-saga/icon.webp",
+  "summary": "The Candy Crush Soda APK is the official Android installer for Candy Crush Soda Saga, King's match-3 sequel with soda bottles, bubbles and new candy types. The latest version is 1.332.6, updated November 20, 2026, and it needs Android 7.0 or newer. It's free to play, with ads and in-app purchases.",
+  "metaDescription": "Candy Crush Soda APK download for Android: get Candy Crush Soda Saga 1.332.6 from Google Play, with level tips, Soda vs original, and install steps.",
+  "primaryKeyword": "candy crush soda apk",
+  "secondaryKeywords": [
+    "candy crush soda apk download",
+    "candy crush soda saga for android",
+    "candy crush soda game",
+    "is candy crush soda safe",
+    "candy crush soda vs candy crush",
+    "candy crush soda not loading"
+  ],
+  "alternatives": [
+    "candy-crush-saga",
+    "royal-match",
+    "homescapes"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Candy Crush Soda on Android?",
+      "a": "Open Google Play, search for Candy Crush Soda and check the developer is King before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from King and may be altered, so the safest way to play Candy Crush Soda is the official listing."
+    },
+    {
+      "q": "Candy Crush Soda vs Candy Crush Saga: what's different?",
+      "a": "Soda Saga adds soda bottles that raise the soda level, bubble bears, frosting and new special candies like the fish and coloring candy. Candy Crush Saga is the original with the most levels."
+    },
+    {
+      "q": "Is Candy Crush Soda safe for kids?",
+      "a": "Yes. It's rated Everyone and has no chat with strangers. It shows ads and sells boosters, so turn on Google Play's purchase authentication for children."
+    },
+    {
+      "q": "Why is Candy Crush Soda not loading?",
+      "a": "Check your connection, update the game from Google Play, and restart the phone. Connection errors usually clear after an update or a network switch."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga",
+    "https://www.king.com/game/candycrushsoda"
+  ],
+  "oldUrls": []
+}

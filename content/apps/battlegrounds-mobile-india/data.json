@@ -1,0 +1,79 @@
+{
+  "slug": "battlegrounds-mobile-india",
+  "name": "BGMI: FPS Battle Royale",
+  "shortName": "BGMI",
+  "packageName": "com.pubg.imobile",
+  "type": "game",
+  "category": "action",
+  "developer": {
+    "name": "KRAFTON, Inc.",
+    "slug": "krafton",
+    "url": "https://realcricket.krafton.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pubg.imobile",
+  "officialUrl": "https://www.battlegroundsmobileindia.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "5.0",
+  "latest": {
+    "version": "4.7.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-09",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.pubg.imobile&gl=IN",
+    "changelog": [
+      "Arctic Chronicles theme mode.",
+      "New Royale Pass."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/battlegrounds-mobile-india/icon.webp",
+  "summary": "The BGMI APK is the official Android installer for Battlegrounds Mobile India, KRAFTON's battle royale made for players in India. The latest version is 4.7.0, updated November 9, 2026, with the Arctic Chronicles mode and a new Royale Pass, and it needs Android 5.0 or newer. It's free to play.",
+  "metaDescription": "BGMI APK download for Android: get Battlegrounds Mobile India 4.7.0 from Google Play, with Arctic Chronicles, safety tips, BGMI vs PUBG and install steps.",
+  "primaryKeyword": "bgmi apk",
+  "secondaryKeywords": [
+    "bgmi apk download",
+    "battlegrounds mobile india",
+    "bgmi for android",
+    "is bgmi safe",
+    "bgmi vs pubg mobile",
+    "bgmi not working"
+  ],
+  "alternatives": [
+    "pubg-mobile",
+    "free-fire",
+    "call-of-duty-mobile"
+  ],
+  "faq": [
+    {
+      "q": "How do I install BGMI on Android?",
+      "a": "Open Google Play, search for BGMI and check the developer is KRAFTON, Inc. before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from KRAFTON, Inc. and may be altered, so the safest way to play BGMI is the official listing."
+    },
+    {
+      "q": "Is BGMI safe?",
+      "a": "Yes, the official BGMI from Google Play, published by KRAFTON, is safe. It's rated 12+ in India. Avoid free UC sites and altered APKs, which steal accounts and lead to bans."
+    },
+    {
+      "q": "BGMI vs PUBG Mobile: what's the difference?",
+      "a": "BGMI is KRAFTON's version made for India, with its own servers, events and accounts. PUBG Mobile is the global version and isn't available in India."
+    },
+    {
+      "q": "Why is BGMI not working?",
+      "a": "Check your connection, update the game from Google Play, and download required resource packs. BGMI is only available in India, so it may not work properly elsewhere."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.pubg.imobile",
+    "https://www.battlegroundsmobileindia.com/"
+  ],
+  "oldUrls": []
+}

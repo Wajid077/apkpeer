@@ -1,0 +1,79 @@
+{
+  "slug": "homescapes",
+  "name": "Homescapes",
+  "shortName": "Homescapes",
+  "packageName": "com.playrix.homescapes",
+  "type": "game",
+  "category": "puzzle",
+  "developer": {
+    "name": "Playrix",
+    "slug": "playrix",
+    "url": "https://playrix.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.playrix.homescapes",
+  "officialUrl": "https://playrix.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "9.3.100",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-16",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.playrix.homescapes",
+    "changelog": [
+      "Lost in the Sands event: help Rachel find an ancient desert city, escape dangerous ruins and survive a sandstorm for rewards.",
+      "The Two Halves story continues."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/homescapes/icon.webp",
+  "summary": "The Homescapes APK is the official Android installer for Playrix's game where you solve match-3 puzzles to renovate a family mansion with Austin the butler. The latest version is 9.3.100, updated November 16, 2026. It's free to play with in-app purchases, and Google Play shows no ads label.",
+  "metaDescription": "Homescapes APK download for Android: get Homescapes 9.3.100 from Google Play, with the Lost in the Sands event, puzzle tips and install steps.",
+  "primaryKeyword": "homescapes apk",
+  "secondaryKeywords": [
+    "homescapes apk download",
+    "homescapes for android",
+    "homescapes game",
+    "is homescapes safe for kids",
+    "homescapes vs gardenscapes",
+    "homescapes not working"
+  ],
+  "alternatives": [
+    "royal-match",
+    "candy-crush-saga",
+    "candy-crush-soda-saga"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Homescapes on Android?",
+      "a": "Open Google Play, search for Homescapes and check the developer is Playrix before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Playrix and may be altered, so the safest way to play Homescapes is the official listing."
+    },
+    {
+      "q": "Is Homescapes safe for kids?",
+      "a": "Yes. Homescapes is rated Everyone with mild fantasy violence and has no open chat. It sells coins and boosters, so turn on purchase authentication for children."
+    },
+    {
+      "q": "Homescapes or Gardenscapes: which is better?",
+      "a": "Both are Playrix match-3 games. Homescapes is about renovating a house with Austin the butler; Gardenscapes is about restoring a garden. The puzzles play almost the same, so pick the setting you prefer."
+    },
+    {
+      "q": "Why is Homescapes not working after an update?",
+      "a": "Restart your phone, make sure there's enough free storage, and update Google Play services. If it still crashes, clear the game's cache; your progress is saved if your account is connected."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.playrix.homescapes",
+    "https://playrix.com/"
+  ],
+  "oldUrls": []
+}

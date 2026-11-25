@@ -1,0 +1,78 @@
+{
+  "slug": "sonic-dash",
+  "name": "Sonic Dash Run",
+  "shortName": "Sonic Dash",
+  "packageName": "com.sega.sonicdash",
+  "type": "game",
+  "category": "arcade",
+  "developer": {
+    "name": "SEGA",
+    "slug": "sega",
+    "url": "https://www.sega.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
+  "officialUrl": "https://www.sega.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.1",
+  "latest": {
+    "version": "10.8.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-18",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
+    "changelog": [
+      "New legendary character: Riders Metal Sonic."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/sonic-dash/icon.webp",
+  "summary": "The Sonic Dash APK is the official Android installer for SEGA's endless runner, now listed as Sonic Dash Run, where you race as Sonic and friends, collect rings and fight bosses. The latest version is 10.8.0, updated November 18, 2026, and it needs Android 7.1 or newer. It's free with ads.",
+  "metaDescription": "Sonic Dash APK download for Android: get SEGA's Sonic Dash Run 10.8.0 from Google Play, with Riders Metal Sonic, runner tips and install steps.",
+  "primaryKeyword": "sonic dash apk",
+  "secondaryKeywords": [
+    "sonic dash apk download",
+    "sonic dash for android",
+    "sonic dash run",
+    "is sonic dash safe for kids",
+    "sonic dash vs subway surfers",
+    "sonic dash not loading"
+  ],
+  "alternatives": [
+    "subway-surfers",
+    "temple-run-2",
+    "geometry-dash"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Sonic Dash on Android?",
+      "a": "Open Google Play, search for Sonic Dash and check the developer is SEGA before tapping Install. It needs Android 7.1 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from SEGA and may be altered, so the safest way to play Sonic Dash is the official listing."
+    },
+    {
+      "q": "Is Sonic Dash safe for kids?",
+      "a": "Yes. Sonic Dash is rated Everyone with mild fantasy violence and has no chat with strangers. It shows ads and sells red rings and characters, so turn on purchase authentication for children."
+    },
+    {
+      "q": "Is Sonic Dash free?",
+      "a": "Yes, it's free to play with ads. Optional in-app purchases from $0.99 to $99.99 buy red rings, characters and bundles."
+    },
+    {
+      "q": "Who is new in Sonic Dash?",
+      "a": "The latest update adds Riders Metal Sonic as a new legendary character."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.sega.sonicdash",
+    "https://www.sega.com/"
+  ],
+  "oldUrls": []
+}

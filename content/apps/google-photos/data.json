@@ -1,0 +1,78 @@
+{
+  "slug": "google-photos",
+  "name": "Google Photos",
+  "shortName": "Google Photos",
+  "packageName": "com.google.android.apps.photos",
+  "type": "app",
+  "category": "photo-editors",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+  "officialUrl": "https://photos.google.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-21",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+    "changelog": [
+      "New storage management tool that surfaces photos and videos you might want to delete, such as blurry shots and screenshots, to free up storage."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-photos/icon.webp",
+  "summary": "The Google Photos APK is the Android app for backing up, organising, searching and editing your photos and videos with your Google account. Google Play updated it on November 21, 2026, with a new storage management tool. It's free, and backups count towards your Google account storage.",
+  "metaDescription": "Google Photos APK download for Android: get the official Google Photos from Google Play, with backup, storage tips, privacy settings and install steps.",
+  "primaryKeyword": "google photos apk",
+  "secondaryKeywords": [
+    "google photos apk download",
+    "google photos for android",
+    "google photos app",
+    "is google photos safe",
+    "google photos storage",
+    "google photos not working"
+  ],
+  "alternatives": [
+    "snapseed",
+    "adobe-lightroom",
+    "picsart"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Google Photos on Android?",
+      "a": "Open Google Play, search for Google Photos and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Google Photos is the official listing."
+    },
+    {
+      "q": "Is Google Photos safe for private photos?",
+      "a": "Photos are stored in your Google account, protected by your account security. For extra privacy, Google Photos has a Locked Folder protected by your screen lock, whose contents don't appear in your main library or backups."
+    },
+    {
+      "q": "Is Google Photos free?",
+      "a": "The app is free. Backups count towards your Google account storage, which includes 15 GB free shared with Gmail and Drive. More storage is available with Google One."
+    },
+    {
+      "q": "How do I free up space in Google Photos?",
+      "a": "The latest update adds a storage management tool that finds photos you might want to delete, such as blurry shots and screenshots. You can also use Free up space to delete phone copies of backed-up photos."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+    "https://photos.google.com/"
+  ],
+  "oldUrls": []
+}

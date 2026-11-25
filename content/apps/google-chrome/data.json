@@ -1,0 +1,78 @@
+{
+  "slug": "google-chrome",
+  "name": "Google Chrome",
+  "shortName": "Chrome",
+  "packageName": "com.android.chrome",
+  "type": "app",
+  "category": "browsers",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.android.chrome",
+  "officialUrl": "https://www.google.com/chrome/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.android.chrome",
+    "changelog": [
+      "Stability and performance improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-chrome/icon.webp",
+  "summary": "The Chrome APK is the Android installer for Google Chrome, Google's web browser with built-in Google Search, sync, Safe Browsing and password manager. Google Play updated it on November 24, 2026, and the version varies by device. Chrome is free and comes preinstalled on most Android phones.",
+  "metaDescription": "Chrome APK download for Android: get the official Google Chrome from Google Play, with install steps, privacy settings and fixes when it's not working.",
+  "primaryKeyword": "chrome apk",
+  "secondaryKeywords": [
+    "chrome apk download",
+    "google chrome for android",
+    "chrome browser app",
+    "is chrome safe",
+    "chrome vs firefox",
+    "chrome not working on android"
+  ],
+  "alternatives": [
+    "firefox",
+    "brave-browser",
+    "duckduckgo-browser"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Chrome on Android?",
+      "a": "Open Google Play, search for Chrome and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Chrome is the official listing."
+    },
+    {
+      "q": "Is Chrome safe to use?",
+      "a": "Yes. Chrome is published by Google LLC, updates automatically through Google Play, and warns you about dangerous sites with Safe Browsing. For more privacy, review Settings → Privacy and security and turn off features you don't need."
+    },
+    {
+      "q": "Chrome vs Firefox: which is better on Android?",
+      "a": "Chrome is fast, syncs with your Google account and comes preinstalled. Firefox blocks more trackers by default and supports many add-ons on Android, including ad blockers."
+    },
+    {
+      "q": "Why is Chrome not working on Android?",
+      "a": "Update Chrome and Android System WebView from Google Play, clear Chrome's cache, and restart the phone. If pages won't load in any app, the problem is your connection."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.android.chrome",
+    "https://www.google.com/chrome/"
+  ],
+  "oldUrls": []
+}

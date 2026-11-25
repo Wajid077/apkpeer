@@ -1,0 +1,78 @@
+{
+  "slug": "google-maps",
+  "name": "Google Maps",
+  "shortName": "Google Maps",
+  "packageName": "com.google.android.apps.maps",
+  "type": "app",
+  "category": "tools",
+  "developer": {
+    "name": "Google LLC",
+    "slug": "google",
+    "url": "https://about.google"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+  "officialUrl": "https://www.google.com/maps",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": false,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+    "changelog": [
+      "Bug fixes to help you discover new places and navigate to them."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/google-maps/icon.webp",
+  "summary": "The Google Maps APK is the Android app for maps, turn-by-turn navigation, public transport, local businesses and Street View. Google Play updated it on November 24, 2026, and the version varies by device. It's free, works offline with downloaded maps, and shows promoted places.",
+  "metaDescription": "Google Maps APK download for Android: get the official Google Maps from Google Play, with offline maps, navigation tips and fixes when it isn't working.",
+  "primaryKeyword": "google maps apk",
+  "secondaryKeywords": [
+    "google maps apk download",
+    "google maps for android",
+    "google maps app",
+    "google maps offline",
+    "is google maps safe",
+    "google maps not working"
+  ],
+  "alternatives": [
+    "google-lens",
+    "google-translate",
+    "google-gemini"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Google Maps on Android?",
+      "a": "Open Google Play, search for Google Maps and check the developer is Google LLC before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Google LLC and may be altered, so the safest way to use Google Maps is the official listing."
+    },
+    {
+      "q": "Can I use Google Maps offline?",
+      "a": "Yes. Download an area in Google Maps (tap your profile picture → Offline maps), and you can search and navigate by car in that area without data."
+    },
+    {
+      "q": "Why is Google Maps not working on Android?",
+      "a": "Check that location is on and set to high accuracy, update Google Maps from Google Play, and clear its cache. For Android Auto issues, reconnect the phone and update Android Auto."
+    },
+    {
+      "q": "Is Google Maps safe for kids?",
+      "a": "Google Maps is rated Everyone. If you use location sharing with family, only share with people you trust, and review who can see your location in the app."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.maps",
+    "https://www.google.com/maps"
+  ],
+  "oldUrls": []
+}

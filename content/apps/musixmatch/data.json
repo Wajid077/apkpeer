@@ -1,0 +1,78 @@
+{
+  "slug": "musixmatch",
+  "name": "Musixmatch Dynamic Lyrics",
+  "shortName": "Musixmatch",
+  "packageName": "com.musixmatch.android.lyrify",
+  "type": "app",
+  "category": "music-audio",
+  "developer": {
+    "name": "Musixmatch",
+    "slug": "musixmatch",
+    "url": "https://www.musixmatch.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+  "officialUrl": "https://www.musixmatch.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "8.5.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-10-26",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+    "changelog": [
+      "Bug fix for Premium subscription purchases."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/musixmatch/icon.webp",
+  "summary": "The Musixmatch APK is the Android installer for Musixmatch Dynamic Lyrics, an app that shows time-synced lyrics for songs playing on your phone and in streaming apps. The latest version is 8.5.0, updated October 26, 2026, and it needs Android 7.0 or newer. It's free with ads, and Premium removes them.",
+  "metaDescription": "Musixmatch APK download for Android: get Musixmatch 8.5.0 from Google Play, with synced and floating lyrics, install steps and fixes for missing lyrics.",
+  "primaryKeyword": "musixmatch apk",
+  "secondaryKeywords": [
+    "musixmatch apk download",
+    "musixmatch for android",
+    "musixmatch lyrics",
+    "is musixmatch free",
+    "musixmatch not showing lyrics",
+    "musixmatch premium"
+  ],
+  "alternatives": [
+    "spotify",
+    "shazam",
+    "youtube-music"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Musixmatch on Android?",
+      "a": "Open Google Play, search for Musixmatch and check the developer is Musixmatch before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Musixmatch and may be altered, so the safest way to use Musixmatch is the official listing."
+    },
+    {
+      "q": "Is Musixmatch free?",
+      "a": "Yes, with ads. Musixmatch Premium, an in-app purchase, removes ads and adds features such as offline lyrics."
+    },
+    {
+      "q": "Why is Musixmatch not showing lyrics?",
+      "a": "Make sure Musixmatch has notification access so it can detect what's playing, that the floating lyrics option is on, and that the song is in Musixmatch's catalogue. Updating both apps helps."
+    },
+    {
+      "q": "Does Spotify use Musixmatch lyrics?",
+      "a": "Spotify's in-app lyrics are provided through a partnership with Musixmatch, so many lyrics you see in Spotify come from Musixmatch's catalogue."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify",
+    "https://www.musixmatch.com/"
+  ],
+  "oldUrls": []
+}

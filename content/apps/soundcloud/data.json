@@ -1,0 +1,78 @@
+{
+  "slug": "soundcloud",
+  "name": "SoundCloud: Discover Music",
+  "shortName": "SoundCloud",
+  "packageName": "com.soundcloud.android",
+  "type": "app",
+  "category": "music-audio",
+  "developer": {
+    "name": "SoundCloud",
+    "slug": "soundcloud",
+    "url": "https://soundcloud.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
+  "officialUrl": "https://soundcloud.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-20",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
+    "changelog": [
+      "Bug fixes and improvements (Play shows no detailed notes for this release)."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/soundcloud/icon.webp",
+  "summary": "The SoundCloud APK is the Android installer for SoundCloud, the music platform where independent artists, DJs and creators upload tracks, mixes and podcasts. Google Play updated it on November 20, 2026, and the version varies by device. It's free with ads, with Go+ for ad-free and offline listening.",
+  "metaDescription": "SoundCloud APK download for Android: get the official SoundCloud app from Google Play, with free vs Go+, uploads for artists and safety tips.",
+  "primaryKeyword": "soundcloud apk",
+  "secondaryKeywords": [
+    "soundcloud apk download",
+    "soundcloud for android",
+    "soundcloud app",
+    "is soundcloud safe",
+    "soundcloud go+",
+    "soundcloud not working"
+  ],
+  "alternatives": [
+    "spotify",
+    "deezer",
+    "youtube-music"
+  ],
+  "faq": [
+    {
+      "q": "How do I install SoundCloud on Android?",
+      "a": "Open Google Play, search for SoundCloud and check the developer is SoundCloud before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from SoundCloud and may be altered, so the safest way to use SoundCloud is the official listing."
+    },
+    {
+      "q": "Is SoundCloud safe for kids?",
+      "a": "SoundCloud is rated Teen. It hosts user uploads, some with explicit content, and comments from other users, so younger listeners should be supervised."
+    },
+    {
+      "q": "What is SoundCloud Go+?",
+      "a": "Go+ is SoundCloud's paid plan for listeners: no ads, offline listening and access to the full catalogue. Artists have separate Artist plans for uploads and tools."
+    },
+    {
+      "q": "Can I upload music to SoundCloud from Android?",
+      "a": "Yes, artists can upload tracks from the app or website, with limits on the free plan and more upload time on Artist plans."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.soundcloud.android",
+    "https://soundcloud.com/"
+  ],
+  "oldUrls": []
+}

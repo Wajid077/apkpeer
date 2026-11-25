@@ -1,0 +1,79 @@
+{
+  "slug": "firefox",
+  "name": "Firefox Fast & Private Browser",
+  "shortName": "Firefox",
+  "packageName": "org.mozilla.firefox",
+  "type": "app",
+  "category": "browsers",
+  "developer": {
+    "name": "Mozilla",
+    "slug": "mozilla",
+    "url": "https://www.mozilla.org"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+  "officialUrl": "https://www.firefox.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": false,
+  "minAndroid": "8.0",
+  "latest": {
+    "version": "160.0.1",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-19",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+    "changelog": [
+      "Local Network Access restrictions are on by default: websites must ask permission before connecting to devices on your local network or to apps and services on the device.",
+      "Fixed non-Latin web addresses."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/firefox/icon.webp",
+  "summary": "The Firefox APK is the Android installer for Firefox, Mozilla's open-source browser with tracking protection, private browsing and add-on support. The latest version is 160.0.1, updated November 19, 2026, and it needs Android 8.0 or newer. Firefox is free, with no ads.",
+  "metaDescription": "Firefox APK download for Android: get Mozilla Firefox 160.0.1 from Google Play, with tracking protection, add-ons, install steps and Firefox vs Chrome.",
+  "primaryKeyword": "firefox apk",
+  "secondaryKeywords": [
+    "firefox apk download",
+    "firefox for android",
+    "firefox browser",
+    "is firefox safe",
+    "firefox vs chrome",
+    "firefox not working"
+  ],
+  "alternatives": [
+    "google-chrome",
+    "brave-browser",
+    "duckduckgo-browser"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Firefox on Android?",
+      "a": "Open Google Play, search for Firefox and check the developer is Mozilla before tapping Install. It needs Android 8.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Mozilla and may be altered, so the safest way to use Firefox is the official listing."
+    },
+    {
+      "q": "Is Firefox safer than Chrome?",
+      "a": "Firefox blocks more trackers by default with Enhanced Tracking Protection and isolates cookies per site. Both browsers get regular security updates. Firefox is made by the non-profit Mozilla and doesn't build an advertising profile of you."
+    },
+    {
+      "q": "Can Firefox for Android use add-ons?",
+      "a": "Yes. Firefox for Android supports many add-ons, including ad blockers like uBlock Origin. Open Menu → Add-ons to browse them."
+    },
+    {
+      "q": "Why is Firefox not working after an update?",
+      "a": "Restart the phone, then check whether an add-on is causing problems by turning add-ons off. If that doesn't help, clear Firefox's cache in Settings → Delete browsing data."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+    "https://www.firefox.com/"
+  ],
+  "oldUrls": []
+}

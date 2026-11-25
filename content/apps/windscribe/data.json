@@ -1,0 +1,79 @@
+{
+  "slug": "windscribe",
+  "name": "Fast VPN & Proxy - Windscribe",
+  "shortName": "Windscribe",
+  "packageName": "com.windscribe.vpn",
+  "type": "app",
+  "category": "vpn",
+  "developer": {
+    "name": "Windscribe",
+    "slug": "windscribe",
+    "url": "https://windscribe.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
+  "officialUrl": "https://windscribe.com/",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "7.0",
+  "latest": {
+    "version": "4.5.2424",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-17",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
+    "changelog": [
+      "Hydra: import a private Hydra server profile and send WireGuard connections through it.",
+      "Faster OpenVPN and IKEv2 with less CPU use in the background."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/windscribe/icon.webp",
+  "summary": "The Windscribe APK is the Android installer for Windscribe, a VPN and proxy app with a free plan, WireGuard and OpenVPN connections and a built-in ad and tracker blocker. The latest version is 4.5.2424, updated November 17, 2026, and it needs Android 7.0 or newer. It's free, with Pro plans in the app.",
+  "metaDescription": "Windscribe APK download for Android: get Windscribe VPN 4.5.2424 from Google Play, with the free plan explained, protocols, install steps and safety tips.",
+  "primaryKeyword": "windscribe apk",
+  "secondaryKeywords": [
+    "windscribe apk download",
+    "windscribe for android",
+    "windscribe vpn",
+    "is windscribe safe",
+    "windscribe free",
+    "windscribe vs nordvpn"
+  ],
+  "alternatives": [
+    "proton-vpn",
+    "cloudflare-warp",
+    "turbo-vpn"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Windscribe on Android?",
+      "a": "Open Google Play, search for Windscribe and check the developer is Windscribe before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Windscribe and may be altered, so the safest way to use Windscribe is the official listing."
+    },
+    {
+      "q": "Is Windscribe safe to use?",
+      "a": "Windscribe is a long-running VPN from a Canadian company, with WireGuard, OpenVPN and IKEv2 support and a no-logs policy. Install it only from Google Play or windscribe.com."
+    },
+    {
+      "q": "Is Windscribe free?",
+      "a": "Yes. The free plan includes a monthly data allowance and a limited choice of locations. Pro plans, sold in the app, remove the limits."
+    },
+    {
+      "q": "Why is Windscribe not working with streaming services?",
+      "a": "Streaming services actively block VPN servers. Results vary by server, and using a VPN to access content may break a service's terms."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
+    "https://windscribe.com/"
+  ],
+  "oldUrls": []
+}

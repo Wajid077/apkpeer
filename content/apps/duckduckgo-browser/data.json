@@ -1,0 +1,78 @@
+{
+  "slug": "duckduckgo-browser",
+  "name": "DuckDuckGo, optional Duck.ai",
+  "shortName": "DuckDuckGo",
+  "packageName": "com.duckduckgo.mobile.android",
+  "type": "app",
+  "category": "browsers",
+  "developer": {
+    "name": "DuckDuckGo",
+    "slug": "duckduckgo",
+    "url": "https://duckduckgo.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+  "officialUrl": "https://duckduckgo.com/app",
+  "price": "Free",
+  "containsAds": false,
+  "inAppPurchases": true,
+  "minAndroid": "9",
+  "latest": {
+    "version": "5.304.0",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+    "changelog": [
+      "Bug fixes and other improvements."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/duckduckgo-browser/icon.webp",
+  "summary": "The DuckDuckGo APK is the Android installer for the DuckDuckGo private browser, with tracker blocking, private search, the one-tap Fire Button and optional Duck.ai chat. The latest version is 5.304.0, updated November 24, 2026, and it needs Android 9 or newer. It's free, with an optional paid subscription.",
+  "metaDescription": "DuckDuckGo APK download for Android: get DuckDuckGo 5.304.0 from Google Play, with tracker blocking, the Fire Button, Duck.ai and install steps.",
+  "primaryKeyword": "duckduckgo apk",
+  "secondaryKeywords": [
+    "duckduckgo apk download",
+    "duckduckgo for android",
+    "duckduckgo browser",
+    "is duckduckgo safer than google",
+    "duck.ai",
+    "duckduckgo not working"
+  ],
+  "alternatives": [
+    "firefox",
+    "brave-browser",
+    "google-chrome"
+  ],
+  "faq": [
+    {
+      "q": "How do I install DuckDuckGo on Android?",
+      "a": "Open Google Play, search for DuckDuckGo and check the developer is DuckDuckGo before tapping Install. It needs Android 9 or newer. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from DuckDuckGo and may be altered, so the safest way to use DuckDuckGo is the official listing."
+    },
+    {
+      "q": "Is DuckDuckGo safer than Google?",
+      "a": "DuckDuckGo doesn't build a profile of your searches and blocks many trackers in its browser. Google offers more personalised results. For privacy, DuckDuckGo collects far less about you."
+    },
+    {
+      "q": "What is Duck.ai?",
+      "a": "Duck.ai is DuckDuckGo's optional AI chat, which lets you use AI models anonymously. It's optional and can be hidden in settings."
+    },
+    {
+      "q": "Is DuckDuckGo free?",
+      "a": "Yes. The browser and search are free. An optional subscription adds a VPN and identity-protection services in some countries."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+    "https://duckduckgo.com/app"
+  ],
+  "oldUrls": []
+}

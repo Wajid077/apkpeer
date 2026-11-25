@@ -1,0 +1,78 @@
+{
+  "slug": "deezer",
+  "name": "Deezer: Music & Podcast Player",
+  "shortName": "Deezer",
+  "packageName": "deezer.android.app",
+  "type": "app",
+  "category": "music-audio",
+  "developer": {
+    "name": "Deezer Music",
+    "slug": "deezer",
+    "url": "https://www.deezer.com"
+  },
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=deezer.android.app",
+  "officialUrl": "https://www.deezer.com/",
+  "price": "Free",
+  "containsAds": true,
+  "inAppPurchases": true,
+  "minAndroid": null,
+  "latest": {
+    "version": "Varies with device",
+    "versionCode": null,
+    "size": null,
+    "releaseDate": "2026-11-24",
+    "sha256": null,
+    "certSha256": null,
+    "selfHosted": false,
+    "source": "https://play.google.com/store/apps/details?id=deezer.android.app",
+    "changelog": [
+      "Fewer bugs and a more reliable app."
+    ]
+  },
+  "versions": [],
+  "permissions": [],
+  "screenshots": [],
+  "icon": "/apps/deezer/icon.webp",
+  "summary": "The Deezer APK is the Android installer for Deezer, a music and podcast streaming app with personalised Flow mixes and high-quality audio on paid plans. Google Play updated it on November 24, 2026, and the version varies by device. It has a free tier with ads in some countries and paid plans.",
+  "metaDescription": "Deezer APK download for Android: get the official Deezer music app from Google Play, with Flow, HiFi audio, free vs paid plans and install steps.",
+  "primaryKeyword": "deezer apk",
+  "secondaryKeywords": [
+    "deezer apk download",
+    "deezer for android",
+    "deezer music app",
+    "is deezer safe",
+    "deezer vs spotify",
+    "deezer not working"
+  ],
+  "alternatives": [
+    "spotify",
+    "youtube-music",
+    "soundcloud"
+  ],
+  "faq": [
+    {
+      "q": "How do I install Deezer on Android?",
+      "a": "Open Google Play, search for Deezer and check the developer is Deezer Music before tapping Install. Google Play only shows the Install button if your phone is compatible. It's free to install, and Play keeps it updated automatically. Avoid copies from other sites: they aren't from Deezer Music and may be altered, so the safest way to use Deezer is the official listing."
+    },
+    {
+      "q": "Is Deezer free?",
+      "a": "Deezer has a free tier with ads in some countries, with limits on skipping and offline listening. Paid plans remove ads and add offline downloads and high-quality audio."
+    },
+    {
+      "q": "Is Deezer safe for kids?",
+      "a": "Deezer is rated Teen because some songs have explicit lyrics. Family plans include a Kids profile with content made for children."
+    },
+    {
+      "q": "Deezer vs Spotify: which is better?",
+      "a": "Deezer offers lossless HiFi audio and the Flow mix; Spotify has a bigger podcast library and more social features. Both have large music catalogues."
+    }
+  ],
+  "published": "2026-11-25",
+  "updated": "2026-11-25",
+  "reviewedBy": "APKPeer Editorial Team",
+  "sources": [
+    "https://play.google.com/store/apps/details?id=deezer.android.app",
+    "https://www.deezer.com/"
+  ],
+  "oldUrls": []
+}

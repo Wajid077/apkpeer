@@ -17,29 +17,48 @@
   "inAppPurchases": true,
   "minAndroid": "5.0",
   "latest": {
-    "version": "4.6.0",
+    "version": "4.7.0",
     "versionCode": null,
     "size": null,
-    "releaseDate": "2026-09-18",
+    "releaseDate": "2026-11-03",
     "sha256": null,
     "certSha256": null,
     "selfHosted": false,
     "source": "https://play.google.com/store/apps/details?id=com.tencent.ig",
     "changelog": [
-      "Version 4.6 adds the Midnight Hunters mode: a vampire-themed Hunters vs. Vampires battle."
+      "Version 4.7: the Arctic Chronicles themed mode and Erangel Subzero.",
+      "A brand-new PvE mode and WOW Brainrot snowy gameplay.",
+      "Improvements to the basic experience and a Bentley supercar collaboration."
     ]
   },
-  "versions": [],
+  "versions": [
+    {
+      "version": "4.6.0",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-09-18",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+      "changelog": [
+        "Version 4.6 adds the Midnight Hunters mode: a vampire-themed Hunters vs. Vampires battle."
+      ]
+    }
+  ],
   "permissions": [],
   "screenshots": [],
   "icon": "/apps/pubg-mobile/icon.webp",
-  "summary": "PUBG Mobile is the official mobile version of PUBG: Battlegrounds, a free battle royale where up to 100 players fight to be the last one standing. The latest PUBG Mobile APK is version 4.6.0, updated September 18, 2026, and needs Android 5.0 or newer. It's free to play, with ads and in-app purchases.",
-  "metaDescription": "Get the official PUBG Mobile APK 4.6.0 for Android 5.0+. The Midnight Hunters update, game modes, storage tips, install steps and account safety notes.",
+  "summary": "The PUBG Mobile APK is the official Android installer for PUBG Mobile, the 100-player battle royale published by Level Infinite. The latest version is 4.7.0, updated November 3, 2026, with the Arctic Chronicles mode and Erangel Subzero, and it needs Android 5.0 or newer. It's free to play.",
+  "metaDescription": "PUBG Mobile APK download for Android: get the official PUBG Mobile 4.7.0 with Arctic Chronicles from Google Play, plus install steps, tips and safety.",
   "primaryKeyword": "pubg mobile apk",
   "secondaryKeywords": [
-    "pubg mobile download",
-    "pubg mobile 4.6 update",
-    "pubg mobile for android"
+    "pubg mobile apk download",
+    "pubg mobile for android",
+    "pubg mobile 4.7",
+    "is pubg mobile safe",
+    "pubg mobile vs free fire",
+    "bgmi"
   ],
   "alternatives": [
     "free-fire",
@@ -48,28 +67,24 @@
   ],
   "faq": [
     {
-      "q": "How do I install PUBG Mobile on Android?",
-      "a": "Open Google Play, search for PUBG Mobile and check the developer is Level Infinite before tapping Install. It needs Android 5.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from Level Infinite and may be altered, so the safest way to play PUBG Mobile is the official listing."
+      "q": "Is PUBG Mobile safe for kids?",
+      "a": "Google Play rates PUBG Mobile Teen. It has realistic shooting and voice chat with strangers, so younger children should play with chat off and with parental controls on spending."
     },
     {
-      "q": "Is PUBG Mobile free?",
-      "a": "Yes. PUBG Mobile is free to download and play. It earns money from in-app purchases of UC, its premium currency, used for the Royale Pass, skins and crates; Google Play lists them from $0.29 to $199.99 per item. Some purchases include random items. Paid items are cosmetic and don't change weapon stats."
+      "q": "What's new in PUBG Mobile 4.7?",
+      "a": "Version 4.7 adds the Arctic Chronicles themed mode, Erangel Subzero, a new PvE mode, WOW Brainrot snowy gameplay, basic experience improvements and a Bentley supercar collaboration."
     },
     {
-      "q": "Is PUBG Mobile available in India?",
-      "a": "The global PUBG Mobile app isn't the version for India. Players there use Battlegrounds Mobile India (BGMI), a separate official game from Krafton with its own servers and accounts. Installing the global PUBG Mobile APK in India isn't the supported route."
+      "q": "Why is PUBG Mobile banned in India?",
+      "a": "PUBG Mobile was banned in India in 2020. Players in India use Battlegrounds Mobile India (BGMI), a separate KRAFTON game with its own Play listing."
     },
     {
-      "q": "How much storage does PUBG Mobile need?",
-      "a": "PUBG Mobile downloads extra game data after installing, and optional resource packs for maps and high-quality graphics add more. Google Play doesn't show the size on the web, so check the download prompt in the game. You can delete unused resource packs in the game's settings."
-    },
-    {
-      "q": "Who makes PUBG Mobile?",
-      "a": "PUBG Mobile is developed by Tencent's Lightspeed Studios under license from Krafton, which owns PUBG, and published globally on Google Play by Level Infinite, Tencent's games publishing brand. It launched on Google Play in March 2018. Updates arrive roughly every two months with a new version number."
+      "q": "PUBG Mobile vs Free Fire: which needs a better phone?",
+      "a": "PUBG Mobile needs a stronger phone for smooth play, with more storage and RAM. Free Fire is lighter and runs well on low-cost phones."
     }
   ],
   "published": "2026-11-03",
-  "updated": "2026-11-03",
+  "updated": "2026-11-25",
   "reviewedBy": "APKPeer Editorial Team",
   "sources": [
     "https://play.google.com/store/apps/details?id=com.tencent.ig",

@@ -17,32 +17,50 @@
   "inAppPurchases": true,
   "minAndroid": "7.0",
   "latest": {
-    "version": "3.71.0",
+    "version": "3.72.0",
     "versionCode": null,
     "size": null,
-    "releaseDate": "2026-10-29",
+    "releaseDate": "2026-11-20",
     "sha256": null,
     "certSha256": null,
     "selfHosted": false,
     "source": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
     "changelog": [
-      "The World Tour heads to Shenzhen for the Shenzhen Showdown, with new characters Wu Jade & Ling and Meihua.",
-      "A new season of challenges and rewards.",
-      "Complete the Season Hunt Challenge to unlock Meihua, and the Floor is Lava Challenge to unlock Meihua's Bao Bao Outfit.",
-      "Singles' Day and Kindness Day bundles."
+      "The Crew heads to Las Vegas for a new Season with Balatro: meet the Mega Character Queen of Cards and the legendary Jimbo.",
+      "Take on the Season Hunt to win the Joker Board and Grand Juke's Jackpot Outfit."
     ]
   },
-  "versions": [],
+  "versions": [
+    {
+      "version": "3.71.0",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-10-29",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+      "changelog": [
+        "The World Tour heads to Shenzhen for the Shenzhen Showdown, with new characters Wu Jade & Ling and Meihua.",
+        "A new season of challenges and rewards.",
+        "Complete the Season Hunt Challenge to unlock Meihua, and the Floor is Lava Challenge to unlock Meihua's Bao Bao Outfit.",
+        "Singles' Day and Kindness Day bundles."
+      ]
+    }
+  ],
   "permissions": [],
   "screenshots": [],
   "icon": "/apps/subway-surfers/icon.webp",
-  "summary": "Subway Surfers is a free endless runner from SYBO Games where you dash along train tracks, dodging trains and escaping the Inspector and his dog. The latest Subway Surfers APK is version 3.71.0, updated October 29, 2026, with the Shenzhen World Tour, and needs Android 7.0 or newer. It's free with ads and in-app purchases.",
-  "metaDescription": "Get the official Subway Surfers APK 3.71.0 for Android 7.0+. The Shenzhen Showdown World Tour update, new characters, install steps and safety notes.",
+  "summary": "The Subway Surfers APK is the official Android installer for SYBO's endless runner, where you dodge trains and collect coins. The latest version is 3.72.0, updated November 20, 2026, with a Las Vegas season and a Balatro collaboration, and it needs Android 7.0 or newer. It's free with ads.",
+  "metaDescription": "Subway Surfers APK download for Android: get the official Subway Surfers 3.72.0 (Las Vegas season) from Google Play, with tips, fixes and install steps.",
   "primaryKeyword": "subway surfers apk",
   "secondaryKeywords": [
-    "subway surfers download",
-    "subway surfers new update",
-    "subway surfers world tour"
+    "subway surfers apk download",
+    "subway surfers for android",
+    "subway surfers game",
+    "is subway surfers safe",
+    "subway surfers vs temple run",
+    "subway surfers update"
   ],
   "alternatives": [
     "temple-run-2",
@@ -51,28 +69,24 @@
   ],
   "faq": [
     {
-      "q": "How do I install Subway Surfers on Android?",
-      "a": "Open Google Play, search for Subway Surfers and check the developer is SYBO Games before tapping Install. It needs Android 7.0 or newer. It's free to install, and Play keeps it updated automatically, so you never need to download an APK by hand. Avoid copies from other sites: they aren't from SYBO Games and may be altered, so the safest way to play Subway Surfers is the official listing."
+      "q": "Is Subway Surfers safe for kids?",
+      "a": "Yes. Subway Surfers is rated Everyone and has no chat with strangers. It shows ads and sells optional coins and keys, so turn on Google Play's purchase authentication for young children."
     },
     {
-      "q": "Is Subway Surfers free?",
-      "a": "Yes, Subway Surfers is free to download and play. It shows ads, including optional ones you can watch for rewards, and sells in-app purchases from $0.99 to $99.99 per item on Google Play, such as keys, coins and character bundles. Some purchases include random items."
+      "q": "Why is Subway Surfers so laggy?",
+      "a": "Close other apps, lower the graphics quality in settings if available, free up storage and restart the phone. Updating to the latest version also fixes many performance problems."
     },
     {
-      "q": "Can you play Subway Surfers offline?",
-      "a": "Yes. The endless run works without an internet connection, which makes it a good game for travel. Online features, such as daily challenges, events, leaderboards and saving progress to your account, need a connection, and some seasonal content only unlocks online."
+      "q": "Why is Subway Surfers not updating?",
+      "a": "Check that Google Play auto-update is on and that you have enough free storage. Then open the Play listing and tap Update."
     },
     {
-      "q": "What is the Subway Surfers World Tour?",
-      "a": "The World Tour is how Subway Surfers changes setting. Every few weeks, an update moves the game to a new city with its own look, characters and challenges. Update 3.71.0 takes the crew to Shenzhen for the Shenzhen Showdown, with new characters Wu Jade & Ling and Meihua."
-    },
-    {
-      "q": "What Android version does Subway Surfers need?",
-      "a": "Subway Surfers 3.71.0 needs Android 7.0 or newer, according to its Google Play listing. It's a light game that runs well on most budget phones. If your phone is older, Google Play won't offer the current version. It also needs some free storage for its seasonal updates."
+      "q": "Subway Surfers vs Temple Run: which is better?",
+      "a": "Subway Surfers has a new season every few weeks with new cities, characters and boards. Temple Run 2 is a classic endless runner with simpler, quicker runs."
     }
   ],
   "published": "2026-11-03",
-  "updated": "2026-11-03",
+  "updated": "2026-11-25",
   "reviewedBy": "APKPeer Editorial Team",
   "sources": [
     "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",

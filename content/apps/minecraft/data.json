@@ -17,29 +17,46 @@
   "inAppPurchases": true,
   "minAndroid": "8.0",
   "latest": {
-    "version": "1.26.60.4",
+    "version": "1.26.66.1",
     "versionCode": null,
     "size": null,
-    "releaseDate": "2026-10-21",
+    "releaseDate": "2026-11-18",
     "sha256": null,
     "certSha256": null,
     "selfHosted": false,
     "source": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
     "changelog": [
-      "Version 26.60: various bug fixes."
+      "Version 26.66: various bug fixes."
     ]
   },
-  "versions": [],
+  "versions": [
+    {
+      "version": "1.26.60.4",
+      "versionCode": null,
+      "size": null,
+      "releaseDate": "2026-10-21",
+      "sha256": null,
+      "certSha256": null,
+      "selfHosted": false,
+      "source": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
+      "changelog": [
+        "Version 26.60: various bug fixes."
+      ]
+    }
+  ],
   "permissions": [],
   "screenshots": [],
   "icon": "/apps/minecraft/icon.webp",
-  "summary": "Minecraft is Mojang's sandbox game for building, exploring and surviving in endless block worlds, alone or with friends. The latest Minecraft APK is version 1.26.60.4, updated October 21, 2026, and needs Android 8.0 or newer. It costs $6.99 on Google Play, with optional Marketplace purchases and no ads.",
-  "metaDescription": "Get the official Minecraft APK 1.26.60 for Android 8.0+, $6.99 on Google Play. Survival vs Creative, cross-play with friends, Realms, and install steps.",
+  "summary": "The Minecraft APK is the official Android version of Minecraft (Bedrock Edition) from Mojang, the sandbox game for building, exploring and surviving. The latest version is 1.26.66.1, updated November 18, 2026, and needs Android 8.0 or newer. It costs $6.99 on Google Play, with no ads.",
+  "metaDescription": "Minecraft APK download for Android: get the official Minecraft 1.26.66 from Google Play ($6.99), with install steps, kids safety and cross-play tips.",
   "primaryKeyword": "minecraft apk",
   "secondaryKeywords": [
-    "minecraft download",
+    "minecraft apk download",
+    "minecraft for android",
     "minecraft pocket edition",
-    "minecraft bedrock android"
+    "is minecraft safe for kids",
+    "minecraft vs roblox",
+    "minecraft bedrock"
   ],
   "alternatives": [
     "minecraft-trial",
@@ -48,28 +65,24 @@
   ],
   "faq": [
     {
-      "q": "How do I install Minecraft on Android?",
-      "a": "Open Google Play, search for Minecraft and check the developer is Mojang before tapping the price button. It needs Android 8.0 or newer. It costs $6.99 on Google Play, and once bought it's tied to your Google account, so you can reinstall it on any phone for free. Avoid copies from other sites: they aren't from Mojang and may be altered, so the safest way to play Minecraft is the official listing."
+      "q": "How much is Minecraft on Android?",
+      "a": "Minecraft costs $6.99 on Google Play in the US, as a one-time purchase; prices vary by country. A free Minecraft Trial lets you try it first."
     },
     {
-      "q": "How much does Minecraft cost on Android?",
-      "a": "Minecraft costs $6.99 on Google Play in the US; prices vary by country. It's a one-time purchase, with optional in-app purchases from $0.99 to $49.99 per item for Marketplace content and Minecoins. There's also a free Minecraft Trial with limited play time."
+      "q": "Is Minecraft safe for kids to play?",
+      "a": "Yes. Minecraft is rated Everyone 10+ and can be played fully offline. For online play, use Microsoft Family Safety to control who children can play and chat with."
     },
     {
-      "q": "Can I play Minecraft on Android with friends on Xbox or PC?",
-      "a": "Yes. The Android version is Minecraft Bedrock Edition, which supports cross-play with Bedrock on Xbox, PlayStation, Nintendo Switch, Windows and iPhone. Sign in with a free Microsoft account to join friends. It can't join Java Edition servers."
+      "q": "Is Minecraft safer than Roblox?",
+      "a": "Minecraft is easier to control because it can be played offline or only with invited friends. Roblox is built around online play with strangers, so it needs more parental settings."
     },
     {
-      "q": "Is Minecraft on Android the full game?",
-      "a": "Yes. The Google Play version is the full Bedrock Edition, with Survival, Creative and Adventure modes, the Nether, the End, multiplayer and the Marketplace. It was once called Pocket Edition, but now matches other Bedrock platforms."
-    },
-    {
-      "q": "What is Minecraft Realms?",
-      "a": "Realms is Mojang's paid subscription for private servers that are always online, so friends can join your world even when you're not playing. You can also play with friends for free on the same Wi-Fi network or by joining each other's worlds through Xbox friends."
+      "q": "Why is Minecraft Bedrock laggy on my phone?",
+      "a": "Lower the render distance and turn off fancy graphics in Video settings, close other apps, and free up storage. Large worlds with many redstone machines are heavier on phones."
     }
   ],
   "published": "2026-11-04",
-  "updated": "2026-11-04",
+  "updated": "2026-11-25",
   "reviewedBy": "APKPeer Editorial Team",
   "sources": [
     "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
